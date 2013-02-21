@@ -1,0 +1,2986 @@
+OAKB;Khwaja Rawash, Kabul, Afghanistan
+LATI;Rinas, Tirana, Albania
+DAAG;Houari Bournediene, Algiers, Algeria
+DAAJ;Inedbirenne, Djanet, Algeria
+DAAT;Aguenna, Tamanrasset, Algeria
+DABB;Les Salines, Annaba, Algeria
+DABC;Ain EI Bey, Constantine, Algeria
+DAOB;Bouchekif, Tiaret, Algeria
+DAOO;Es Senia, Oran, Algeria
+DAOR;Leger, Bechar, Algeria
+DAUG;Nournerate, Ghardaia, Algeria
+DAUH;Oued lrara Apt, Hassi Messaoud, Algeria
+DAUL;L'Mekrareg, Laghouat, Algeria
+DAUO;Guemar, El Oued, Algeria
+DAUU;Ain Beida, Ouargla, Algeria
+FNBG;GV Deslandes, Benguela, Angola
+FNHU;Huambo Nova Lisboa, Huambo, Angola
+FNLU;4 de Fevereiro, Luanda, Angola
+SAAC;Concordia Aerodrome, Concordia, Argentina
+SAAJ;Junin Aerodrome, Junin, Argentina
+SAAP;Parana Aerodrome, Parana, Argentina
+SAAR;Fisherton, Rosario, Argentina
+SABE;Airport Jorge Newbery, Buenos Aires, Argentina
+SACO;Pajas Blancas, Cordoba, Argentina
+SADL;La Plata Aerodrome, La Plata, Argentina
+SAEZ;Ministro Pistarini, Buenos Aires, Argentina
+SAME;EI Plumerillo, Mendoza, Argentina
+SAMI;Chapelco, San Martin Del-os Andes, Argentina
+SAMM;Malargue Aerodrome, Malargue, Argentina
+SAMR;San Rafael Aerodrome, San Rafael, Argentina
+SAMS;International, San Carlos DeBariloche, Argentina
+SANE;Santiago Del Estero Aerodrome, Santiago Del Estero, Argentina
+SANT;Benj Matienzo, Tueuman, Argentina
+SANU;San Juan Aerodrome, San Juan, Argentina
+SAOC;Rio Cuarto Aerodrome, Rio Cuarto, Argentina
+SAOD;Villa Dolores Aerodrome, Villa Dolores, Argentina
+SAOU;San Luis Aerodrome, San Luis, Argentina
+SARC;Camba Punta, Corrientes, Argentina
+SARE;Resistencia Aerodrome, Resistencia, Argentina
+SARF;EI Pucu, Formosa, Argentina
+SARI;Cataratas del Iguazu, lguazu, Argentina
+SARL;Paso De Los Libres Aerodrome, Paso De Los Libres, Argentina
+SARM;Seelb, Monte Caseros, Argentina
+SARP;Posadas Aerodrome, Posadas, Argentina
+SARS;Presidencia Roque Saenz Pena Aerodrome, Pres. Roque Saenz Pena, Argentina
+SASA;Gen Belgrano, Salta, Argentina
+SASJ;El Cadilial, Jujuy, Argentina
+SASO;Oran Aerodrome, Oran, Argentina
+SAST;Tartagal Aerodrome, Tartagal, Argentina
+SAVC;Comodoro Rivadavia Aerodrome, Comodoro Rivadavia, Argentina
+SAVO;San Antonio Oeste Aerodrome, San Antonio Oeste, Argentina
+SAVT;Trelew Aerodrome, Trelew, Argentina
+SAVV;Viedma Aerodrome, Viedma, Argentina
+SAVY;El Tehuelche, Puerto Madryn, Argentina
+SAWA;Lago Argentino Aerodrome, Lago Argentina, Argentina
+SAWD;Puerto Deseado Aerodrome, Puerto Deseado, Argentina
+SAWG;Internacional, Rio Gallegos, Argentina
+SAWH;Islas Malvinas, Ushuaia, Argentina
+SAWJ;San Julian Aerodrome, San Julian, Argentina
+SAWP;Perito Moreno Aerodrome, Perito Moreno, Argentina
+SAWU;Santa Cruz Aerodrome, Santa Cruz, Argentina
+SAZB;Comandante, Bahia Blanca, Argentina
+SAZM;Mar Del Plata Aerodrome, Mar Del Plata, Argentina
+SAZP;Pehuajo Aerodrome, Pehuajo, Argentina
+SAZR;Santa Rosa Aerodrome, Santa Rosa, Argentina
+SAZT;Tandil Aerodrome, Tandil, Argentina
+UDYZ;Zvartnots, Yerevan, Armenia
+TNCA;Reina Beatrix, Aruba, Aruba
+YAYE;Connellan, Ayers Rock, Australia
+YBBN;International, Brisbane, Australia
+YBCG;Coolangatta, Gold Coast, Australia
+YMAV;Avalon Airport, Avalon, Australia
+YMML;Tullarnarine, Melbourne, Australia
+YPBH;Patton Street, Broken Hill, Australia
+YPGV;Nhulunbuy, Gove, Australia
+YPKG;Boulder, Kalgoorlie, Australia
+YPPD;Pardoo, Port Hedland, Australia
+YPPH;Belmont Perth Airport, Perth, Australia
+YPTN;Tindal, Katherine, Australia
+YSNW;Ran Air Station, Nowra, Australia
+YSSY;Kingsford Smith, Sydney, Australia
+YSWG;Forrest Hill, Wagga Wagga, Australia
+YTEF;Telfer Airport, Telfer, Australia
+YWLM;Williamtown, Newcastle, Australia
+LOWG;Thalerhof, Graz, Austria
+LOWI;Kranebitten, Innsbruck, Austria
+LOWL;Hoersching, Linz, Austria
+LOWS;W.A. Mozart, Salzburg, Austria
+LOWW;Schwechat, Vienna, Austria
+UBBB;Bine Airport, Baku, Azerbaijan
+UBBB;Heydar Aliyev International Airport, Baku, Azerbaijan
+MYGF;Freeport International Airport, Freeport, Bahamas
+OBBI;Bahrain International Airport, Bahrain, Bahrain
+VGEG;Patenga, Chittagong, Bangladesh
+VGSY;Civil, Syllnet, Bangladesh
+VGTJ;Zia Intemational, Dhaka, Bangladesh
+UMMM;Minsk International 1, Minsk, Belarus
+UMMS;Minsk International 2, Minsk, Belarus
+EBAW;Deurne, Antwerp, Belgium
+EBBR;National, Brussels, Belgium
+EBCI;Charleroi Brussels South, Brussels, Belgium
+EBGT;Industrie-Zone, Ghent, Belgium
+EBKT;Wevelgem, Kortrijk, Belgium
+EBLG;Bierset, Liege, Belgium
+EBOS;Ostend International Airport, Ostend, Belgium
+MZBZ;Philip S.W.Goldson International, Belize City, Belize
+DBBB;Cadjehoun, Cotonou, Benin
+TXKF;Bermuda International / Hamilton, Bermuda, Bermuda
+SLAS;Ascencion De Guarayos, Ascension, Bolivia
+SLCB;J Wilsterman, Cochabamba, Bolivia
+SLCO;E. Beltram, Cobija, Bolivia
+SLET;El Trompillo, Santa Cruz, Bolivia
+SLJE;San Jose De Chiquitos, San Jose, Bolivia
+SLLP;El Alto, La Paz, Bolivia
+SLRI;Gen Buech, Riberalta, Bolivia
+SLSA;Yacuma, Santa Aria, Bolivia
+SLSB;Capitan G Q Guardia, San Borja, Bolivia
+SLVR;Viru Viru International, Santa Cruz, Bolivia
+LQSA;Butmir, Sarajevo, Bosnia Hercegovina
+LQTZ;Tuzla International, Tuzla, Bosnia Hercegovina
+FBSK;Sir Seretse Khama International, Gaborone, Botswana
+FBTL;Limpopo Valley International, Tuli Lodge, Botswana
+SBBE;Val De Cans, Belem, Brazil
+SBBR;Kubitschek Intl Col Francisco, Brasilia, Brazil
+SBCG;Internacional, Campo Grande, Brazil
+SBCJ;Maraba, Carajas, Brazil
+SBCP;Bartolomeu Lisandro, Campos, Brazil
+SBCR;Internacional, Corumba, Brazil
+SBCT;Afonso Pena, Curitiba, Brazil
+SBCY;M. Rondon, Cuiaba, Brazil
+SBCZ;Campo Internacional, Cruzeiro Do Sul, Brazil
+SBDN;A. De Barros, Presidente Prudente, Brazil
+SBFL;Hercilio Luz, Florianopolis, Brazil
+SBFZ;Pinto Martins, Fortaleza, Brazil
+SBGL;Galeao-Antonio C Jobim International, Rio de Janeiro, Brazil
+SBGO;Santa Genoveva, Goiania, Brazil
+SBGR;Guarulhos International, Sao Paulo, Brazil
+SBJF;Francisco De Assis, Juiz De Fora, Brazil
+SBJP;Castro Pinto, Joato Pessoa, Brazil
+SBJU;Regional Do Carin, Juazeiro Do Norte, Brazil
+SBKG;Joao Suassuna, Campina Grande, Brazil
+SBKP;Viracopos International, Campinas, Brazil
+SBMN;Eduardo Gomes Intl, Manaus, Brazil
+SBMO;Palmares, Maceio, Brazil
+SBMQ;Internacional, Macapa, Brazil
+SBNT;Augusto Severo, Natal, Brazil
+SBPA;Salgado Filhe, Porto Alegre, Brazil
+SBPB;Santos Dumont, Parnailba, Brazil
+SBPG;Municipal, Paranagua, Brazil
+SBPK;Federal, Pelotas, Brazil
+SBPL;Internacional, Petrolina, Brazil
+SBPP;International, Ponta Pora, Brazil
+SBPV;Belmonte, Porto Velho, Brazil
+SBRB;Pres. Medici, Rio Branco, Brazil
+SBRF;Guararapes Intl, Recife, Brazil
+SBRJ;Santos Dumont, Rio de Janeiro, Brazil
+SBSL;Mal. Cunha Machado, Sao Luiz, Brazil
+SBSM;Base Aerea, Santa Maria, Brazil
+SBSN;Eduardo Gomes, Santarem, Brazil
+SBSP;Congonhas, Sao Paulo, Brazil
+SBSV;Arpt Luis R. Magalhaes, Salvador, Brazil
+SBTT;Internacional, Tabatinga, Brazil
+SBUA;Da Cachoeira, Sao Gabriel, Brazil
+SBUG;Ruben Berta, Uruguaiana, Brazil
+SBUL;Eduardo Gomes, Uberlandia, Brazil
+SBVT;Euroo Sales, Vitoria, Brazil
+SWPI;Amazonas, Parintins, Brazil
+WBSB;Brunei International, Bandar Seri Begawan, Brunei
+LBSF;Vrazhdebna, Sofia, Bulgaria
+DFFD;Aeroport, Ouagadougou, Burkina Faso
+DFOO;Borgo, Bobo Dioulasso, Burkina Faso
+HBBA;International, Bujumbura, Burundi
+VDPP;Pochentong, Phnom-Penh, Cambodia
+FKKA;Salam, Maroua, Cameroon
+FKKY;Yaciunde Airport, Yaounde, Cameroon
+FKYS;Nsimalen, Yaounde, Cameroon
+CYAW;Shearwater, Halifax, Canada
+CYAZ;Tofino Airport, Tofino, Canada
+CYBB;Townsite Arpt, Pelly Bay, Canada
+CYBW;Springbank, Calgary, Canada
+CYDF;Nfld., Deer Lake, Canada
+CYDP;Nfld., Nain, Canada
+CYED;Namao Fld, Edmonton, Canada
+CYEG;International, Edmonton, Canada
+CYHU;Saint Hubert Airport, Montreal, Canada
+CYHZ;Halifax International, Halifax, Canada
+CYKZ;Buttonville, Toronto, Canada
+CYLW;Kelowna Airport, Kelowna, Canada
+CYMX;Mirabel, Montreal, Canada
+CYOS;Billy Bishop Regional, Owen Sound, Canada
+CYOW;International, Ottawa, Canada
+CYPR;Digby Island, Prince Rupert, Canada
+CYRO;Rockcliffe St, Ottawa, Canada
+CYSL;St. Leonard Airport, Saint Leonard, Canada
+CYTZ;Toronto Island, Toronto, Canada
+CYUL;Pierre Elliot Trudeau International, Montreal, Canada
+CYVM;Broughton Island Airport, Broughton Island, Canada
+CYVR;Vancouver Intl, Vancouver, Canada
+CYWG;International, Winnipeg, Canada
+CYYJ;International, Victoria, Canada
+CYYZ;Pearson International, Toronto, Canada
+CZEM;East Main River Airport, East Main River, Canada
+CZFM;Fort McPherson Airport, Fort McPherson, Canada
+CZFN;Tulita, Tulita/Fort Norman, Canada
+CZUM;Nfld., Churchill Falls, Canada
+GVAC;Amilcar Cabrai International, Sal, Cape Verde Islands
+SCAR;Chacalluta, Arica, Chile
+SCBA;Teniente Vicial, Balmaceda, Chile
+SCCI;Pres Ibanez, Punta Arenas, Chile
+SCCY;Ten. Vidal, Coyhaique, Chile
+SCEL;Arturo Merino Benitez, Santiago, Chile
+SCHA;Chamonate, Copiapo, Chile
+SCIE;Carriel Sur, Concepcion, Chile
+SCSE;La Florida, La Serena, Chile
+SCVD;Pichoy, Valdivia, Chile
+ZBAA;Capital, Beijing, China
+ZBTJ;Zhangguizhu, Tianjin, China
+ZGCS;Huanghua, Changsha, China
+ZLXY;Xianyang, Xi An, China
+ZPPP;Wujiaba, Kunming, China
+ZSPD;Pu Dong, Shanghai, China
+ZSSS;Hongqiao, Shanghai, China
+ZWWW;Diwopu, Urum-Qi, China
+ZYTX;Taokian, Shenyang, China
+SKAR;El Eden, Armenia, Colombia
+SKBG;Palo Negro, Bucaramanga, Colombia
+SKBO;Eldorado, Bogota, Colombia
+SKBQ;Ernesto Cortissoz, Barranquilla, Colombia
+SKCC;Camilo Daza, Cucuta, Colombia
+SKCG;Rafael Nunez, Cartagena, Colombia
+SKCL;Alfonso Bonilla Aragon, Cali, Colombia
+SKLT;Gen. A.V. Cobo, Leticia, Colombia
+SKPC;A. Guauquea, Puerto Carreno, Colombia
+SKPE;Matecana, Pereira, Colombia
+SKRH;Almirante Padilla, Riohacha, Colombia
+SKSM;Simon Bolivar, Santa Marta, Colombia
+SKSP;Gustavo Rojas Pinilla, San Andres Island, Colombia
+SKUC;Santiago Perez, Arauca, Colombia
+SKUI;El Carano, Quibdo, Colombia
+SKVP;Alfonso Lopez, Valledupar, Colombia
+SKVV;La Vanguardia, Villavicencio, Colombia
+FCBB;Maya-Maya, Brazzaville, Congo
+FCBY;Yokangassi, Nkayi, Congo
+FZAA;N'Djili, Kinshasa, Congo, The Democratic Republic of
+FZSA;Base, Kamina, Congo, The Democratic Republic of
+MRNC;Guanacaste, Nicoya, Costa Rica
+MROC;Juan Santamaria Intl, San Jose, Costa Rica
+DIAP;Felix Houphouet Boigirly, Abidjan, Cote D'Ivoire
+DIBN;Tehini, Bouna, Cote D'Ivoire
+DIBU;Soko, Bondaukou, Cote D'Ivoire
+DIDK;Ville, Dimbokro, Cote D'Ivoire
+DITM;Mahana, Touba, Cote D'Ivoire
+LDDU;Cilipi, Dubrovnik, Croatia
+LDLO;Losinj Arpt, Mali Losinj, Croatia
+LDPL;Zraèna luka Pula, Pula, Croatia
+LDRI;Omisalj, Rijeka, Croatia
+LDSB;Zraèna luka Braè, Braè, Croatia
+LDSP;Kastela, Split, Croatia
+LDZA;Pleso, Zagreb, Croatia
+LDZD;Zemunik, Zadar, Croatia
+MUBY;C.M. de Cespedes, Bayamo, Cuba
+MUCA;Maximo Gomez, Ciego De Avila, Cuba
+MUCF;Las Villas, Cienfuegos, Cuba
+MUCM;Ign Agramonte Intl, Camaguey, Cuba
+MUCU;Antonio Maceo, Santiago, Cuba
+MUGM;Guantanamo NAS, Guantanamo, Cuba
+MUGT;Los Canos, Guantanamo, Cuba
+MUHA;Jose Marti Intl, Havana, Cuba
+MUHG;Frank Pais, Holguin, Cuba
+MUMZ;Sierra Maestra, Manzanillo, Cuba
+MUNG;Rafael Cabrera, Nueva Gerona/Isla De Pinos, Cuba
+MUVR;Juan Gualberto Gomez, Varadero/Matanzas, Cuba
+LCLK;Larnaka, Larnaca, Cyprus
+LCPH;Paphos International, Paphos, Cyprus
+LCRA;RAF Akrotiri, Akrotiri, Cyprus
+LKHO;Holesov, Zlin, Czech Republic
+LKMT;Mosnov, Ostrava, Czech Republic
+LKPR;Ruzyne, Prague, Czech Republic
+LKTB;Turany, Brno, Czech Republic
+EKAH;Tirstrup, Aarhus, Denmark
+EKBI;Billund Airport, Billund, Denmark
+EKCH;Kastrup, Copenhagen, Denmark
+EKKA;Military, Karup, Denmark
+EKLS;Laeso Airport, Laeso Island, Denmark
+EKMB;Lufthavn, Maribo, Denmark
+EKOD;Beldringe, Odense, Denmark
+EKRK;Roskilde, Copenhagen, Denmark
+EKSA;Private Aerodrome, Saeby / Ottestrup, Denmark
+EKSB;Lufthavn, Sonderborg, Denmark
+EKSN;Flyveplads, Sindal, Denmark
+EKSP;Military, Vojens / Skrydstrup, Denmark
+EKSV;Skive Airport, Skive, Denmark
+EKTS;Lufthavn, Thisted, Denmark
+EKVJ;Lufthavn, Stauning, Denmark
+EKYT;Civil/Military, Aalborg, Denmark
+HDAM;Ambouli, Djibouti, Djibouti
+TDCF;Cane Field Airport, Dominica, Dominica
+TDPD;Melville Hall Airport, Dominica, Dominica
+MDHE;Herrera, Santo Domingo, Dominican Republic
+MDLR;La Romana International Airport, La Romana, Dominican Republic
+MDPP;La Union, Puerto Plata, Dominican Republic
+MDSD;De Las Americas International, Santo Domingo, Dominican Republic
+MDST;Municipal, Santiago, Dominican Republic
+SEAM;Chachoan, Ambato, Ecuador
+SECU;Mariscal Lamar, Cuenca, Ecuador
+SEGU;Simon Bolivar, Guayaquil, Ecuador
+SEMA;J. M. Velasco I., Macara, Ecuador
+SEMH;General M. Serrano, Machala, Ecuador
+SEPA;Rio Amazonas, Pastaza, Ecuador
+SEQU;Mariscal Sucre, Quito, Ecuador
+SESA;General Ulpiano Paez, Salinas, Ecuador
+SETU;El Rosal, Tulcan, Ecuador
+HEAX;Nouzha, Alexandria, Egypt
+HEBA;Borg El Arab Airport, Alexandria, Egypt
+HECA;International, Cairo, Egypt
+HEDK;Dakhla, Dakhla Oasis, Egypt
+HESH;Ophira, Sharm El Sheikh, Egypt
+HETB;Talba International, Taba, Egypt
+MSSS;Ilopango, San Salvador, El Salvador
+HHAS;Asmara International, Asmara, Eritrea
+EETN;Ulemiste, Tallinn, Estonia
+EETR;Raadi, Tartu, Estonia
+HAAB;Bole, Addis Ababa, Ethiopia
+HADR;Aba Tenna D Yilma, Dire Dawa, Ethiopia
+HAGH;Ginir, Ghinnir, Ethiopia
+HAJJ;Jigiga, Jijag, Ethiopia
+HASO;Asosa, Assosa, Ethiopia
+NFFN;Nadi International, Nandi, Fiji
+NFMA;Mana Island Airstrip, Mana Island, Fiji
+NFNB;Levuka Airfield, Bureta, Fiji
+NFNU;Dama, Bua, Fiji
+NFSU;Nausori, Suva, Fiji
+EFHF;Malmi, Helsinki, Finland
+EFHK;Vantaa, Helsinki, Finland
+EFKE;Tornio, Kemi, Finland
+EFKK;Kruunupyy, Kokkola / Pietarsaari, Finland
+EFMA;Aland Island, Mariehamn, Finland
+EFSI;llmajoki, Seinäjoki, Finland
+EFTP;Pirkkala, Tampere, Finland
+LFAB;Saint Aubin, Dieppe, France
+LFAD;Margny, Compiegne, France
+LFAF;Chambry, Laon, France
+LFAK;Ghyvelde, Dunkerque, France
+LFAT;Le Touquet, Paris, France
+LFAY;Glisy, Amiens, France
+LFBA;La Garenne, Agen, France
+LFBD;Merignac, Bordeaux, France
+LFBE;Roumanieres, Bergerac, France
+LFBG;Chateau Bernard, Cognac, France
+LFBH;Laleu, La Rochelle, France
+LFBI;Biard, Poitiers, France
+LFBK;Gueret (Lepaud), Montlucon, France
+LFBL;Bellegarde, Limoges, France
+LFBN;Souche, Niort, France
+LFBO;Blagnac, Toulouse, France
+LFBP;Uzein, Pau, France
+LFBT;Tarbes Ossun Lourdes, Lourdes/Tarbes, France
+LFBU;Brie-Champniers, Angouleme, France
+LFBV;Laroche, Brive-La-Gaillarde, France
+LFBX;Bassillac, Perigueux, France
+LFBY;Seyresse, Dax, France
+LFBZ;Biarritz Parme, Biarritz, France
+LFCA;Targe, Chatellerault, France
+LFCC;Laberande, Cahors, France
+LFCE;Saint Laurent, Gueret, France
+LFCH;Teste de Buch, Arcachon, France
+LFCI;Le Sequestre, Albi, France
+LFCK;Mazamet, Castres, France
+LFCR;Marcillac, Rodez, France
+LFCY;Medis, Royan, France
+LFDI;Artiques de Lussac, Libourne, France
+LFDM;Virazeil, Marmande, France
+LFDN;Saint Agnant, Rochefort, France
+LFDS;Domme, Sarlat, France
+LFDT;Laloubere, Tarbes, France
+LFGJ;Aéroport de Dole-Tavaux, Dole, France
+LFHP;Loudes, Le Puy, France
+LFJL;Metz-Nancy-Lorraine, Metz / Nancy, France
+LFJM;Marce, Angers, France
+LFKB;Poretta, Bastia, France
+LFKC;Ste Catherine, Calvi, France
+LFKF;Sud Corse, Figari, France
+LFKJ;Campo Dell Oro, Ajaccio, France
+LFLA;Auxerre Branches, Auxerre, France
+LFLB;Aix-Les-Bains, Chambery, France
+LFLC;Auvergne Airport, Clermont-Ferrand, France
+LFLL;Satolas, Lyon, France
+LFLN;Charolais Bourgogne S., Saint Yan, France
+LFLS;Saint Geoirs, Grenoble, France
+LFLV;Charmeil, Vichy, France
+LFLY;Bron, Lyon, France
+LFMD;Mandelieu, Cannes, France
+LFMH;Boutheon, St. Etienne, France
+LFMK;Salvaza, Carcassonne, France
+LFML;Marignane, Marseille, France
+LFMN;Cote D'Azur, Nice, France
+LFMP;Llabanere, Perpignan, France
+LFMT;Frejorgues, Montpellier, France
+LFMU;Vias, Beziers, France
+LFMV;Avignon-Caum, Avignon, France
+LFNB;Brenoux, Mende, France
+LFOB;Beauvais-Tille Airport, Paris, France
+LFOH;Octeville, Le Havre, France
+LFOP;Boos, Rouen, France
+LFOT;St Symphorien, Tours, France
+LFPB;Le Bourget, Paris, France
+LFPC;AFB, Creil, France
+LFPG;Charles De Gaulle, Paris, France
+LFPI;Heliport De Paris, Paris, France
+LFPO;Orly, Paris, France
+LFQQ;Lesquin, Lille, France
+LFRB;Guipavas, Brest, France
+LFRC;Maupertus, Cherbourg, France
+LFRD;Pleurtuit, Dinard, France
+LFRG;St. Gatien, Deauville, France
+LFRK;Carpiquet, Caen, France
+LFRM;Arnage, Le Mans, France
+LFRN;St Jacques, Rennes, France
+LFRO;Servel, Lannion, France
+LFRQ;Pluguffan, Quimper, France
+LFRS;Nantes Atlantique, Nantes, France
+LFRU;Ploujean, Morlaix, France
+LFRV;Meucon, Vannes, France
+LFRZ;Montoir, St. Nazaire, France
+LFSB;EuroAirport, Mulhouse/Basel, France
+LFSF;Frescaty, Metz, France
+LFSG;Mirecourt, Epinal, France
+LFSN;Essey, Nancy, France
+LFSQ;Fontaine, Belfort, France
+LFST;Entzineim, Strasbourg, France
+LFTW;Garons, Nimes, France
+LFTZ;La Mole, Saint Tropez, France
+NTAA;Faaa/Tahiti, Papeete, French Polynesia
+NTHE;Ahe Airport, Ahe, French Polynesia
+NTTB;Motu-mute, Bora Bora, French Polynesia
+NTTG;Tuamoto Island, Rangiroa, French Polynesia
+NTTH;Flying Boat, Huahine, French Polynesia
+NTTM;Ternae, Moorea, French Polynesia
+FOON;Francevilie/Mvengue, Franceville, Gabon
+UGGG;Novo Alexeyevka, Tbilisi, Georgia
+UGKK;Central, Kutaisi, Georgia
+UGKO;Kopitnari, Kutaisi, Georgia
+UGSB;Chorokhi, Batumi, Georgia
+UGSS;Babusheri, Sukhumi, Georgia
+EDAC;Altenburg Nobitz, Altenburg, Germany
+EDBG;RAF Gatow, Berlin, Germany
+EDDB;Schoenefeld, Berlin, Germany
+EDDC;Klotzsche, Dresden, Germany
+EDDE;Bindersleben, Erfurt, Germany
+EDDF;International, Frankfurt, Germany
+EDDG;Osnabrueck, Muenster, Germany
+EDDH;Fuhlsbuettel, Hamburg, Germany
+EDDI;Tempelhof, Berlin, Germany
+EDDK;Konrad Adenauer, Cologne / Bonn, Germany
+EDDL;Dusseldorf International, Dusseldorf, Germany
+EDDM;Franz Josef Strauss, Munich, Germany
+EDDP;Halle, Leipzig, Germany
+EDDR;Ensheim, Saarbruecken / Saarbrücken, Germany
+EDDS;Echterdingen, Stuttgart, Germany
+EDDT;Tegel, Berlin, Germany
+EDFH;Hahn, Frankfurt, Germany
+EDFM;Mannheim Airport, Neuostheim / Mannheim, Germany
+EDHI;Finkenwerder, Hamburg, Germany
+EDHK;Holtenau Civilian, Kiel, Germany
+EDHL;Blankensee, Luebeck, Germany
+EDKB;Bonn-Hangelar, Cologne / Bonn, Germany
+EDLN;Monchen-Gladbach - Dusseldorf Express, Dusseldorf, Germany
+EDLP;Lippstadt, Paderborn, Germany
+EDLV;Weeze, Weeze / Niederrhein, Germany
+EDLW;Wickede, Dortmund, Germany
+EDMA;Muhlhausen, Augsburg, Germany
+EDOL;Rhein-Main AFB, Frankfurt, Germany
+EDQD;Bindlacher-Berg, Bayreuth, Germany
+EDSB;Soellinger, Karlsruhe / Baden Baden, Germany
+EDVK;Calden, Kassel, Germany
+EDWD;Lemwerder Airport, Lemwerder, Germany
+EDXW;Sylt, Westerland, Germany
+ETBA;Merzbruck, Aachen, Germany
+ETEB;Katterbach, Ansbach, Germany
+ETHE;Bentlage, Rheine, Germany
+ETHF;Fritziar Airbase, Fritziar, Germany
+ETHT;Flugplatz, Cottbus, Germany
+ETNL;Laane, Rostock-Laage, Germany
+ETOU;Air Base, Wiesbaden, Germany
+ETUL;R.A.F. Laarbruch, Laarbruch, Germany
+ETUR;R.A.F., Brueggen, Germany
+DGAA;Kotoka, Accra, Ghana
+LXGB;North Front, Gibraltar, Gibraltar
+LGAD;Andravida, Pyrgos, Greece
+LGAL;Demokritos Airport, Alexandroupolis, Greece
+LGAT;Hellinikon, Athens / Athinai, Greece
+LGAV;Eleftherios Venizelos International, Athens / Athinai, Greece
+LGHI;Khios, Chios, Greece
+LGHL;Alexion, Porto Cheli Kheli, Greece
+LGIK;Ikaria, lkaria Island, Greece
+LGIR;Iraklio - Nikos Kazantzakis, Heraklion, Greece
+LGKA;Aristotelis, Kastoria, Greece
+LGKF;Argostolion, Kefalhnia, Greece
+LGKO;Ippokratis, Kos, Greece
+LGKR;Ioannis Kapodistrias, Kerkyra / Corfu, Greece
+LGKV;Megas Alexandros, Kavala / Chrysoupoli, Greece
+LGKZ;Filippos, Kozani, Greece
+LGMT;Odysseas, Mytilini, Greece
+LGPL;Astypalaia, Astypalaia Island, Greece
+LGPZ;Aktion, Preveza/Lefkas, Greece
+LGRP;Diagoras / Paradisi, Rhodes, Greece
+LGRX;Patrai, Araxos, Greece
+LGSA;Khania, Souda, Greece
+LGTS;Makedonia Airport, Thessaloniki, Greece
+LGVO;Nea Anchialos, Volos, Greece
+LGZA;Dionysios Solomos, Zakinthos Island, Greece
+BGGD;Heliport, Groennedal, Greenland
+TGPY;Point Saline International, Grenada, Grenada
+TFFR;Le Raizet, Pointe A Pitre, Guadeloupe
+PGUA;Anderson AFB, Guam, Guam
+PGUM;A.B. Won Pat International, Guam, Guam
+MGFL;Santa Elena, Flores, Guatemala
+MGGT;Aeropuerto La Aurora, Guatemala City, Guatemala
+GUCY;Gbessia, Conakry, Guinea
+GUFH;Badala, Faranah, Guinea
+SYGT;Cheddi Jagan Infl, Georgetown, Guyana
+MHLC;Goloson International, La Ceiba, Honduras
+MHLM;Ramon Villeda Morales, San Pedro Sula, Honduras
+MHTG;Toncontin, Tegucigalpa, Honduras
+VHHH;Chek Lap Kok, Hong Kong, Hong Kong
+LHBP;Ferihegy, Budapest, Hungary
+LHPP;Pogany, Pecs, Hungary
+LHPP;Pogany, Pecs, Hungary
+LHPR;Gyõr-Pér Airport, Gyor, Hungary
+LHSM;Sarmellek/Balaton, Saarmelleek, Hungary
+BIKF;Keflavik International, Reykjavik, Iceland
+BIKR;Comalapa International, Saudarkrokur, Iceland
+BIRK;Reykjavik Domestic, Reykjavik, Iceland
+BIVO;Skjaldthingsstadir, Vopnafjordur, Iceland
+VABB;Santacruz, Mumbai / Bombay, India
+VABM;Sambra, Belgaum, India
+VABP;Bairagarh, Bhopal, India
+VAGO;Dabolim Airport, Goa, India
+VEAT;Singerbhil, Agartala, India
+VECC;Netaji Subhas Chandra, Calcutta, India
+VEGT;Borlhar, Gauhati, India
+VEJS;Sonari, Jamshedpur, India
+VIAG;Kheria, Agra, India
+VIAR;Raja Sansi, Amritsar, India
+VIBN;Babatpur, Varanasi, India
+VICX;Chakeri, Kanpur, India
+VIDP;Indira Gandhi International, New Delhi, India
+VIJP;Sanganeer, Jaipur, India
+VILK;Amausi, Lucknow, India
+VOBG;Hindustan, Bangalore, India
+VOBZ;Gannavaram, Vijayawada, India
+VOCB;Peelamedu, Coimbatore, India
+VOCC;Willingdon, Cochin, India
+VOHY;Begumpet Airport, Hyderabad, India
+VOML;Balpe, Mangalore, India
+WAAA;Hasanudin, Ujung Pandang, Indonesia
+WAAB;Beto Ambiri, Baubau, Indonesia
+WAWW;Wolter Monginsidi, Kendan, Indonesia
+WABB;Mokmer, Biak, Indonesia
+WABN;Timuka, Kokonao, Indonesia
+WABO;Yendosa, Serui, Indonesia
+WADD;Ngurah Rai Airport / Bali International Airport, Denpasar Bali, Indonesia
+WAJJ;Sentani, Jayapura, Indonesia
+WAJW;Wamena, Wamena, Indonesia
+WAKK;Mopah, Merauke, Indonesia
+WAKT;Tanah Merah, Tanah Merah, Indonesia
+WAMA;Gamarmalamu, Galela, Indonesia
+WAMI;Lalos, Tolitoli, Indonesia
+WAML;Mutiara, Palu, Indonesia
+WAMP;Kasiguncu, Poso, Indonesia
+WAMT;Babullah, Ternate, Indonesia
+WAMW;Bubung, Luwuk, Indonesia
+WAPH;Taliabu, Labuha, Indonesia
+WAPP;Pattimura, Ambon, Indonesia
+WASF;Torea, Fak Fak, Indonesia
+WASK;Utarom, Kaimana, Indonesia
+WASR;Rendani, Manokwari, Indonesia
+WASS;Jefman, Sorong, Indonesia
+WIAA;Cut Bau, Sabang, Indonesia
+WIAM;Cibeureum, Tasikmalaya, Indonesia
+WIAS;Abdul Rahkmansaleh, Malang, Indonesia
+WIDD;HaNadirr,, Batam, Indonesia
+WIDN;Kidjang, Tanjung Pinang, Indonesia
+WIIB;Husein Sastranegara, Bandung, Indonesia
+WIII;Soekarno-Hatta International, Jakarta, Indonesia
+WIIL;Tunggul Wuiung, Cilacap, Indonesia
+WARS;Achmad Uani, Semarang, Indonesia
+WIKD;Bulutumbang, Tanjung Pandan, Indonesia
+WIKK;Pangkalpinang, Pangkalpinang, Indonesia
+WIKS;Dabo, Singkep, Indonesia
+WIMB;Binaka, Gunungsitoli, Indonesia
+WIMG;Tabing, Padang, Indonesia
+WIMM;Polonia, Medan, Indonesia
+WIOK;Rahadi Usmaman, Ketapang, Indonesia
+WIOO;Supadio, Pontianak, Indonesia
+WIPA;Sultan Taha Syarifudn, Jambi, Indonesia
+WIPH;Depati Parbo, Kerinci, Indonesia
+WIPL;Padangkemiling, Bengkulu, Indonesia
+WITM;Malikussaleh, Lhoksumawe, Indonesia
+WITT;Blang Bintang, Banda Aceh, Indonesia
+WAOO;Sjamsudin Noor, Banjarmasin, Indonesia
+WRBI;Iskandar, Pangkalan Bun, Indonesia
+WRBP;Panarung, Palangkaraya, Indonesia
+WRKC;Waioti, Maumere, Indonesia
+WATT;El Tari, Kupang, Indonesia
+WRLB;Juvai Semaring, Long Bawan, Indonesia
+WALL;Sepingan, Balikipapan, Indonesia
+WALR;Juwata, Tarakan, Indonesia
+WRLS;Temindung, Samarinda, Indonesia
+WRRW;Mau Hau, Waingapu, Indonesia
+WARR;Juanda, Surabaya, Indonesia
+OIIE;Imam Khomain, Tehran, Iran
+OIII;Tehran-Mehrabad International, Tehran, Iran
+ORBB;AI Muthana, Baghdad, Iraq
+ORBI;Baghdad International, Baghdad, Iraq
+ORBM;Mosul AB, Mosul, Iraq
+ORER;Erbil International Airport, Erbil International Airport Erbil, Iraq
+ORKK;Kirkuk AB, Kirkuk, Iraq
+ORMM;Basrah International, Basrah, Iraq
+EICM;Cammore, Galway, Ireland
+EIIM;Kilronan, Inishmore, Ireland
+EIKN;Knock International, Connaught, Ireland
+EIKY;Kerry County Airport, Kerry County, Ireland
+EISG;Collooney, Sligo, Ireland
+LLBG;Ben-Gurion International Airport, Tel Aviv, Israel
+LLET;J. Hozman, Eilat, Israel
+LLHA;U Michaeli, Haifa, Israel
+LLIB;Mahanaim-I.Ben-Yaakov, Rosh Pina, Israel
+LLSD;Sde Dov, Tel Aviv Yafo, Israel
+LIBD;Palese Macchie, Bari, Italy
+LIBF;Gino Lisa, Foggia, Italy
+LIBN;Galatina, Lecce, Italy
+LIBP;Liberi, Pescara, Italy
+LIBR;Papola Casale, Brindisi, Italy
+LICA;S. Eufemia, Lamezia-Terme, Italy
+LICB;AS USAF, Comiso, Italy
+LICC;Fontanarossa, Catania, Italy
+LICJ;Punta Raisi, Palermo, Italy
+LICR;Tito Menniti, Reggio Calabria, Italy
+LICT;Birgi, Trapani, Italy
+LIED;Ratsu Decimomannu, Decimomannu, Italy
+LIEE;Elmas, Cagliari, Italy
+LIEO;Costa Smeralda, Olbia, Italy
+LIMC;Malpensa, Milan, Italy
+LIME;Bergamo - Orio Alserio, Milan, Italy
+LIMF;Caselle, Turin / Torino, Italy
+LIMJ;Sestri, Genoa, Italy
+LIML;Linate, Milan, Italy
+LIMP;Parma, Milan, Italy
+LIMW;Corrado Gex, Aosta, Italy
+LIMZ;Levaldigi, Cuneo, Italy
+LIPD;Campoformido, Udine, Italy
+LIPE;Guglielmo Marconi, Bologna, Italy
+LIPH;Treviso S. Angelo, Venice/Treviso, Italy
+LIPK;Luigi Ridolfi, Forli, Italy
+LIPL;Ghedi, Brescia, Italy
+LIPQ;Ronchi Dei Legionari Airport, Trieste, Italy
+LIPR;Miramare, Rimini, Italy
+LIPX;Villafranca, Verona, Italy
+LIPY;Falconara, Ancona, Italy
+LIPZ;Tessera, Venezia, Italy
+LIRA;Ciampino, Rome, Italy
+LIRF;Fiumicino, Rome, Italy
+LIRN;Capodichino, Naples, Italy
+LIRP;Gal Galilei, Florence / Pisa, Italy
+LIRQ;Peretola, Florence, Italy
+LIRS;Baccarini, Grosseto, Italy
+LIRZ;Sant Egidio, Perugia, Italy
+MKJP;Norman Manley, Kingston, Jamaica
+MKJS;Sangster Intl, Montego Bay, Jamaica
+MKTP;Tinson, Kingston, Jamaica
+RJAA;Narita, Tokyo, Japan
+RJAW;Iwo Jima Airbase, Iwo Jima Vol, Japan
+RJBB;Kansai International, Osaka, Japan
+RJCC;Chitose, Sapporo, Japan
+RJCW;Hokkaido, Wakkanai, Japan
+RJFR;Kokura, Fukuoka / Kita Kyushu, Japan
+RJNN;Central Japan International Airport / Chubi Kokusai Kuko, Nagoya, Japan
+RJOA;International, Hiroshima, Japan
+RJOI;Marine Corps Air Station, Iwakuni, Japan
+RJOO;Itami, Osaka, Japan
+RJSC;Junmachi, Yamagata, Japan
+RJSF;Fukushima Airport, Fukushima, Japan
+RJTA;United States Naval Air Station, Atsugi, Japan
+RJTQ;Hirara, Miyake Jima, Japan
+RJTT;Haneda, Tokyo, Japan
+RJTY;Yokota AFB, Tokyo, Japan
+ROYN;Yonaguni Airport, Yonaguni Jima, Japan
+OJAI;Queen Alia International, Amman, Jordan
+OJAM;Civil - Marka Airport, Amman, Jordan
+OJAQ;King Hussein International Airport, Aqaba, Jordan
+OJBD;Off-Line Pt (MET), Irbid, Jordan
+OJMF;King Hussein (RJAF), Mafraq, Jordan
+UACC;Astana International, Astana, Kazakhstan
+UAAH;Balkhash International, Balkhash, Kazakstan
+UATG;Atyrau Airport, Atyrau, Kazakstan
+HKMO;Moi International, Mombasa, Kenya
+HKNA;Jomo Kenyatta Intl, Nairobi, Kenya
+HKNW;Wilson, Nairobi, Kenya
+NGTA;Bonriki, Tarawa, Kiribati
+ZKPY;Sunan, Pyongyang, Korea, Democratic People's Republic of
+RKJJ;Air Base, Kwangju, Korea, Republic of
+RKJK;Air Base, Kunsan, Korea, Republic of
+RKNC;Air Base, Chun Chon City, Korea, Republic of
+RKNN;Air Base, Kangnung, Korea, Republic of
+RKPC;Cheju International Airport, Cheju, Korea, Republic of
+RKPK;Kimhae International Airport, Pusan, Korea, Republic of
+RKSI;Incheon International Airport, Seoul, Korea, Republic of
+RKSO;Air Base, Osan, Korea, Republic of
+RKSS;Kimp'O International Airport, Seoul, Korea, Republic of
+RKSY;Seoul Air Base, Seoul, Korea, Republic of
+RKTH;Air Base, Pohang, Korea, Republic of
+RKTN;Air Base, Taegu, Korea, Republic of
+RKTU;Air Base, Chongju, Korea, Republic of
+RKTY;Air Base, Yechon, Korea, Republic of
+OKBK;International, Kuwait, Kuwait
+UAFM;Manas / Frunze, Bishkek, Kyrgyzstan
+VLVT;Wattav, Vientiane, Lao People's Democratic Republic
+EVLA;International Airport, Liepaya, Latvia
+EVRA;International Airport, Riga, Latvia
+OLBA;International, Beirut, Lebanon
+OLKA;Kleyate, Tripoli, Lebanon
+FXMM;Moshoeshoe Intl, Maseru, Lesotho
+HLLT;Tripoli International Airport, Tripoli, Libya
+EYKA;International, Kaunas, Lithuania
+EYPA;International Airport, Palanga, Lithuania
+EYSA;International, Siauliai, Lithuania
+EYVI;International, Vilnius, Lithuania
+ELLX;Luxembourg, Luxembourg, Luxembourg
+VMMC;Macau, Taipa / Macau, Macau
+LWSK;Petrovec, Skopje, Macedonia
+FMMI;Ivato, Antananarivo, Madagascar
+FMNH;Antsirabato, Antalaha, Madagascar
+FMNM;Amborovy, Majunga, Madagascar
+FWKI;Lilongwe International Airport, Lilongwe, Malawi
+WMKC;Pengkalan Chepa, Kota Bharu, Malaysia
+WMKJ;Sultan Ismail Intl, Johor Bahru, Malaysia
+WMKK;Sepang International, Kuala Lumpur, Malaysia
+WMKM;Batu Berenclum, Malacca, Malaysia
+WMKN;Sultan Mahmood, Kuala Terengganu, Malaysia
+WMKP;Penang International, Penang, Malaysia
+WMSA;Sultan Abdul Aziz Shah, Kuala Lumpur, Malaysia
+VRMM;International, Male, Maldives
+GABS;Senou, Bamako, Mali
+LMML;International Airport, Malta, Malta
+PKWA;Bucholz AAF, Kwajalein, Marshall Islands
+GQPA;Mouakchott, Atar, Mauritania
+FIMP;S.Seewoosagur Ram. Intl, Mauritius, Mauritius
+MMAA;G. Alvarez International, Acapulco, Mexico
+MMAS;Aguascalients, Aguascalientes, Mexico
+MMCC;International, Ciudad Acuna, Mexico
+MMCL;Fedl De Bachigualato, Culiacan, Mexico
+MMCP;Campeche International, Campeche, Mexico
+MMCS;International Abraharn Gonzaiez, Ciudad Juarez, Mexico
+MMCU;Gen Fierro Villalobos, Chihuahua, Mexico
+MMDO;Guadalupe Victoria, Durango, Mexico
+MMGL;Don Miguel Hidalgo International Airport, Guadalajara, Mexico
+MMGM;Gen Jose M Yanez, Guaymas, Mexico
+MMGT;Del Bajic, León / Guanajuato, Mexico
+MMHO;Gen Pesqueira Garcia, Hermosillo, Mexico
+MMLM;Federal, Los Mochis, Mexico
+MMLP;Leon, La Paz, Mexico
+MMMA;Matamoros International, Matamoros, Mexico
+MMMD;Rejon, Merida, Mexico
+MMML;Mexicali International Airport, Mexicali, Mexico
+MMMX;Juarez International, Mexico City, Mexico
+MMMY;Gen Mariano Escobedo, Monterrey, Mexico
+MMMZ;Gen Ralael Bueina, Mazatlan, Mexico
+MMNL;Intl Quetzaicoatl, Nuevo Laredo, Mexico
+MMOX;Xoxocotlan, Oaxaca, Mexico
+MMPB;Huejotsingo, Puebla, Mexico
+MMPN;Gral. Ignacio Lopez Rayon International Airport, Uruapan, Mexico
+MMPR;Ordaz, Puerto Vallarta, Mexico
+MMRX;Gen Lucio Blanco, Reynosa, Mexico
+MMSD;Los Cabos, San Jose del Cabo, Mexico
+MMTC;Torreón International Airport, Torreón, Mexico
+MMTG;Francisco Sarabia Airport, Tuxtia Gutierrez, Mexico
+MMTJ;Gral. Abelardo Rodriguez International Airport, Tijuana, Mexico
+MMTM;Gen F Javier Mina, Tampico, Mexico
+MMTO;Lic. Adolfo Lopez Mateis International Airport, Toluca, Mexico
+MMTP;International, Tapachula, Mexico
+MMTU;Tulum Naval Base, Tulum, Mexico
+MMUN;Cancun International Airport, Cancun, Mexico
+MMVA;Capitan Carlos Perez, Villahermosa, Mexico
+MMVR;General Heriberto Jara International Airport, Veracruz, Mexico
+MMZC;Gral. Leobardo Ruiz International Airport, Zacatecas, Mexico
+MMZH;Internacional, Ixtapa/Zihuatanejo, Mexico
+MMZO;Manzanillo International, Manzanillo, Mexico
+PTSA;Kosrae East, Kusrae Island, Micronesia
+LUKK;Chisinau International Airport, Chisinau, Moldova, Republic of
+ZMUB;Buyant Uhaa, Ulaanbaatar, Mongolia
+LYTV;Tivat, Tivat, Montenegro
+GMAD;Agadir Almassira, Agadir, Morocco
+GMFF;Sais, Fez, Morocco
+GMFO;Les Angades, Oujda, Morocco
+GMMC;Anfa, Casablanca, Morocco
+GMME;Sale, Rabat, Morocco
+GMMN;Mohamed V, Casablanca, Morocco
+GMMX;Menara, Marrakeeh, Morocco
+GMMY;NAF, Kenitra, Morocco
+GMTA;Charif AI ldrissi, Al Hoceima, Morocco
+GMTN;Sania Ramel, Tetuan, Morocco
+GMTT;Boukhalef, Tangier, Morocco
+FQMA;Mavalane Maputo International, Maputo, Mozambique
+FQTE;Matunda, Tete, Mozambique
+VYMD;Annisaton, Mandalay, Myanmar
+VYSW;Civil, Sittwe, Myanmar
+VYYY;Mingaladon, Yangon, Myanmar
+FAWW;Eros, Windhoek, Namibia
+FYKT;J.G.H. Van Der Wath, Keetmanshoop, Namibia
+FYLZ;Diaz Point, Luderitz, Namibia
+FYWH;Hosea Kutako Int'I, Windhoek, Namibia
+ANAU;International, Nauru Island, Nauru
+VNBR;Balura Arpt, Bajura, Nepal
+VNKT;Tribhuvan, Kathmandu, Nepal
+EHAM;Schiphol, Amsterdam, Netherlands
+EHBK;Maastricht Aachen, Maastricht, Netherlands
+EHEH;Eindhoven Airport, Eindhoven, Netherlands
+EHGG;Eelde, Groningen, Netherlands
+EHGR;Gilze-Rijen, Breda, Netherlands
+EHKD;De Kooy, Den Helder, Netherlands
+EHRD;Zestienhoven, Rotterdam, Netherlands
+EHSB;Soesterberg, Utrecht, Netherlands
+EHTW;Twente, Enschede, Netherlands
+EHVB;Valkenburg, Leiden, Netherlands
+EHWO;Bergen Op Zoom, Woensdrecht, Netherlands
+TNCB;Flamingo International, Bonaire, Netherlands Antilles
+TNCC;Aeropuerto Hato, Curacao, Netherlands Antilles
+TNCE;F D Roosevelt Airport, St Eustatius, Netherlands Antilles
+TNCM;Prince Juliana Airport, St Maarten, Netherlands Antilles
+TNCS;J. Yrausquin, Saba Island, Netherlands Antilles
+NWWW;Tontouta Airport, Nourrea, New Caledonia
+NZAA;International, Auckland, New Zealand
+NZAS;Ashburton, Ashburton, New Zealand
+NZCH;International, Christchurch, New Zealand
+NZCI;Karewa, Chatham Island, New Zealand
+NZDN;Dunedin Aerodrome, Dunedin, New Zealand
+NZGS;Gisborne Aerodrome, Gisborne, New Zealand
+NZHK;Hokitika Aerodrome, Hokitika, New Zealand
+NZMC;Mount Cook Airport, Mount Cook, New Zealand
+NZNP;New Plymouth Aerodrome, New Plymouth, New Zealand
+NZNR;Hawkes Bay, Napier-Hastings, New Zealand
+NZNV;Invercargill Aerodrome, Invercargill, New Zealand
+NZOH;Royal Air Force Base, Ohakea, New Zealand
+NZPN;Koromiko, Picton, New Zealand
+NZPP;Paraparaumu Aerodrome, Paraparaumu, New Zealand
+NZQN;Frankton, Queenstown, New Zealand
+NZRO;Rotorua Aerodrome, Rotorua, New Zealand
+NZTG;Tauranga Aerodrome, Tauranga, New Zealand
+NZTK;Takaka, Takaka, New Zealand
+NZTZ;Manapouri, Te Anau, New Zealand
+NZWN;Wellington International Airport, Wellington, New Zealand
+DRRN;Diori Hamani, Niamey, Niger
+DRZA;Manu Dayak, Agades, Niger
+DNAA;International, Abuja, Nigeria
+DNKN;Aminu Kano International, Kano, Nigeria
+DNMM;Murtala Muhammed, Lagos, Nigeria
+PGRO;Rota International, Rota, Northern Mariana Islands
+ENAL;Vigra, Aalesund, Norway
+ENAN;Andoya, Andenes, Norway
+ENAT;Lufthavn, Alta, Norway
+ENBL;Bringeland, Forde, Norway
+ENBN;Bronnoy, Bronnoysund, Norway
+ENBR;Flesland, Bergen, Norway
+ENCA;CAA Oslo, Civil Aviation Administration, Norway
+ENCN;Kjevik, Kristiansand, Norway
+ENDI;Dagali, Geilo, Norway
+ENEV;Evenes, Harstad-Narvik, Norway
+ENFB;Fornebu, Oslo, Norway
+ENFG;Leirin, Fagernes, Norway
+ENFL;Flora, Floro, Norway
+ENGM;Gardermoen, Oslo, Norway
+ENHD;Karmoy, Haugesund, Norway
+ENHV;Valan, Honningsvag, Norway
+ENKB;Kvernberget, Kristiansund, Norway
+ENKR;Hoeybuktmoen, Kirkenes, Norway
+ENMI;Norwegian Meteorological Institute, Oslo, Norway
+ENML;Aro, Molde, Norway
+ENMS;Kjaerstad, Mosjoen, Norway
+ENNA;Banak, Lakselv, Norway
+ENNK;Framnes, Narvik, Norway
+ENNM;Lufthavn, Namsos, Norway
+ENOV;Hovden, Orsta-Volda, Norway
+ENRA;Rossvoll, Mo I Rana, Norway
+ENRS;Stollport, Rost, Norway
+ENSB;Lufthavn, Svalbard / Longyear, Norway
+ENSD;Anda, Sandane, Norway
+ENSG;Haukasen, Sogndal, Norway
+ENSH;Helle, Svolvaer, Norway
+ENSN;Geiteryggen, Skien, Norway
+ENSO;Stord Airport, Stord, Norway
+ENST;Stokka, Sandnessjoen, Norway
+ENTC;Langnes Tromso, Tromso, Norway
+ENTO;Torp Sandefjord, Oslo, Norway
+ENVA;Vaernes, Trondheim, Norway
+ENVR;Stolport, Vaeroy, Norway
+ENZV;Sola, Stavanger, Norway
+OOMS;Seeb International Airport, Muscat, Oman
+OPKC;Quaid-E-Azam Intl, Karachi, Pakistan
+OPLA;Allama Iqbal International, Lahore, Pakistan
+OPRN;Islamabad Intl, Islamabad, Pakistan
+OPSR;Sargodha Apt, Sargodha, Pakistan
+MPBO;Bocas Del Toro International, Bocas Del Tore, Panama
+MPDA;Enrique Maiek, David, Panama
+MPTO;Tocumen International, Panama City, Panama
+AYCH;Chimbu, Kundiawa, Papua New Guinea
+AYGN;Gurney, Alotau, Papua New Guinea
+AYGR;Girua, Popondetta, Papua New Guinea
+AYMH;Kagamuga, Mount Hagen, Papua New Guinea
+AYMO;Momote, Manus Island, Papua New Guinea
+AYNZ;Nadzab, Lae, Papua New Guinea
+AYPY;International, Port Moresby, Papua New Guinea
+AYTK;Tokua, Rabaui, Papua New Guinea
+AYWK;Boram, Wewak, Papua New Guinea
+SGAS;Silvio Pettirossi Aeropuerto, Asuncion, Paraguay
+SGCO;MCAL Lopez, Concepcion, Paraguay
+SGEN;Teniente Prim Alarcon, Encarnacion, Paraguay
+SPCL;Capitan Rolden, Pucallpa, Peru
+SPHI;Connel Ruiz, Chiclayo, Peru
+SPHO;Yanamilla, Ayacucho, Peru
+SPJL;Inca Manco Capac, Juliaca, Peru
+SPQU;Rodriguez Ballon, Arequipa, Peru
+SPTN;Santa Rosa, Tacna, Peru
+RPLC;Clark International Airport, Luzon Island, Philippines
+RPLL;Ninoy Aquino International Airport, Manila, Philippines
+RPMS;NAF, Sangley Point, Philippines
+RPMT;Nab, Mactan Island, Philippines
+RPUB;Loakan, Baguio, Philippines
+RPUH;Meguire Fld, San Jose, Philippines
+RPUN;Luzon Island, Naga, Philippines
+RPVA;D1. Rornualdez, Tacloban, Philippines
+RPVF;National, Catarman, Philippines
+RPWC;Awan(l, Cotabato, Philippines
+RPWL;Lumbia, Cagayan De Oro, Philippines
+EPGD;Rebiechowo, Gdansk, Poland
+EPKK;J. Paul II Balice International, Krakow, Poland
+EPKT;Pyrzowice, Katowice, Poland
+EPLL;Lodz Lublinek, Lodz, Poland
+EPPO;Lawica, Poznan, Poland
+EPRZ;Jasionka, Rzeszow, Poland
+EPSC;Goleniow, Szczecin, Poland
+EPSK;Recizikowo, Slupsk, Poland
+EPWA;Frederic Chopin Airport, Warsaw, Poland
+EPWR;Strachowice, Wroclaw, Poland
+EPZG;Babimost, Zielona Gora, Poland
+LPAZ;Vila Do Porto, Santa Maria, Portugal
+LPFL;Santa Cruz, Flores Island, Portugal
+LPHR;Castelo Branco Acores, Horta, Portugal
+LPLA;Laies Aeropueto, Terceira Island / Acores, Portugal
+LPMA;Aeroporto da Madeira, Funchal, Portugal
+LPPD;Nordela, Ponta Delgada, Portugal
+LPPR;Aeroporto Franciso Sá Carneiro, Porto / Oporto, Portugal
+LPPS;Aeroporto do Porto Santo, Porto Santo, Portugal
+LPPT;Portela, Lisboa / Lisbon, Portugal
+TJBQ;Borinquen, Aguadilla, Puerto Rico
+TJIG;Isla Grande, San Juan, Puerto Rico
+TJMZ;Eugenic M De Hostos, Mayaguez, Puerto Rico
+TJNR;Roosevelt NAS, Roosevelt Roads, Puerto Rico
+TJPS;Mercedita, Ponce, Puerto Rico
+TJSJ;Luis Munciz Marin International Airport, San Juan, Puerto Rico
+OTBH;Al Udeid Air Base, Al Udeid, Qatar
+OTDB;Doha International Airport, Doha, Qatar
+FMEE;Gillot Reunion, Saint-Denis, Reunion Island
+FMEP;Pierrefonds, St Pierre de la Reunion, Reunion Island
+LRBC;Aeroportul Bacau, Bacau, Romania
+LRBS;Baneasa, Bucharest, Romania
+LRCL;Napoca, Cluj, Romania
+LROP;Otopeni International, Bucharest, Romania
+LRSV;Salcea, Suceava, Romania
+LRTR;Traian Vuia, Timisoara, Romania
+UHHH;Novyy, Khabarovsk, Russian Federation
+ULLI;Pulkovo, St Petersburg, Russian Federation
+UNEE;Kemerovo Airport, Kemerovo, Russian Federation
+UNNT;Tolmachevo, Novosibirsk, Russian Federation
+UNTT;Tomsk-Bogashevo, Tomsk, Russian Federation
+UUDD;Domodedovo, Moscow, Russian Federation
+UUEE;Sheremetyevo, Moscow, Russian Federation
+UUOO;Chertovitskoye, Voronezh, Russian Federation
+UUWW;Vnukovo, Moscow, Russian Federation
+HRYR;Gregoire Kayibanda, Kigali, Rwanda
+NSAP;Upolu Island, Apia, Samoa
+OEBA;AI-Aqiq, Al-Baha, Saudi Arabia
+OEDF;King Fahad International, Dammam, Saudi Arabia
+OEJD;Weather Station, Jeddah, Saudi Arabia
+OEJN;King Abdul Aziz International Airport, Jeddah, Saudi Arabia
+OEMA;Mohammad Bin Abdulaziz, Madinah, Saudi Arabia
+OERY;King Khaled International, Riyadh, Saudi Arabia
+GOOY;Yoff, Dakar, Senegal
+BKPR;Slatina, Pristina, Serbia
+LYBE;Nikola Tesla, Belgrade, Serbia
+LYNI;Konstantin Veliki, Nis, Serbia
+FSIA;Seychelles International Airport Rawinsonde Station, Mahe Island, Seychelles
+WSAP;Paya Lebar, Singapore, Singapore
+WSSL;Seletar, Singapore, Singapore
+WSSS;Changi Airport, Singapore, Singapore
+LZIB;M.R. Stefanika, Bratislava, Slovakia
+LZKZ;Barca, Kosice, Slovakia
+LZTT;Poprad, Tatry, Slovakia
+LJLJ;Brnik, Ljubljana, Slovenia
+LJMB;Slivnica, Maribor, Slovenia
+LJPZ;Secovlje, Portoroz, Slovenia
+AGGH;Henderson, Honiara, Solomon Islands
+AGGN;Nusatope, Gizo, Solomon Islands
+FAAB;Koftdoorn, Alexander Bay, South Africa
+FABL;Bloemfontein Intl, Bloemfontein J. B. M. Hertzog, South Africa
+FACT;Cape Town Intemational, Cape Town, South Africa
+FADN;Durban International, Durban, South Africa
+FAHS;Hoedspruit Airport, Hoedspruit, South Africa
+FAJS;Johannesburg Int'I, Johannesburg, South Africa
+FAMM;International, Mmabatho, South Africa
+FAPH;Hendrik van Eck, Phalaborwa, South Africa
+FATZ;Letaba, Tzaneen, South Africa
+FAWB;Wonderboom, Pretoria, South Africa
+GCFV;Aeropuerto, Fuerteventura, Spain
+GCGM;La Gomera Airport, La Gomera, Spain
+GCHI;Hierro, Valverde, Spain
+GCLA;Aeropuerto, La Palma, Spain
+GCLP;Gando, Las Palmas De Gran Canaria, Spain
+GCRR;Arrecife, Lanzarote, Spain
+GCTS;Sur Reina Sofia, Tenerife, Spain
+GCXO;Norte Los Rodeos, Tenerife, Spain
+LEAB;Los Llanos, Albacete, Spain
+LEAL;El Altet, Alicante, Spain
+LEAM;Aeropuerto, Almeria, Spain
+LEAS;Aviles, Asturias, Spain
+LEBA;Aeropuerto, Cordoba, Spain
+LEBB;Sondica, Bilbao, Spain
+LEBL;Le Prat, Barcelona, Spain
+LEBZ;Talavera La Real, Badajoz, Spain
+LECO;Alvedro, La Coruna, Spain
+LEGE;Costa Brava, Girona, Spain
+LEGR;Aeropuerto, Granada, Spain
+LEIB;Es Codola, Ibiza, Spain
+LEJR;La Parra, Jerez De La Frontera, Spain
+LELC;San Javier, Murcia, Spain
+LELN;Virgen Del Camino, Leon, Spain
+LEMD;Barajas, Madrid, Spain
+LEMG;Pablo Ruiz Picasso, Malaga, Spain
+LEMH;Mahon, Menorca, Spain
+LEPA;Son San Juan, Palma De Mallorca, Spain
+LEPP;Noain, Pamplona, Spain
+LERS;Aeropuerto, Reus, Spain
+LESA;Matacan, Salamanca, Spain
+LESO;Fuenterrabia, San Sebastian, Spain
+LEST;SDR, Santiago De Compostela, Spain
+LETO;Torrejon AFB, Madrid, Spain
+LEVC;Aeropuerto de Manises, Valencia, Spain
+LEVD;Villanubla, Valladolid, Spain
+LEVX;Peinador, Vigo, Spain
+LEXJ;Parayas, Santander, Spain
+LEZG;Aeropuerto, Zaragoza, Spain
+LEZL;San Pablo, Seville, Spain
+VCBI;Bandaranayake International, Colombo, Sri Lanka
+VCCC;Ratmalana, Colombo, Sri Lanka
+VCCG;Amparai, Gal Oya, Sri Lanka
+VCCT;China Bay, Trincomalee, Sri Lanka
+TLPC;Vigie, St Lucia, St. Lucia
+TLPL;Hewanorra International Airport, St Lucia, St. Lucia
+SMZO;La Chita International, Paramaribo Zorg en Hoop, Suriname
+FDMB;Off-Line Pt / (DCA HQ), Mbabane, Swaziland
+FDMS;Matsapha International Airport, Manzini, Swaziland
+ESCF;Malmen, Linkoping, Sweden
+ESDF;Kallinge, Ronneby, Sweden
+ESGG;Landvetter, Goteborg, Sweden
+ESGJ;Axamo, Jonkoping, Sweden
+ESGP;Saeve, Gothenburg, Sweden
+ESGR;Flygplats, Skovde, Sweden
+ESGT;Private, Trollhattan, Sweden
+ESMK;Everod, Kristianstad, Sweden
+ESMS;Sturup, Malmo, Sweden
+ESMT;AFB, Halmstad, Sweden
+ESNK;Flygplats, Kramfors, Sweden
+ESNN;Sundsvall/Hamosand, Sundsvall, Sweden
+ESNU;Flygplats, Umea, Sweden
+ESOE;Orebro-Bofors, Orebro, Sweden
+ESOK;Flygplats, Karlstad, Sweden
+ESOW;Hasslo, Vasteras, Sweden
+ESPA;Kallax, Lulea, Sweden
+ESPC;Froson, Ostersund, Sweden
+ESSA;Arlanda, Stockholm, Sweden
+ESSB;Bromma, Stockholm, Sweden
+ESSD;Dala Airport, Borlange, Sweden
+ESSF;AFB, Hultsfred, Sweden
+ESSK;Sandviken AFB, Gavie, Sweden
+ESSP;Kungsangen, Norrkoping, Sweden
+ESST;Torsby Airport, Torsby, Sweden
+ESSV;Flygplats, Visby, Sweden
+LFSB;EuroAirport, Basel/Mulhouse, Switzerland
+LSGG;Cointrin, Geneva, Switzerland
+LSZB;Belp, Berne, Switzerland
+LSZH;Kloten, Zurich, Switzerland
+LSZR;St. Gallen Airport, Altenirhein, Switzerland
+LSZS;Samedan/Swiss Regional Airport, St. Moritz, Switzerland
+OSAP;Nejrab, Aleppo, Syria
+OSDI;International, Damascus, Syria
+OSDZ;AI Jafrah, Deirezzor, Syria
+RCSS;Sung Shan, Taipei, Taiwan
+RCTP;Chiang Kai Shek, Taipei, Taiwan
+HTDA;International, Dar Es Salaam, Tanzania
+HTIR;Nduli, Iringa, Tanzania
+HTPE;Karume Airport, Pemba, Tanzania
+HTZA;Kisauni, Zanzibar, Tanzania
+VTBD;Don Muang International Airport, Bangkok, Thailand
+VTBS;Suvarnabhumi Airport, Bangkok, Thailand
+VTBU;Utapao International Airport, Rayong, Thailand
+VTCC;International, Chiang Mai, Thailand
+VTPH;Hua Hin Airport, Hua Hin, Thailand
+VTSE;Chumphon Airport, Chumphon, Thailand
+VTSP;International, Phuket, Thailand
+VTSS;Hat Yai International Airport, Hat Yai, Thailand
+VTUR;Roi Et Airport, Roi Et, Thailand
+VTUU;Muang Ubon, Ubon Ratchathani, Thailand
+GBYD;Yundum International, Banjul, The Gambia
+DXXX;Aeroport International Gnassingbe Eyadema, Lome, Togo
+NFTF;Fua'amotu International, Fua'Amotu, Tonga
+NFTL;Salote Pilolevu, Ha'Apai, Tonga
+TTPP;Piarco International Airport, Port Of Spain, Trinidad and Tobago
+TTPT;Crown Point Airport, Tobago, Trinidad And Tobago
+DTKA;7 Novembre, Tabarka, Tunisia
+DTMB;Habib Bourguiba International, Monastir, Tunisia
+DTTA;Carthage, Tunis, Tunisia
+DTTF;Ksar, Gafsa, Tunisia
+DTTJ;Zarzis, Djerba, Tunisia
+DTTX;Sfax El Maou, Sfax, Tunisia
+DTTZ;Nefta, Tozeur, Tunisia
+LTAC;Esenboga, Ankara, Turkey
+LTAD;Etimesgut, Ankara, Turkey
+LTAF;Sakirpasa, Adana, Turkey
+LTAG;Incirlik, Adiyaman, Turkey
+LTAQ;Carsamba, Samsun, Turkey
+LTAT;Erhac, Malatya, Turkey
+LTAU;Erkilet, Kayseri, Turkey
+LTAY;Cardak, Denizli, Turkey
+LTBA;Atatürk, Istanbul, Turkey
+LTBI;Anadolu University, Eskisehir, Turkey
+LTBJ;Adnan Menderes Arpt, Izmir, Turkey
+LTBL;Cigli Military Arpt, Izmir, Turkey
+LTBR;Yenisehir, Bursa, Turkey
+LTBU;Corlu, Tekirdag, Turkey
+LTBV;Imisk Airport, Bodrum, Turkey
+LTCK;Turkish AFB, Mus, Turkey
+LTFE;Milas Airport, Bodrum, Turkey
+LTFJ;Sabiha Gokcen International Airport, Istanbul, Turkey
+UKBB;Borispol / Boryspil, Kiev / Kyiv, Ukraine
+UKCM;Mariupol, Mariupol, Ukraine
+UKCW;Luhans'k, Lugansk / Luhans'k, Ukraine
+UKDE;Mokraya, Zaporizhzhia, Ukraine
+UKDR;Lozovatka / Lozuvatka, Krivoy Rog/ Kryvyi Rih, Ukraine
+UKFF;Simferopol, Simferopol, Ukraine
+UKFK;Kerch, Kerch, Ukraine
+UKHH;Osnova, Kharkov / Kharkiv, Ukraine
+UKKK;Zhuliany, Kiev / Kyiv, Ukraine
+UKLC;Luts'k, Lutsk / Luts'k, Ukraine
+UKLH;Khmel'nyts'kyi, Khmeinitskiy / Khmel'nyts'kyi, Ukraine
+UKLL;L'viv, L'viv, Ukraine
+UKLR;Rivne, Rovno / Rivne, Ukraine
+UKLU;Uzhhorod, Uzhgorod / Uzhhorod, Ukraine
+UKOH;Kherson, Kherson, Ukraine
+UKON;Mykolaiv, Nikolaev / Mykolaiv, Ukraine
+UKOO;Tsentrainy, Odessa / Odesa, Ukraine
+UKWW;Vinnitsa, Vinnica / Vinnitsa, Ukraine
+OMAA;Abu Dhabi International Airport, Abu Dhabi, United Arab Emirates
+OMAD;Bateen, Abu Dhalbi, United Arab Emirates
+OMAL;International Airport, Al Ain, United Arab Emirates
+OMAM;AI Dhafra Military Apt, Abu Dhabi, United Arab Emirates
+OMDB;Dubai International Airport, Dubai, United Arab Emirates
+OMDM;Military Airport, Minhad Ab, United Arab Emirates
+OMFJ;Fujairah Intl Arpt, Al-Fujairah, United Arab Emirates
+OMRK;Ras Al Khaimah International Airport, Ras Al Khaimah, United Arab Emirates
+OMSJ;Sharjah International Airport, Sharjah, United Arab Emirates
+EGAA;Belfast International Airport, Belfast, United Kingdom
+EGAB;St Angelo, Enniskillen, United Kingdom
+EGAC;Belfast City Airport, Belfast, United Kingdom
+EGAE;Eglinton, Londonderry, United Kingdom
+EGBB;International, Birmingham, United Kingdom
+EGBE;Baginton, Coventry, United Kingdom
+EGBJ;Staverton Private, Gloucester, United Kingdom
+EGBN;Nottingham Airport, Nottingham, United Kingdom
+EGCC;Ringway, Manchester, United Kingdom
+EGCN;Robin Hood Airport, Doncaster Sheffield, United Kingdom
+EGDG;St Mawgan, Newquay, United Kingdom
+EGEC;Machrihanish, Campbeltown, United Kingdom
+EGEO;North Connel, Oban, United Kingdom
+EGFF;Cardiff-Wales Airport, Cardiff, United Kingdom
+EGFH;Fairwood Comm, Swansea, United Kingdom
+EGGD;Lulsgate, Bristol, United Kingdom
+EGGP;John Lennon Airport, Liverpool, United Kingdom
+EGGW;Luton International Airport, London, United Kingdom
+EGHD;Roborough, Plymouth, United Kingdom
+EGHE;Saint Mary's, Scilly Isles, United Kingdom
+EGHH;International, Bournemouth, United Kingdom
+EGHI;Eastleigh, Southampton, United Kingdom
+EGHK;Heliport, Penzance, United Kingdom
+EGHR;Goodwood, Chichester, United Kingdom
+EGJA;Channel Island, Alderney, United Kingdom
+EGKB;Biggin Hill, London, United Kingdom
+EGKK;Gatwick, London, United Kingdom
+EGLC;London City Airport, London, United Kingdom
+EGLL;Heathrow, London, United Kingdom
+EGMC;London Southend Airport, Southend-On-Sea, United Kingdom
+EGMD;Lydd International, Lydd, United Kingdom
+EGMH;Kent International Airport-Manston, Manston, United Kingdom
+EGNC;Carlisle Airport, Carlisle, United Kingdom
+EGNL;Walney Island, Barrow-In-Furness, United Kingdom
+EGNM;Leeds Bradford International Airport, Leeds Bradford, United Kingdom
+EGNR;Chester Airport, Harwarden, United Kingdom
+EGNS;Ronaldsway, Isle Of Man, United Kingdom
+EGNV;Durham & Tees Valley Airport, Durham Tees Valley, United Kingdom
+EGNX;Nottingham East Midlands Airport, East Midlands, United Kingdom
+EGPB;Sumburgh Cape, Sumburgh, United Kingdom
+EGPD;Dyce, Aberdeen, United Kingdom
+EGPE;Dalcross, Inverness, United Kingdom
+EGPF;International, Glasgow, United Kingdom
+EGPH;Turnhouse, Edinburgh, United Kingdom
+EGPI;Glenegedaie, Islay, United Kingdom
+EGPK;Prestwick Airport, Glasgow, United Kingdom
+EGPM;Shetland Island, Scatsta, United Kingdom
+EGPN;Riverside, Dundee, United Kingdom
+EGPR;North Bay, Barra, United Kingdom
+EGPT;Scone, Perth, United Kingdom
+EGQL;RAF Leuchars, St. Andrews, United Kingdom
+EGRR;Beaufort Park, Bracknell MET HQ, United Kingdom
+EGSB;Castle Mill, Bedford, United Kingdom
+EGSS;Stansted, London, United Kingdom
+EGTE;Exeter International Airport, Exeter Airport, United Kingdom
+EGTG;Filton, Bristol, United Kingdom
+EGTK;Kidlington, Oxford, United Kingdom
+EGUD;RAF Station, Abingdon, United Kingdom
+EGVW;Thurleigh (Military), Bedford, United Kingdom
+EGXW;RAF Station, Waddington, United Kingdom
+KAAF;Municipal, Apalachicola, United States of America
+KAAP;Andrau Airpark, Houston, United States of America
+KABE;Lehigh Valley International Airport, Allentown-Bethlehem-Easton, United States of America
+KABI;Municipal - Metropolitan / City Code, Abilene, United States of America
+KABQ;International Airport, Albuquerque, United States of America
+KABR;Municipal, Aberdeen, United States of America
+KABY;Southwest Georgia Regional Airport, Albany, United States of America
+KABY;Dougherly County, Albany, United States of America
+KACB;Antrim County, Bellaire, United States of America
+KACK;Nantucket Memorial Airport, Nantucket, United States of America
+KACT;Waco Regional Airport, Waco, United States of America
+KACT;Municipal, Waco, United States of America
+KACV;Arcata Airport, Arcata / Eureka, United States of America
+KACY;Atlantic City International Airport, Atlantic City, United States of America
+KADG;Lenawee County, Adrian, United States of America
+KADM;Ardmore Municipal, Ardmore, United States of America
+KADQ;Kodiak Airport, Kodiak, United States of America
+KADS;Addison Airport, Dallas, United States of America
+KADW;Andrews AFB, Camp Springs, United States of America
+KAEX;Alexandria International Airport, Alexandria, United States of America
+KAFF;USAF Academy, Colorado Springs, United States of America
+KAFN;Jaffrey Municipal-Silver Ranch Airport, Jaffrey, United States of America
+KAFO;Municinal, Afton, United States of America
+KAFW;Fort Worth Alliance Airport, Fort Worth, United States of America
+KAGC;Allegheny County Airport, Pittsburgh, United States of America
+KAGO;Municipal, Magnolia, United States of America
+KAGS;Bush Field, Augusta, United States of America
+KAHC;Amedee AAF, Herlong, United States of America
+KAHD;Downtown, Ardmore, United States of America
+KAHF;Municipal, Arapahoe, United States of America
+KAHH;Municipal, Amery, United States of America
+KAHN;Athens Airport, Athens, United States of America
+KAIA;Alliance Municipal Airport, Alliance, United States of America
+KAID;Municipal, Anderson, United States of America
+KAIK;Municipal, Aiken, United States of America
+KAIV;George Downer, Aliceville, United States of America
+KAIY;Bader Field, Atlantic City, United States of America
+KAIZ;Lee C Fine Memorial, Kaiser/Lake Ozark, United States of America
+KAKC;Fulton International, Akron/Canton, United States of America
+KAKH;Gastonia Municipal Airport, Gastonia, NC, United States of America
+KAKO;Akron-Washington County Airport, Akron, United States of America
+KAKQ;Wakefield Municipal Airport, Wakefield, VA, United States of America
+KAKR;Akron Fulton International Airport, Akron, OH, United States of America
+KAKW;Klawock Airport, Klawock, United States of America
+KALB;Albany County Airport, Albany, United States of America
+KALI;Alice International Airport, Alice, United States of America
+KALM;Municipal, Alamogordo-White, United States of America
+KALN;St Louis Regional, Alton, United States of America
+KALO;Waterloo Municipal Airport, Waterloo, United States of America
+KALS;San Luis Valley Regional Airport, Aiamosa, United States of America
+KALW;Walla Walla Regional Airport, Walla Walla, United States of America
+KALX;Thomas C Russell FId, Alexander City, United States of America
+KALZ;Alitak SPB, Alitak, United States of America
+KAMA;Amarillo International Airport, Amarillo, United States of America
+KAMG;Bacon County Airport, Alma, GA, United States of America
+KAMK;Animas Airpark, Durango, United States of America
+KAMN;Gratiot Community, Alma, United States of America
+KAMW;Ames Municipal Airport, Ames, United States of America
+KANB;Anniston Metropolitan Airport, Anniston, United States of America
+KANB;County Airport, Anniston, United States of America
+KAND;Anderson County Airport, Anderson, United States of America
+KANP;Lee, Annapolis, United States of America
+KANQ;Tri-State Steuben Cty, Angola, United States of America
+KANW;Municipal Airport, Ainsworth, United States of America
+KAOH;Lima Allen County Airport, Lima, United States of America
+KAOO;Altoona-Blair County Airport, Altoona, United States of America
+KAPA;Centennial Airport, Denver, United States of America
+KAPA;Arapahoe Co, Denver, United States of America
+KAPC;Napa County Airport, Napa, United States of America
+KAPF;Naples Municipal, Naples, United States of America
+KAPG;Phillips AAF, Aberdeen, United States of America
+KAPH;Camp A P Hill, Bowling Green, United States of America
+KAPN;Alpena County Regional Airport, Alpena, United States of America
+KAPT;Marion County, Jasper, United States of America
+KAQW;Harriman-And-West Airport, North Adams, MA, United States of America
+KARA;Acadiana Regional Airport, New Iberia, United States of America
+KARB;Ann Arbor Municipal Airport, Ann Arbor, United States of America
+KARR;Aurora Municipal Airport, Chicago, IL, United States of America
+KART;Watertown International Airport, Watertown, United States of America
+KARV;Noble F. Lee, Minocqua, United States of America
+KASE;Aspen-Pitkin County Airport, Aspen, United States of America
+KASH;Boire Field, Nashua, United States of America
+KASL;Harrison County, Marshall, United States of America
+KAST;Astoria Regional Airport, Astoria, United States of America
+KASX;Kennedy Memorial Airport, Ashland, United States of America
+KATL;William B Hartsfield, Atlanta, United States of America
+KATO;Ohio University, Athens, United States of America
+KATU;Casco Cove, Attu Island, United States of America
+KATW;Outagamie County, Appleton, United States of America
+KATY;Watertown Municipal Airport, Watertown, United States of America
+KAUG;Augusta State Airport, Augusta, United States of America
+KAUM;Austin Municipal, Austin, United States of America
+KAUO;Auburn-Opelika Airport, Auburn, United States of America
+KAUS;Bergstrom, Austin, United States of America
+KAUW;Municipal, Wausau, United States of America
+KAUW;Wausau Downtown Airport, Wausau, United States of America
+KAUZ;Municipal Airport, Aurora, United States of America
+KAVL;Asheville Regional Airport, Asheville, United States of America
+KAVL;Municipal, Astieville, United States of America
+KAVO;Municipal, Avon Park, United States of America
+KAVP;Scranton International Airport, Wilkesbarre-Scranton wilkes-Barre /, United States of America
+KAVP;International, Wilkes-Barre, United States of America
+KAVP;International, Scranton, United States of America
+KAVW;Avra Valley, Tucson, United States of America
+KAVX;Catalina Airport, Avalon, United States of America
+KAVX;Avalon Bay, Cataiina Island, United States of America
+KAWI;Wainwright Airport, Wainwright, United States of America
+KAWM;Municipal, West Memphis, United States of America
+KAWO;Arlington Municipal, Arlington, WA, United States of America
+KAXN;Chandler Field, Alexandria, United States of America
+KAXS;Municipal, Altus, United States of America
+KAXV;Neil Armstrong, Wapakoneta, United States of America
+KAYE;AAF Heliport, Fort Devens / Ayer, United States of America
+KAYS;Ware County, Waycross, United States of America
+KAYZ;Zahns, Amityville, United States of America
+KAZO;Battle Creek International Airport, Kalamazoo, United States of America
+KBAB;Beale AFB, Marysville, United States of America
+KBAD;Barksdale AFB, Shreveport, United States of America
+KBAF;Barnes Municipal Airport, Westfield, United States of America
+KBAM;Lander County, Battle Mountain, United States of America
+KBAR;Baker AAF, Baker Island, United States of America
+KBBB;Municipal Aiport, Benson, United States of America
+KBBD;Curtis Field, Brady, United States of America
+KBBW;Broken Bow Municipal Airport, Broken Bow, United States of America
+KBBX;Wings Field, Blue Bell, United States of America
+KBCB;Virginia Tech Airport, Blacksburg, United States of America
+KBCE;Bryce Canyon Airport, Bryce Canyon, United States of America
+KBCS;Southern Seaplane, Belle Chasse, United States of America
+KBCT;Public, Boca Raton, United States of America
+KBDE;Baudette International Airport, Baudette, United States of America
+KBDF;Rinkenberger, Bradford, United States of America
+KBDL;Bradley International Airport, Springfield, United States of America
+KBDL;Bradley International Airport, Windsor Locks, United States of America
+KBDL;Bradley International, Hartford, United States of America
+KBDR;Igor I. Sikorsky Memorial Airport, Bridgeport, United States of America
+KBDY;State, Bandon, United States of America
+KBEC;Beech, Wichita, United States of America
+KBED;Hanscom Field, Bedford, United States of America
+KBEH;Southwest Michigan Regional Airport, Benton Harbor, United States of America
+KBEH;Ross Field, Benton Harbor, United States of America
+KBFD;Bradford Regional Airport, Bradford, United States of America
+KBFF;Scoffs Bluff County, Scottsbiuff, United States of America
+KBFF;Heilig Field, Scottsbluff, United States of America
+KBFI;Boeing Field International, Seattle, United States of America
+KBFK;Buckley ANG Base, Denver, United States of America
+KBFL;Meadows Field, Bakersfield, United States of America
+KBFM;Mobile Downtown Airport, Mobile, United States of America
+KBFM;Mob Aerospace, Mobile, United States of America
+KBFR;Virgil I Grissom Muni, Bedford, United States of America
+KBFT;County, Beaufort, United States of America
+KBGD;Hutchinson County Airport, Borger, United States of America
+KBGE;Decatur County, Bainbridge, United States of America
+KBGM;Binghamton Regional Airport, Binghamton, United States of America
+KBGR;Bangor International Airport, Bangor, United States of America
+KBGS;Webb AFB, Big Spring, United States of America
+KBHM;Birmingham International Airport, Birmingham, United States of America
+KBIE;Beatrice Municipal Airport, Beatrice, United States of America
+KBIF;Biggs AAF, El Paso, United States of America
+KBIG;Intermediate Field, Big Delta, United States of America
+KBIG;Ft Greelylen Army Air Field, Delta Junction, United States of America
+KBIH;Bishop Airport, Bishop, United States of America
+KBIL;Billings Logan International Airport, Billings, United States of America
+KBIS;Bismarck Municipal Airport, Bismarck, United States of America
+KBIX;Keesler AFB, Biloxi, United States of America
+KBJC;Jeffco, Broomfield, United States of America
+KBJI;Bemidji Municipal Airport, Bemidji, United States of America
+KBJJ;Wayne County Airport, Wooster, United States of America
+KBKD;Stephens County, Breckenridge, United States of America
+KBKE;Baker Municipal Airport, Baker, United States of America
+KBKH;Barking Sands, Kekaha, United States of America
+KBKL;Burke Lakefront Airport, Cleveland, United States of America
+KBKT;Blackstone AAF, Camp Pickett, United States of America
+KBKT;Blackstone AAF, Blackstone, United States of America
+KBKW;Raleigh County Memorial Airport, Beckley, United States of America
+KBLF;Mercer County Airport, Bluefield, United States of America
+KBLH;Blythe Airport, Blythe, United States of America
+KBLI;Bellingham International Airport, Bellingham, United States of America
+KBLM;Monmouth County, Belmar-Farmdale, United States of America
+KBLU;Nyack Airport, Emigrant Gap / Blue Canyon, United States of America
+KBLV;Scott AFB, Belleville, United States of America
+KBLW;Bellows Field, Waimanalo, United States of America
+KBMG;Monroe County Airport, Bloomington, United States of America
+KBML;Berlin Municipal Airport, Berlin, United States of America
+KBMT;Beaumont Muni, Beaumont, United States of America
+KBNA;Metropolitan, Nashville, United States of America
+KBNA;Nashville International Airport, Nashville, United States of America
+KBNF;Warm Spring Bay SPB, Baranof, United States of America
+KBNH;Barnes, Hartford, United States of America
+KBNL;Barnwell County, Barnwell, United States of America
+KBNO;Burns Municipal Airport, Burns, United States of America
+KBNW;Boone Municipal Airport, Boone, United States of America
+KBOF;Boiling AFB, Washington, United States of America
+KBOI;Boise Air Terminal (Gowen Fld), Boise, United States of America
+KBOK;Brookings State, Brookings, United States of America
+KBOS;Logan International Airport, Boston, United States of America
+KBOW;Bartow Municipal Airport, Bartow, United States of America
+KBPA;Grumman, Bethpage, United States of America
+KBPG;Big Spring McMahon-Wrinkle Airport, Big Spring, United States of America
+KBPI;Big Piney-Marbleton Airport, Big Piney, United States of America
+KBPT;Jefferson County Airport, Beaumont / Port Arthur, United States of America
+KBQK;Glynco Jetport, Brunswick, United States of America
+KBQV;Bartlett SPB, Gustavus, United States of America
+KBRD;Brainerd-Crow Wing County Regional Airport, Brainerd, United States of America
+KBRG;Municipal, Whitesburg, United States of America
+KBRL;Burlington Regional Airport, Burlington, United States of America
+KBRO;Brownsville / South Padre Island International Airport, Brownsville, United States of America
+KBRY;SamueField, Bardstown, United States of America
+KBSF;BradshAAF, Pohakuloa, United States of America
+KBSM;Austin-Bergstrom International Airport, Bergstrom, United States of America
+KBSQ;BisbMunicipArpt, Bisbee, United States of America
+KBTF;SaLaSkypark, Bountiful, United States of America
+KBTL;Kellogg Regional Airport, Battle Creek, United States of America
+KBTM;oney Airport, Butte, United States of America
+KBTP;GrahField, Butler, United States of America
+KBTR;Baton Rouge Metropolitan, Ryan Field, Baton Rouge, United States of America
+KBTV;Burlington International Airport, Burlington, United States of America
+KBUB;Municipal, Burwell, United States of America
+KBUF;Buffalo Niagara International Airport, Buffalo, United States of America
+KBUR;Burbank-Glendale-Pasadena Airport, Burbank, United States of America
+KBVD;Sea Port, Beaver Inlet, United States of America
+KBVO;Bartlesville Municipal Airport, Bartlesville, United States of America
+KBVY;Beverly Municipal Airport, Beverly, United States of America
+KBWD;Brownwood Municipal Airport, Brownwood, United States of America
+KBWG;Bowling Green-Warren County Regional Airport, Bowling Green, United States of America
+KBWI;Baltimore/Washington International Thurgood Marshall Airport, Baltimore, United States of America
+KBXA;George R Carr, Bogalusa, United States of America
+KBYG;Municipal, Buffalo, United States of America
+KBYG;Johnson County Airport, Buffalo, United States of America
+KBYH;Eaker AFB, Blytheville, United States of America
+KBYI;Burley Municipal Airport, Burley, United States of America
+KBYS;Bicycle Lake U. S. Army Airfield, Fort Irwin, United States of America
+KBZN;Gallatin Field, Bozeman, United States of America
+KBZS;Buzzards Pt S, Washington, United States of America
+KBZT;Hinkles Ferry, Brazoria, United States of America
+KCAD;Wexford County, Cadillac, United States of America
+KCAE;Columbia Metropolitan Airport, Columbia, United States of America
+KCAK;Akron-Canton Regional Airport, Akron / Canton, United States of America
+KCAO;Clayton Municipal Airpark, Clayton, United States of America
+KCAR;Caribou Municipal Airport, Caribou, United States of America
+KCBE;Wiley Ford, Cumberland, United States of America
+KCBF;Municipal Airport, Council Bluffs, United States of America
+KCBK;Municipal, Colby, United States of America
+KCBM;Columbus AFB, Columbus, United States of America
+KCCA;Chaffee AFB, Fort Chaffee, United States of America
+KCCB;Cable, Upland, United States of America
+KCCD;Century City, Los Angeles, United States of America
+KCCG;Crane County Arpt, Crane, United States of America
+KCCR;Buchanan Field, Concord, United States of America
+KCCY;Municipal Airport, Charles City, United States of America
+KCDC;Cedar City Municipal Airport, Cedar City, United States of America
+KCDH;Harrell Field, Camden, United States of America
+KCDK;Lewis, CedarKey, United States of America
+KCDN;Woodward Fid, Camden, United States of America
+KCDR;Chadron Municipal Airport, Chadron, United States of America
+KCDS;Childress Municipal Airport, Childress, United States of America
+KCDW;Caldweil Wright, Caldwell, United States of America
+KCDW;Essex County Airport, Caldwell, United States of America
+KCEA;Cessna Aircraft Field, Wichita, United States of America
+KCEC;Mc Namara Fld, Crescent City, United States of America
+KCEF;Westover Metropolitan Airport, Chicopee, United States of America
+KCEF;Westover AFB., Chicopee Falls, United States of America
+KCEF;Westover Metropolitan Airport, Springfield, United States of America
+KCEU;Clemson-Oconee County Airport, Clemson, United States of America
+KCEV;Mettle Field, Connersville, United States of America
+KCEW;Bob Sikes Airport, Crestview, United States of America
+KCEY;Calloway County, Murray, United States of America
+KCEZ;Montezuma County Airport, Cortez, United States of America
+KCFD;Coulter Field, Bryan, United States of America
+KCFT;Morenci, Clitton, United States of America
+KCFV;Coffeyville Municipal Airport, Coffeyville, United States of America
+KCGA;Craig SPB, Craig, United States of America
+KCGF;Cuyahoga County Airport, Cleveland, United States of America
+KCGI;Cape Girardeau Regional Airport, Cape Girardeau, United States of America
+KCGZ;Municipal, Casa Grande, United States of America
+KCHA;Lovell Field, Chattanooga, United States of America
+KCHD;Williams AFB, Chandler, United States of America
+KCHI;Chicago FSS, Chicago, United States of America
+KCHK;Municipal, Chickasha, United States of America
+KCHO;Charlottesville-Albemarle Airport, Charlottesville, United States of America
+KCHS;Charleston AFB Municipal, Charleston, United States of America
+KCHZ;State, Chiloquin, United States of America
+KCIB;Ap In The Sky, Catalina Island, United States of America
+KCIC;Chico Municipal Airport, Chico, United States of America
+KCID;Cedar Rapids Municipal Airport, Cedar Rapids, United States of America
+KCIG;Craig-Molfat, Craig, United States of America
+KCIL;Melsing Creek, Council, United States of America
+KCIU;CH/Ppewa Count~, Sault Ste Marie, United States of America
+KCKA;Kegelman AF, Cherokee, United States of America
+KCKB;Benedurn Airport, Clarksburg, United States of America
+KCKM;Fletcher Field, Clarksdale, United States of America
+KCKN;Municipal Field, Crookston, United States of America
+KCKU;City, Cordova, United States of America
+KCKV;Outlaw Field, Clarksville, United States of America
+KCLC;Metroport, Clearlake, United States of America
+KCLE;Cleveland-Hopkins International Airport, Cleveland, United States of America
+KCLK;Municipal, Clinton, United States of America
+KCLL;Easterwood Field, College Station, United States of America
+KCLM;William R Fairchild International Airport, Port Angeles, United States of America
+KCLS;Centralia, Chehalis, United States of America
+KCLT;Charlotte / Douglas International Airport, Charlotte, United States of America
+KCLU;Columbus Municipal, Columbus, United States of America
+KCLW;Executive, Clearwater, United States of America
+KCMH;Port Columbus International Airport, Columbus, United States of America
+KCMI;Urbana, University Of Illinois-Willard Airprot, Champaign, United States of America
+KCMX;Houghton County Memorial Airport, Hancock, United States of America
+KCMY;Camp Mccoy AAF, Sparta, United States of America
+KCNH;Municipal, Claremont, United States of America
+KCNK;Blosser Municipal Airport, Concordia, United States of America
+KCNM;vern City Air Terminal, Carlsbad, United States of America
+KCNO;Chino Airport, Chino, United States of America
+KCNU;Chanute Martin Johnson Airport, Chanute, United States of America
+KCNW;James Connall, Waco, United States of America
+KCNY;Canyonlands Field, Moab, United States of America
+KCOD;Yellowstone Regional, Cody / Yellowstone, United States of America
+KCOF;Patrick AFB, Cocoa, United States of America
+KCOI;Merritt Island, Cocoa, United States of America
+KCON;Concord Municipal Airport, Concord, United States of America
+KCOS;Peterson Field, Colorado Springs, United States of America
+KCOS;City Of Colorado Springs Municipal Airprot, Colorado Springs, United States of America
+KCOT;Cotulla-La Salle County Airport, Cotulla, United States of America
+KCOU;Columbia Regional Airport, Columbia, United States of America
+KCPR;Natrona County International Airport, Casper, United States of America
+KCPS;St Louis Downtown-Parks Airport, Cahokia / St Louis, United States of America
+KCPS;Bi-State Parks, St Louis, United States of America
+KCRE;Grand Strand Airport, North Myrtle Beach, United States of America
+KCRG;Craig Municipal Airport, Jacksonville, United States of America
+KCRP;Corpus Christi International Airport, Corpus Christi, United States of America
+KCRS;Campbell Field-Corsicana Municipal Airport, Corsicana, United States of America
+KCRT;Municipal, Crossett, United States of America
+KCRW;Yeager Airport, Charleston, United States of America
+KCRX;Roscoe Turner, Corinth, United States of America
+KCSL;O'Sullivan AAF, Camp San Luis Airport, United States of America
+KCSM;Clinton-Sherman Airport, Clinton, United States of America
+KCSP;Coast Guard Heliport, Cape Spencer, United States of America
+KCSQ;Municipal Airport, Creston, United States of America
+KCSV;Crossville Memorial Airport, Crossville, United States of America
+KCTH;Chestercounty Carlson, Coatesviile, United States of America
+KCTO;Peconic River, Calverton / Grumman, United States of America
+KCTY;Cross City Airport, Cross City, United States of America
+KCTZ;Sampson County, Clinton, United States of America
+KCUB;Columbia Owens Downtown Airport, Columbia, United States of America
+KCUH;Municipal, Cushing, United States of America
+KCUS;Municipal, Columbus, United States of America
+KCUX;Cuddihy Field, Corpus Christi, United States of America
+KCVA;Civic Ar Heli, Pittsburgh, United States of America
+KCVG;Cincinnati / Northern Kentucky International Airport, Covington / Cincinnati, United States of America
+KCVN;Municipal, Clovis, United States of America
+KCVO;Municipal Airport, Corvallis / Albany, United States of America
+KCVR;Hughes, Culver City, United States of America
+KCVS;Cannon AFB, Clovis, United States of America
+KCWA;Central Wisconsin, WauSau, United States of America
+KCWO;Ft Wolter AAF, Mineral Wells, United States of America
+KCXC;Chitina Arpt, Chitina, United States of America
+KCXL;international, Calexico, United States of America
+KCXO;Montgomery County Airport, Conroe, United States of America
+KCYF;Cnefornak SPB, Chefornak, United States of America
+KCYM;Chatham SPB, Chatham, United States of America
+KCYS;Cheyenne Airport, Cheyenne, United States of America
+KCYT;Intermediate, Yakatapa, United States of America
+KCZK;Cascade Locks / Stevens, Cascade Locks State, United States of America
+KCZN;Chisana Field, Chisana, United States of America
+KDAA;Davison AAF, Fort Belvoir, United States of America
+KDAB;Daytona Beach Regional Airport, Daytona Beach, United States of America
+KDAG;Barstow-Daggett Airport, Daggett, United States of America
+KDAL;Dallas Love Field, Dallas, United States of America
+KDAN;Municipal, Danville, United States of America
+KDAN;Danville Regional Airport, Danville, United States of America
+KDAY;James Cox Dayton International Airport, Dayton, United States of America
+KDBN;Municipal, Dublin, United States of America
+KDBQ;Municipal, Dubuque, United States of America
+KDBQ;Dubuque Regional Airport, Dubuque, United States of America
+KDCA;Ronald Reagan National Airport, Washington, United States of America
+KDCK;Dahl Creek Arpt, Dahl Creek, United States of America
+KDCR;Decatur Hi-Way, Decatur, United States of America
+KDCU;Pyor Field, Decatur, United States of America
+KDDC;Dodge City Regional Airport, Dodge City, United States of America
+KDDC;Dodge City Municipal, Dodge City, United States of America
+KDEC;Decatur Airport, Decatur, United States of America
+KDED;DeLand Municipal Airport-Sidney H Taylor Field, Deland, United States of America
+KDEH;Municipal Airport, Decorah, United States of America
+KDEN;Denver International Airport, Denver, United States of America
+KDEO;Hyatt Regency H/P, Dearborn, United States of America
+KDET;Detroit City Airport, Detroit, United States of America
+KDFI;Defiance Memorial Airport, Defiance, United States of America
+KDFW;Dallas / Fort Worth International Airport, Dallas / Fort Worth, United States of America
+KDGL;Douglas Municipal, Douglas, United States of America
+KDGN;NAF, Dahigren, United States of America
+KDGW;Converse County Airport, Douglas, United States of America
+KDHN;Dothan Airport, Dothan, United States of America
+KDHT;Dalhart Municipal Airport, Dalhart, United States of America
+KDIK;Dickinson Municipal Airport, Dickinson, United States of America
+KDKK;Chautauqua County / Dunkirk Airport, Dunkirk, United States of America
+KDLF;Laughlin AFB Auxiliary Airfield, Del Rio, United States of America
+KDLH;Duluth International Airport, Duluth, United States of America
+KDLN;Dillon Airport, Dillon, United States of America
+KDLS;The Dalles Municipal Airport, The Dalles, United States of America
+KDMA;Davis Monthan AFB, Tucson, United States of America
+KDMN;Deming Municipal Airport, Deming, United States of America
+KDMO;Sedalia Memorial Airport, Sedalia, United States of America
+KDNE;Dallas North Airport, Dallas, United States of America
+KDNL;Daniel Field, Augusta, United States of America
+KDNN;Municipal, Dalton, United States of America
+KDNS;Municipal, Denison, United States of America
+KDNT;Downtown Heliport, Santa Ana, United States of America
+KDNV;Vermilion County, Danville, United States of America
+KDOV;Dover AFB, Dover-Cheswold, United States of America
+KDPA;West Chicago, Dupage Airport, Chicago, United States of America
+KDPG;Proving Grounds, Dugway, United States of America
+KDPG;Michael AAF, Dugway, United States of America
+KDRA;Desen, Rock Airport, Mercury, United States of America
+KDRI;Beauregard Parish, De Ridder, United States of America
+KDRO;Durango-La Plata County Airport, Durango, United States of America
+KDRT;Rio International Airport, Del Rio, United States of America
+KDSM;Des Moines International Airport, Des Moines, United States of America
+KDSV;Dansville Municipal Airport, Dansville, United States of America
+KDTL;Municcal, Detroit Lakes, United States of America
+KDTN;Shreveport Downtown Airport, Shreveport, United States of America
+KDTW;Wayne County, Detroit, United States of America
+KDUA;Eaker, Durant, United States of America
+KDUC;Halliburton, Duncan, United States of America
+KDUF;Pine Island Airport, Duck, United States of America
+KDUG;Bisbee-Douglas International, Douglas, United States of America
+KDUJ;Jefferson County, Dubois, United States of America
+KDUT;Emergency Field, Dutch Harbor, United States of America
+KDVN;Davenport Municipal Airport, Davenport, United States of America
+KDVT;Phoenix-Deer Valley Municipal Airport, Phoenix, United States of America
+KDWF;Wright AFB, Daylon, United States of America
+KDWH;David Wayne Hooks Memorial Airport, Houston, United States of America
+KDWN;Downtown Airpark, Oklahoma City, United States of America
+KDWS;Walt Disney World, Orlando, United States of America
+KDXR;Danbury Municipal Airport, Danbury, United States of America
+KDYS;Dyess AFB, Abilene, United States of America
+KEAA;Eagle Airport, Eagle, United States of America
+KEAN;Phifer Field, Wheatland, United States of America
+KEAT;Panaborr, Field, Wenatchee, United States of America
+KEAT;ngborn Memorial Airport, Wenatchee, United States of America
+KEAU;Eau Claire County Airport, Eau Claire, United States of America
+KEBR;Downtown, Baton Rouge, United States of America
+KEBS;Municipal Airport, Webster City, United States of America
+KECA;Emmet County Airport, East Tawas, United States of America
+KECG;Elizabeth City Coast Guard Air Station, Elizabeth City, United States of America
+KECS;Mondell, Newcastle, United States of America
+KEDE;Municipal, Edenton, United States of America
+KEDG;Weide AAF, Edgewood, United States of America
+KEED;Needles Airport, Needles, United States of America
+KEEN;Dillant-Hopkins, Keene, United States of America
+KEFD;Ellington Fieid, Houston, United States of America
+KEFW;Municipal, Jefferson, United States of America
+KEGE;Eagle County, Vail/Eagle, United States of America
+KEGI;Duke Field / Elgiun Auxiliary, Valparaiso, United States of America
+KEGP;Maverick Co, Eagle Pass, United States of America
+KEHT;Rentschler, East Hartford, United States of America
+KEKA;Murray Field, Eureka, United States of America
+KEKI;Municipal, Elkhart, United States of America
+KEKN;Elkins-Randolph County-Jennings Randolph Field, Elkins, United States of America
+KEKO;Elko Municipal-Harris Field, Elko, United States of America
+KELD;Goodwin Field, El Dorado, United States of America
+KELD;South Arkansas Regional Airport, El Dorado, United States of America
+KELF;Weedon Field, Eufaula, United States of America
+KELK;Municipal, Elk City, United States of America
+KELM;Elmira / Corning Regional Airport, Elmira / Corning, United States of America
+KELN;Bowers Field, Ellensburg, United States of America
+KELP;El Paso International Airport, El Paso, United States of America
+KELV;Elfin Cove SPB, Elfin Cove, United States of America
+KELY;Ely Airport, Ely, United States of America
+KELY;Yefland, Ely, United States of America
+KELZ;Wellsville Municipal Airport, Wellsville, United States of America
+KEMB;Embarkadero, San Francisco, United States of America
+KEMP;Emporia Municipal Airport, Emporia, United States of America
+KEND;Vance AFB, Enid, United States of America
+KENL;Municipal, Centralia, United States of America
+KENN;Nenana Municipal Airport, Nenana, United States of America
+KENV;AF Auxiliary Field, Wendover, United States of America
+KENW;Municipal, Kenosha, United States of America
+KENW;Kenosha Regional Airport, Kenosha, United States of America
+KEOK;Municipal Airport, Keokuk, United States of America
+KEPG;Browns, Weeping Water, United States of America
+KEPH;Ephrata Municipal Airport, Ephrata, United States of America
+KERI;Erie International Airport, Erie, United States of America
+KERO;Coast Guard, Eldred Rock, United States of America
+KERV;Municipal Airport, Kerrville, United States of America
+KESC;Delta County Airport, Escanaba, United States of America
+KESD;Orcas Island, Eastsound, United States of America
+KESF;Alexandria Esler Regional Airport, Alexandria, United States of America
+KESN;Newman Field, Easton, United States of America
+KESP;Birchwood-Pocono, East Strouctsburg, United States of America
+KEST;Estherville Municipal Airport, Estherville, United States of America
+KESW;State, Easton, United States of America
+KETN;Municipal, Eastland, United States of America
+KETS;Municipal, Enterprise, United States of America
+KEUG;Mahlon Sweet Field, Eugene, United States of America
+KEVA;Landing Strip, Evadale, United States of America
+KEVB;New Smyrna Beach, , United States of America
+KEVV;Evansville Regional Airport, Evansville, United States of America
+KEVV;Dress Regional, Evansville, United States of America
+KEVW;Evanston-Uinta County Burns Field, Evanston, United States of America
+KEWB;w Bedford Regional Airport, New Bedford, United States of America
+KEWK;City-County, Newton, United States of America
+KEWN;Craven County Regional Airport, New Bern, United States of America
+KEWN;Simmons Nott, New Bern, United States of America
+KEWR;Newark Liberty International Airport, Newark, United States of America
+KEXI;SPB, Excursion Inlet, United States of America
+KEYW;Key West International Airport, Key West, United States of America
+KFAF;Feiker AAF, Fort Eustis, United States of America
+KFAL;Falcon State, Roma, United States of America
+KFAM;Regional Airport, Farmington, United States of America
+KFAR;Hector International Airport, Fargo, United States of America
+KFAT;Fresno Air Terminal, Fresno, United States of America
+KFAY;Fayetteville Regional Airport, Fayetteville, United States of America
+KFAY;Municipal, Fayetteville, United States of America
+KFBG;Simmons AAF, Fort Bragg, United States of America
+KFBK;Ft Wainwright, Fairbanks, United States of America
+KFBL;Municipal, Faribault, United States of America
+KFBY;Municipal, Fairbury, United States of America
+KFCA;Glacier National Park International Airport, Kalispell, United States of America
+KFCH;Fresno-Chandier, Fresno, United States of America
+KFCM;Flying Cloud Airport, Minneapolis, United States of America
+KFCS;Butts AAF, Colorado Springs, United States of America
+KFCT;Firing Center AAF, Yakima, United States of America
+KFCY;Municipal, Forrest City, United States of America
+KFDK;Municipal, Frederick, United States of America
+KFDR;Frederick Municipal Airport, Frederick, United States of America
+KFEP;Albertus, Freeport, United States of America
+KFET;Fremont Municipal Airport, Fremont, United States of America
+KFEW;Warren AFB, Cheyenne, United States of America
+KFFA;First Flight, Kill Devil Hills, United States of America
+KFFL;Municipal Airport, Fairfieid, United States of America
+KFFO;Wright-Patterson AFB, Dayton, United States of America
+KFFT;Capital City Airport, Frankfort, United States of America
+KFHR;Friday Harbor, Friday Harbor Airport, Friday Harbor, United States of America
+KFHU;Libby AAF, Fort Huachuca, United States of America
+KFHU;Municipal, Sierra Vista, United States of America
+KFID;Elizabeth Field, Fishers Island, United States of America
+KFIL;Municipal, Filimore, United States of America
+KFKL;Chess-Lambertin, Franklin, United States of America
+KFKN;Municipal, Franklin, United States of America
+KFKN;J B Rose, Franklin, United States of America
+KFLD;Fond Du Lac County Airport, Fond Du Lac, United States of America
+KFLE;Fort Lee AAF, Petersburg, United States of America
+KFLG;Flagstaff Pulliam Field, Flagstaff, United States of America
+KFLL;Fort Lauderdale / Hollywood International Airport, Fort Lauderdale, United States of America
+KFLO;Florence Regional Airport, Florence, United States of America
+KFLU;Fiushing, New York, United States of America
+KFLV;Sherman AAF, Fort Leavenworth, United States of America
+KFLX;Municipal, Fallon, United States of America
+KFME;Tipton AAF, Fort Meade, United States of America
+KFMH;Otis AFB, Falmouth, United States of America
+KFMN;Four Corners Regional Airport, Farmington, United States of America
+KFMS;Municipal, Fort Madison, United States of America
+KFMY;Page Field, Fort Myers, United States of America
+KFNL;Municipal Airport, Fort Collins/Loveland, United States of America
+KFNR;SPB, Funter Bay, United States of America
+KFNT;Bishop International Airport, Flint, United States of America
+KFOE;Forbes AFB, Topeka, United States of America
+KFOK;The Gabreski Airport, Westhampton Beach, United States of America
+KFOK;Suffolk County, Westhampton, United States of America
+KFOP;Morris AAF, Forest Park, United States of America
+KFPR;St Lucie County International Airport, Fort Pierce, United States of America
+KFPY;Perry-Foley, Perry, United States of America
+KFRD;Friday Harbor Airport, Friday Harbor, United States of America
+KFRG;Republic Airport, Farmingdale, United States of America
+KFRG;Republic Field, Farmingdaie, United States of America
+KFRH;Municipal, French Lick, United States of America
+KFRI;Marshall AAF, Fort Riley, United States of America
+KFRR;Warren County, Front Royal, United States of America
+KFSD;Regional (Jo Foss Field), Sioux Falls, United States of America
+KFSI;Henry Post AAF, Fort Sill, United States of America
+KFSK;Municipal, Forl Scott, United States of America
+KFSM;Fort Smith Regional Airport, Fort Smith, United States of America
+KFSM;Municipal, Fort Smith, United States of America
+KFSN;Haley AAF, Fort Sheridan, United States of America
+KFST;Fort Stockton-Pecos County Airport, Fort Stockton, United States of America
+KFTK;Godman AAF, Fort Knox, United States of America
+KFTW;Meacham Field, Fort Worth, United States of America
+KFTY;Fulton County Airport-Brown Field, Atlanta, United States of America
+KFUL;Fullerton Municipal Airport, Fullerton, United States of America
+KFWA;Fort Wayne International Airport, Fort Wayne, United States of America
+KFWH;Carswell AFEI, Forl Worth, United States of America
+KFXE;Fort Lauderdale Executive Airport, Fort Lauderdale, United States of America
+KFXY;Municipal, Forest City, United States of America
+KFYM;Municipal, Fayetteville, United States of America
+KFYV;Municipal (Drake Field), Fayetteville, United States of America
+KGAD;Municipal, Gadsden, United States of America
+KGAG;Gage Airport, Gage, United States of America
+KGAI;Montgomery County, Gaithersburg, United States of America
+KGBO;Baltimore Greenbelt T, Baltimore, United States of America
+KGCC;Gillette-Campbell County Airport, Gillette, United States of America
+KGCK;Garden City Regional Airport, Garden City, United States of America
+KGCK;Municipal Airport, Garden City, United States of America
+KGCN;Grand Canyon National Park Airport, Grand Canyon, United States of America
+KGCY;Municipal, Greenville, United States of America
+KGDC;Donaldson Center, Greenville, United States of America
+KGDH;SPB, Golden Horn, United States of America
+KGDM;Municipal, Gardner, United States of America
+KGDO;Vare Maria, Guasdualito, United States of America
+KGDV;Dawson Community, Glendive, United States of America
+KGED;Sussex County Airport, Georgetown, United States of America
+KGEG;Spokane International Airport, Spokane, United States of America
+KGEY;South Big Horn County, Greybull, United States of America
+KGFA;Malmstrom AFB, Great Fails, United States of America
+KGFD;Pope Field, Greenfeid, United States of America
+KGFL;Warren County, Glens Falls, United States of America
+KGGG;Gregg County, Longview, United States of America
+KGGW;International, Glasgow, United States of America
+KGHM;Municipal, Centerville, United States of America
+KGIF;Gillbert Field, Winter Haven, United States of America
+KGJT;Walker Field, Grand Junction, United States of America
+KGLD;Renner Field, Goodiand, United States of America
+KGLE;Municipal, Gainesvilie, United States of America
+KGLR;Otsego County, Gayiord, United States of America
+KGLS;Scholes Field, Galveston, United States of America
+KGLW;Municipal, Glasgow, United States of America
+KGMU;Downtown, Greenville, United States of America
+KGMV;Monument Valley, Monument Valley Gldngs, United States of America
+KGNT;Milan, Grants, United States of America
+KGNV;J R Alison Municipal, Gainesville, United States of America
+KGOF;Goodfellow AFB, San Angelo, United States of America
+KGOL;State, Gold Beach, United States of America
+KGON;Groton-New London, Groton, United States of America
+KGPT;Biloxi Regional, Gulfport, United States of America
+KGRB;Austin-Straubel Field, Green Bay, United States of America
+KGRE;Municipal, Greenville, United States of America
+KGRF;Gray AAF, Tacoma, United States of America
+KGRK;Gray AAF, Killeen, United States of America
+KGRM;Devils Track, Grand Marais, United States of America
+KGRR;Kent County International Airport, Grand Rapids, United States of America
+KGSB;Seymour Johnson AFB, Goldsboro, United States of America
+KGSH;Goshen Municipal Airport, Goshen, United States of America
+KGSO;Piedmont Triad International Airport, Greensboro High Point, United States of America
+KGSP;Greenville-Spartanbur, Greer, United States of America
+KGSP;Greenville-Spartanbur, Greenville, United States of America
+KGST;Gustavus Arpt, Gustavus, United States of America
+KGTF;International, Great Fails, United States of America
+KGTG;Municipal, Grantsburg, United States of America
+KGTR;Golden Triangle Reg., Columbus, United States of America
+KGUF;Edwards, Gulf Shores, United States of America
+KGUN;Gunter AFB, Montgomery, United States of America
+KGUP;Senator Clark, Gallup, United States of America
+KGUS;Grissom AFB, Peru, United States of America
+KGVE;Municipal, Gordonsville, United States of America
+KGVL;Lee Gilmer Memorial, Gainesville, United States of America
+KGVT;Majors Field, Greenville, United States of America
+KGVW;Richards-Gebaur, Grandview, United States of America
+KGWO;Leflore, Greenwood, United States of America
+KGXY;Weld County, Greeley, United States of America
+KGYR;Litchfield, Goodyear, United States of America
+KGYY;Gary Regional, Chicago, United States of America
+KHAB;Marion County, Hamilton, United States of America
+KHAI;Dr Haines, Three Rivers, United States of America
+KHAR;Harrisburg Skylport, Harrisburg, United States of America
+KHAX;Hatbox Field, Muskogee, United States of America
+KHBB;Industrial Airpark, Hobbs, United States of America
+KHBG;Bobby L. Chain Mun., Hattiesburg, United States of America
+KHBO;Municipal, Humboldt, United States of America
+KHCA;Howard County, Big Spring, United States of America
+KHCC;Columbia County, Hudson, United States of America
+KHDE;Brewster Field, Holdrege, United States of America
+KHDN;Yampa Valley, Hayden, United States of America
+KHEE;Thompson-Robbins, Helena, United States of America
+KHES;State, Hermiston, United States of America
+KHEY;Hanchey Army Heliport, Ozark, United States of America
+KHEZ;Hardy-Anders, Natchez, United States of America
+KHFD;Brainard, Hartford, United States of America
+KHFF;Mackall AAF, Hoffrnan, United States of America
+KHGR;Wash. County Regional, Hagerstown, United States of America
+KHGT;Hunter AAF, Jolon, United States of America
+KHHI;Wheeler AFB, Wahiawa, United States of America
+KHIB;Chisholm, Hibbing, United States of America
+KHIE;Regional, Whitefield, United States of America
+KHII;Municipal, Lake Havasu City, United States of America
+KHIK;Hickam AFB, Honolulu, United States of America
+KHIO;Portland, Hillstooc, United States of America
+KHIP;Hill AFB, Ogden, United States of America
+KHKA;Municipal, Blytheville, United States of America
+KHKS;Hawkins Field, Jackson, United States of America
+KHLB;Hillenbrand, Batesville, United States of America
+KHLG;Ohio County, Wheeling, United States of America
+KHLM;Park TownsH/P, Holland, United States of America
+KHLR;Fort Hood AAF, Kilteen, United States of America
+KHMN;Holloman AFB, Alamogordo, United States of America
+KHMT;Ryan Field, Hemet, United States of America
+KHNB;Municipal, Huntingburg, United States of America
+KHNE;Tahneta Pass, lahneta Pass Lodge, United States of America
+KHNL;International, Honolulu, United States of America
+KHNS;Municipal, Haines, United States of America
+KHOB;Lea County, Hobbs, United States of America
+KHON;Howes, Huron, United States of America
+KHOP;Campbell AAF, Hopkinsville, United States of America
+KHOT;Memorial Field, Hot Springs, United States of America
+KHOU;Hobby, Houston, United States of America
+KHPN;Westchester County Apt, Westchester County, United States of America
+KHPN;Westchester County Airport, White Plains, United States of America
+KHPT;Municipal, Hampton, United States of America
+KHPV;Princeville, Kauai Island, United States of America
+KHQM;Bowerman, Hoquiam, United States of America
+KHRL;Valley International, Harlingen, United States of America
+KHRO;Boone County, Harrison, United States of America
+KHSB;Raleigh, Harrisburg, United States of America
+KHSH;Henclerson Sky Harbor, Las Vegas, United States of America
+KHSP;Ingalls Field, Hot Springs, United States of America
+KHST;AFB, Homestead, United States of America
+KHSV;Madison County, Huntsviile, United States of America
+KHTL;Roscommon County, Houghton, United States of America
+KHTS;Tri-State/Milton, Huntington, United States of America
+KHTW;Huntington County, Chesapeake, United States of America
+KHUA;Redstone AAF, Huntsville, United States of America
+KHUF;Hulman Field, Terre Haute, United States of America
+KHUL;International, Houlton, United States of America
+KHUM;Terrebonne, Houma, United States of America
+KHUS;Municipal, Hughes, United States of America
+KHVE;Intermediate, Hanksville, United States of America
+KHVR;City County, Havre, United States of America
+KHVS;Municipal, Hartsville, United States of America
+KHWD;Air Terminal, Hayward, United States of America
+KHWI;SPB, Hawk Inlet, United States of America
+KHWO;North Perry, Hollywood, United States of America
+KHYA;Barnstable, Hyannis, United States of America
+KHYG;SPB, Hydaburg, United States of America
+KHYL;SPB, Hollis, United States of America
+KHYR;Municipal, Hayward, United States of America
+KHYS;Municipal, Hays, United States of America
+KIAB;Mcconnell AFB, Wichita, United States of America
+KIAD;Dulles International Airport, Washington, United States of America
+KIAG;Niagara Falls International Airport, Niagara Falls, United States of America
+KIAH;George Bush Intercntl., Houston, United States of America
+KIAN;Bob Barker Memorial, Kiana, United States of America
+KICL;Municipal, Clarincla, United States of America
+KICT;Wichita Mid-Continent Airport, Wichita, United States of America
+KIDA;Fanning Field, Idaho Falls, United States of America
+KIDG;Municipal, Ida Grove, United States of America
+KIFP;Laughlin Bullhead Intl, Bullhead City, United States of America
+KIJX;Municipal, Jacksonville, United States of America
+KIKB;Wilkes County, Wilkesboro, United States of America
+KIKK;Greater Kankakee, Kankakee, United States of America
+KIKO;Nikolski AFS, Nikolski, United States of America
+KILE;Municipal, Killeen, United States of America
+KILG;Greater Wilmington, Wilmington, United States of America
+KILM;New Hanover County, Wilmington, United States of America
+KILN;Clinton Field, Wilmington, United States of America
+KIMT;Ford, Iron Mountain, United States of America
+KIND;Indianapolis International Airport, Indianapolis, United States of America
+KINL;Falls Intl, International Falls, United States of America
+KINR;Kincheloe AFIS, Sault Ste Marie, United States of America
+KINS;At Aux, Indian Springs, United States of America
+KINT;Smith-Reynolds, Winston Salem, United States of America
+KIPL;Imperial County, EI Centro, United States of America
+KIPL;imperial County, Imperial, United States of America
+KIPT;Lycorning County, Williamsport, United States of America
+KIRB;Municipal, Iraan, United States of America
+KIRC;Circle City, Circle, United States of America
+KIRK;Municipal, Kirksvite, United States of America
+KIRS;Kirsch Municipal, Sturgis, United States of America
+KISM;Municipal, Kissimmee, United States of America
+KISN;Sloulin Field Intl, Williston, United States of America
+KISO;Stallings Field, Kinston, United States of America
+KISP;Long Island Macarthur, Islip, United States of America
+KISQ;Schoolcrah County, Manistique, United States of America
+KISW;Alexander Pield, Wisconsin Rapids, United States of America
+KITH;Tompkins County, Ithaca, United States of America
+KIWD;Gogebic County, Ironwood, United States of America
+KIWS;West Houston, Houston, United States of America
+KIYK;Kern County, Inyokern, United States of America
+KJAC;Jackson Hole, Jackson, United States of America
+KJAE;Technology Park, Atlanta, United States of America
+KJAJ;Perimeter Mall, Atlanta, United States of America
+KJAN;Jackson Intl, Jackson, United States of America
+KJAO;Beaver Ruin, Atlanta, United States of America
+KJAS;County, Jasper, United States of America
+KJAX;International, Jacksonville, United States of America
+KJBC;Boston City Heliport, Boston, United States of America
+KJBP;Commerce Bus. Plaza, Los Angeles, United States of America
+KJBS;Hacienda Bus-Park H/P, Pleasanton, United States of America
+KJBT;City Landing, Bethel, United States of America
+KJCC;China Basin Heliport, San Francisco, United States of America
+KJCE;Convention Center H/P, Calkland, United States of America
+KJCI;Johnson Industrial, Kansas City, United States of America
+KJCT;Kimble County, Junction, United States of America
+KJCX;Citicorp Plaza H/P, Los Angeles, United States of America
+KJDM;Downtown Heliport, Miami, United States of America
+KJDT;Downtown Heliport, Minneapolis, United States of America
+KJDX;Central Bus. District, Houston, United States of America
+KJDY;Heliport, Downey, United States of America
+KJEF;Memorial, Jefferson City, United States of America
+KJEM;Heliport, Emeryville, United States of America
+KJFK;John F Kennedy Intl, New York, United States of America
+KJFN;Ashtabula, Jefferson, United States of America
+KJGC;Heliport, Grand Canyon, United States of America
+KJGL;Galleria, Atlanta, United States of America
+KJGP;Greenway Plaza H/P, Houston, United States of America
+KJGQ;Transco Twir Galleria, Houston, United States of America
+KJGX;Heliport, Glendale, United States of America
+KJHC;Island Heliport, Garden City, United States of America
+KJHY;Hyatt Regency H/P, Cambridge, United States of America
+KJI0;Intl Heliport, Ontario, United States of America
+KJID;City Of Industry H/P, Los Angeles, United States of America
+KJLA;Quartz Creek, Cooper Lodge, United States of America
+KJLB;Heliport, Long Beach, United States of America
+KJLH;US Army Heliport, Arlington Heights, United States of America
+KJLX;Union Station H/P, Los Angeles, United States of America
+KJMA;Marriot Astrodome, Houston, United States of America
+KJMC;Marin County, Sausalito, United States of America
+KJMD;Market Centre H/P, Dallas, United States of America
+KJMH;Marrioft Heliport, Schaumburg, United States of America
+KJMN;Municipal Heliport, Mankato, United States of America
+KJNH;North Park Inn H/P, Dallas, United States of America
+KJNP;Heliport, Newport Beach, United States of America
+KJOB;Downtown Heliport, Dallas, United States of America
+KJOC;Centerport Heliport, Santa Ana, United States of America
+KJOR;The City Heliport, Orange, United States of America
+KJOT;Municipal, Joliet, United States of America
+KJPD;Heliport, Pasadena, United States of America
+KJPN;Pentagon Army, Washington, United States of America
+KJPT;Park Ten Heliport, Houston, United States of America
+KJRA;West 30th St Heliport, New York, United States of America
+KJRB;Downtown Manhattan H/P, New York, United States of America
+KJRC;Municipal Heliport, Rochester, United States of America
+KJRD;Heliport, Riverside, United States of America
+KJRE;East 60th Street H/P, New York, United States of America
+KJSD;Sikorsky Heliport, Stratford, United States of America
+KJSG;San Rafael H/P, San Rafael, United States of America
+KJSK;Municipal Heliport, Saint Cloud, United States of America
+KJSL;Steel Pier H/Pt, Atlantic City, United States of America
+KJSN;Sherman Oaks H/P, Los Angeles, United States of America
+KJST;Cambria County, Johnstown, United States of America
+KJTO;Heliport, Thousand Oaks, United States of America
+KJUC;Universal City H/P, Los Angeles, United States of America
+KJUP;Cable Heliport, Upland, United States of America
+KJVI;Kupper, Manville, United States of America
+KJVL;Rock County, Janesville, United States of America
+KJWC;Warner Cntr Bus. Plaza, Los Angeles, United States of America
+KJWH;Westchase Hilton H/P, Houston, United States of America
+KJWL;Woodlawns, Houston, United States of America
+KJXN;Reynolds Municipal, Jackson, United States of America
+KKAE;SPB, Kake, United States of America
+KKBE;Hot Springs SPB, Bell Island, United States of America
+KKBW;Chignik Bay, Chignik, United States of America
+KKCC;Coffi-nan Cove SPB, Coffman Cove, United States of America
+KKCG;Fisheries, Chignik, United States of America
+KKCK;Fairfax Municipal, Kansas City, United States of America
+KKCL;Lacicion, Chignik, United States of America
+KKCN;SPB, Chernofski, United States of America
+KKDK;Municipal, Kodiak, United States of America
+KKIB;SPB, lvanof Bay, United States of America
+KKIC;Mesa Del Rey, King City, United States of America
+KKIP;Kickapoo, Wichita Falls, United States of America
+KKKB;SPB, Kitoi Bay, United States of America
+KKKI;SPB, Akiachak, United States of America
+KKKK;Kalakalket AFS, Kalakaket, United States of America
+KKKL;Karluk Lake SPB, Karluk Lake, United States of America
+KKLG;Municipal, Kalskag, United States of America
+KKLN;Larsen SPB, Larsen Bay, United States of America
+KKLS;Longview, Kelso, United States of America
+KKMO;Manolkotak SPB, Manolkotak, United States of America
+KKNT;Municipal, Kennett, United States of America
+KKOY;Olga Bay SPB, Olga Bay, United States of America
+KKOZ;Oizinkie SPB, Ouzinke, United States of America
+KKPB;Point Baker SPB, Point Baker, United States of America
+KKPH;Pauloff Harbor SPB, Pauloff Harbor, United States of America
+KKPK;Parks SPE, Parks, United States of America
+KKPN;Pauloff Harbor SPB, Kipnulk, United States of America
+KKPR;Pon Willianns SPB, Port Williams, United States of America
+KKPV;Perryvilie SPB, Perryville, United States of America
+KKPY;Port Bailey SPB, Port Bailey, United States of America
+KKSR;Federal No 1, Sanoy River, United States of America
+KKTH;SPB, Tikchik, United States of America
+KKTS;Brevig Mission, Teller Mission, United States of America
+KKWF;Waterfall SPS, Waterfall, United States of America
+KKWN;Kwinhagak, Quinhagak, United States of America
+KKWP;Village SPB, West Point, United States of America
+KKXA;Kasaan SPB, Kasaan, United States of America
+KKYL;Port Largo, Key Largo, United States of America
+KKYO;Topp Of Tampa, Tampa, United States of America
+KKZB;Zachar Bay SPB, Zachar Bay, United States of America
+KLAA;Lamar Field, Lamar, United States of America
+KLAF;Purdue University, Lafayette, United States of America
+KLAL;Municipal, Lakeland, United States of America
+KLAN;Capital City, Lansing, United States of America
+KLAR;General Brees Field, Laramie, United States of America
+KLAS;Mccarran Intl, Las Vegas, United States of America
+KLAW;Municipal, Lawton, United States of America
+KLAX;International, Los Angeles, United States of America
+KLBB;Preston Smith International, Lubbock, United States of America
+KLBE;Westmoreland County, Latrobe, United States of America
+KLBF;Lee Bird Field, North Platte, United States of America
+KLBL;Municipal, Liberal, United States of America
+KLCH;Municipal, Lake Charles, United States of America
+KLCI;Municipal, Laconia, United States of America
+KLCK;Rickenbacker, Columbus, United States of America
+KLDM;Mason County, Ludington, United States of America
+KLEB;Regional, Lebanon, United States of America
+KLEW;Auburn, Lewiston/Auburn, United States of America
+KLEX;Blue Grass, Lexington, United States of America
+KLFI;Langley AFB, Hampton, United States of America
+KLFK;Lufkin Angelina County, Nacogdoches, United States of America
+KLFN;Franklin, Louisburg, United States of America
+KLFT;Lalayette Regional, Lafayette, United States of America
+KLFT;Lafayette Regional, New Iberia, United States of America
+KLGA;La Guardia, New York, United States of America
+KLGB;Long Beach Municipal, Long Beach, United States of America
+KLGC;Calloway, La Grange, United States of America
+KLGF;Laguna AAF, Yuma, United States of America
+KLGU;Cache, Logan, United States of America
+KLHB;Lost Harbor Sea Port, Lost Harbor, United States of America
+KLHV;W T Piper Memorial, Lock Haven, United States of America
+KLIC;Municipal, Limon, United States of America
+KLIH;Lihue, Kauai Island, United States of America
+KLIT;Regional Airport, Little Rock, United States of America
+KLIY;Wright AAF, Hinesville, United States of America
+KLIZ;Lonno AFB, Limestone, United States of America
+KLJC;Intercontinental, Louisville, United States of America
+KLJN;Brazoria County, Lake Jackson, United States of America
+KLKE;Lake Union SPB, Seattle, United States of America
+KLKI;Lakeside USAF, Duluth, United States of America
+KLKV;Lake County, Lakeview, United States of America
+KLLY;Burlington County, Mount Holly, United States of America
+KLMS;Winston County, Louisville, United States of America
+KLMT;Kingsley Field, Klamath Falls, United States of America
+KLNA;Palm Beach County, West Palm Beach, United States of America
+KLND;Hunt Field, Lander, United States of America
+KLNI;Dew Station, Lonely, United States of America
+KLNK;Municipal, Lincoln, United States of America
+KLNN;Lost Nation, Willoughipy, United States of America
+KLNR;Tri County, Lone Rock, United States of America
+KLOL;Derby Field, Lovelock, United States of America
+KLOR;Lowe Army Heliport, Ozark, United States of America
+KLOT;Lewis Lockport, Lockport, United States of America
+KLOU;Bowman Field, Louisville, United States of America
+KLOZ;Corbin-London, London, United States of America
+KLPC;Lompoc Airport, Lompoe, United States of America
+KLPO;Municipal, Laporte, United States of America
+KLRD;International, Laredo, United States of America
+KLRF;Little Rock AFB, Jacksonville, United States of America
+KLRJ;Municipal, Lemars, United States of America
+KLRK;Coast Guard, Lincoln Rock, United States of America
+KLRN;Larson AFB, Moses Lake, United States of America
+KLRO;Sharpe AAF, Lathrop, United States of America
+KLRU;Municipal, Las Cruces, United States of America
+KLSD;Creech AAF, Lexington, United States of America
+KLSE;Municipal, La Crosse, United States of America
+KLSF;Lawson AAF, Fort Benning, United States of America
+KLSF;Lawson AAF, Columbus, United States of America
+KLSV;Nellis AFB, Las Vegas, United States of America
+KLTS;Altus AFB, Altus, United States of America
+KLTW;St Marys County, Leonardtown, United States of America
+KLUF;Luke AFB, Phoenix, United States of America
+KLUK;Municipal, Cincinnati, United States of America
+KLUL;Hester-Noble Field, Laurel, United States of America
+KLVM;Mission Field, Livingiston, United States of America
+KLWB;Greenbrier Valley, Lewisburg, United States of America
+KLWL;Harriet Field, Wells, United States of America
+KLWS;Nez Perce County Rgnl, Lewiston, United States of America
+KLWT;Municipal, Lewistown, United States of America
+KLWV;Municipal, Lawreneeville, United States of America
+KLYH;Preston-Glenn Field, Lynchburg, United States of America
+KLYO;Rice County Municipal, Lyons, United States of America
+KMAC;Smart, Macon, United States of America
+KMAF;Odessa Regional, Midland, United States of America
+KMBL;Blacker, Manistee, United States of America
+KMBS;Tri City, Saginaw, United States of America
+KMCB;Pike County, Mccomb, United States of America
+KMCC;Mcclellan AFB, Sacramento, United States of America
+KMCE;Merced Municipal Arpt, Merced, United States of America
+KMCF;Mac Dill AFB, Tampa, United States of America
+KMCI;International, Kansas City, United States of America
+KMCN;Lewis B Wilson, Macon, United States of America
+KMCO;Orlando International Airport, Orlando, United States of America
+KMDA;Martindale AAF, San Antonio, United States of America
+KMDD;Airpark, Midland, United States of America
+KMDH;Southern Illinois, Carbondale, United States of America
+KMDJ;City-county, Madras, United States of America
+KMDN;Jetferson Proving Cird, Madison Island, United States of America
+KMDT;Harrisburg Intl, Harrisburg, United States of America
+KMDW;Midway, Chicago, United States of America
+KMEI;Key Field, Meridian, United States of America
+KMEM;Memphis International Airport, Memphis, United States of America
+KMEO;Dare County Regional, Manteo, United States of America
+KMER;Castle AFB, Merced, United States of America
+KMEV;Douglas County, Minden, United States of America
+KMFD;Lahm Municipal, Mansfield, United States of America
+KMFE;Miller International, Mcallen, United States of America
+KMFI;Municipal, Marshfield, United States of America
+KMFR;Jackson County, Medford, United States of America
+KMFV;Accomack County, Melfa, United States of America
+KMGC;Michigan City Arpt, Michigan City, United States of America
+KMGE;Dobbins AFB, Marietta, United States of America
+KMGI;Matagorda AFB, Matagorda Island, United States of America
+KMGJ;Orange County, Montgomery, United States of America
+KMGM;Dannelly Fld, Montgomery, United States of America
+KMGR;Thornasville, Moultrie, United States of America
+KMGY;Montgomery Co, Dayton, United States of America
+KMHE;Municipal, Mitchell, United States of America
+KMHK;Municipal, Manhattan, United States of America
+KMHL;Memorial Municipal, Marshall, United States of America
+KMHM;Intermediate, Minchumina, United States of America
+KMHR;Mather AFB, Sacramento, United States of America
+KMHS;Rep, Mount Shasta, United States of America
+KMHT;Municipal, Manchester, United States of America
+KMHV;Kern County, Mojave, United States of America
+KMIA;Miami International Airport, Miami, United States of America
+KMIB;Minot AFB, Minot, United States of America
+KMIC;Crystal, Minneapolis, United States of America
+KMIE;Delaware County, Muncie, United States of America
+KMIF;Roy Hurd Memorial, Monahans, United States of America
+KMIQ;Millard, Omaha, United States of America
+KMIT;Kern County, Shatter, United States of America
+KMIW;Municipal, Marshalitown, United States of America
+KMJX;Robert J Miller, Toms River, United States of America
+KMKC;Downtown, Kansas City, United States of America
+KMKE;General Mitchell, Milwaukee, United States of America
+KMKF;Mckenna AAF, Columbus, United States of America
+KMKG;Muskegon County Airport, Muskegon, United States of America
+KMKK;Molokai, Hoolehua, United States of America
+KMKL;Mckellar, Jackson, United States of America
+KMKO;Davis Field, Muskociee, United States of America
+KMKT;Municipal, Mankato, United States of America
+KMLB;Melbourne International, Melbourne, United States of America
+KMLI;Quad-City, Moline, United States of America
+KMLJ;Baldwin County, Milledgeville, United States of America
+KMLS;Municipal, Milles City, United States of America
+KMLU;Municipal, Monroe, United States of America
+KMMI;McMinn County, Athens, United States of America
+KMML;Muncipal-Ryan Field, Marshall, United States of America
+KMMN;Minute Man Airfield, Stow, United States of America
+KMMR;Camp MayDry AHP, Austin, United States of America
+KMMS;Selts, Marks, United States of America
+KMMT;Me Entire ANG Base, Columbia, United States of America
+KMMU;Municipal, Morristown, United States of America
+KMNN;Municipal, Marion, United States of America
+KMOB;Mobile Municipal Arpt, Mobile, United States of America
+KMOB;Municipal, Macomb, United States of America
+KMOD;Municipal, Modesto, United States of America
+KMOP;Municipal, Mount Pleasant, United States of America
+KMOR;Moore-Murrell, Morristown, United States of America
+KMOS;Intermediate, Moses Point, United States of America
+KMOT;International, Minot, United States of America
+KMOX;Municipal, Morris, United States of America
+KMPB;SPB, Miami, United States of America
+KMPE;Griswold, Madison, United States of America
+KMPJ;Petit Jean Park, Morrilton, United States of America
+KMPV;Edward F Knapp State, Montpelier, United States of America
+KMPZ;Municipal, Mt Pleasant, United States of America
+KMQT;Marquette County Arpt, Marquette, United States of America
+KMQW;Telfair-Wheeler, Mc Rae, United States of America
+KMRC;Maury County, Columbia, United States of America
+KMRF;Municipal, Marfa, United States of America
+KMRN;Lenoir, Morganton, United States of America
+KMRY;Monterey Peninsula, Monterey, United States of America
+KMSC;Falcon Field, Mesa, United States of America
+KMSN;Dane County Regional, Madison, United States of America
+KMSO;Johnson-Bell Field, Missoula, United States of America
+KMSP;St Paul Intl, Minneapolis, United States of America
+KMSS;Richards Field, Massena, United States of America
+KMSV;Sullivan County Intl, Monticello, United States of America
+KMSY;New Orleans Orleans International Airport, New Orleans, United States of America
+KMTC;Selfridge ANGS, Mt Clemens, United States of America
+KMTH;Marathon Flight Strip, Marathon, United States of America
+KMTJ;Montrose County, Montrose, United States of America
+KMTM;SPB, Metlakatia, United States of America
+KMTN;Glenn L Martin, Baltimore, United States of America
+KMTO;Coles County Memorial, Mattoon, United States of America
+KMTP;Sky Portal, Montauk, United States of America
+KMTW;Municipal, Manitowoc, United States of America
+KMTX;Metro Field, Fairbanks, United States of America
+KMUI;Muir AAF, Fort Indiantown, United States of America
+KMUL;Spence, Moultrie, United States of America
+KMUO;AFB, Mountain Home, United States of America
+KMUV;Mustin Alf, Philadelphia, United States of America
+KMVC;Monroe County, Monroeville, United States of America
+KMVE;Municipal, Montevideo, United States of America
+KMVL;Morrisville-Stowe, Stowe, United States of America
+KMVM;Monument Valley, Kayenta, United States of America
+KMVN;Mt Vernon-Outland, Mt Vernon, United States of America
+KMVW;Skagit Regional, Mount Vernon, United States of America
+KMWA;Williamson County, Marion, United States of America
+KMWC;Lawrence J Timmerman, Milwaukee, United States of America
+KMWH;Grant County, Moses Lake, United States of America
+KMWL;Mineral Wells Arpt, Mineral Wells, United States of America
+KMWM;Municipal, Windom, United States of America
+KMWO;Hook Field, Middletown, United States of America
+KMXA;Municipal, Manila, United States of America
+KMXC;San Juan County, Monticello, United States of America
+KMXF;Maxwell AFB, Montgomery, United States of America
+KMXO;Municipal, Monticello, United States of America
+KMYF;Montgomery Field, San Diego, United States of America
+KMYR;Myrtle Beach AFB, Myrtle Beach, United States of America
+KMYU;Ellis Field, Mekoryuk, United States of America
+KMYV;Yuba County, Marysville, United States of America
+KMZZ;Marion, Marion, United States of America
+KNAB;Albany NAS, Albany, United States of America
+KNBG;NAS/Alvin Callendar, New Orleans, United States of America
+KNBP;Battery Pk City/N. Cov, New York, United States of America
+KNBU;NAS, Glenview, United States of America
+KNCO;NAS, Quonset Point, United States of America
+KNDP;Ellyson NAS, Pensacola, United States of America
+KNDV;USN Heliport, Anacostia, United States of America
+KNEA;NAS, Glynco, United States of America
+KNEL;Naec, Lakehurst, United States of America
+KNEN;Olf Usn, Whitehouse, United States of America
+KNES;East 34th St Landing, New York, United States of America
+KNEW;Lakefront, New Orleans, United States of America
+KNFB;Detroit NAF, Mt Clemens, United States of America
+KNFL;NAS, Fallon, United States of America
+KNGC;North Rim, Grand Canyon, United States of America
+KNGP;NAS, Corpus Christi, United States of America
+KNGU;NAS Chambers, Norfolk, United States of America
+KNGW;Cabaniss Field, Corpus Christi, United States of America
+KNGZ;NAS, Alameda, United States of America
+KNHX;Barin Olf Osn, Foley, United States of America
+KNHZ;NAS, Brunswick, United States of America
+KNIP;Jacksonville NAS, Jacksonville, United States of America
+KNIR;Chase Field NAS, Beeville, United States of America
+KNJK;NAF, El Centro, United States of America
+KNKX;Miramar NAS, San Diego, United States of America
+KNLC;NAS/Reeves Feid, Lemoore, United States of America
+KNLE;Jerry Tyler Memorial, Niles, United States of America
+KNOH;Chicago NAS, Chicago, United States of America
+KNPA;Pensacola NAS, Pensacoia, United States of America
+KNPT;State, Newport, United States of America
+KNQA;NAS, Memphis, United States of America
+KNQI;NAS, Kingsville, United States of America
+KNQX;NAS, Key West, United States of America
+KNRB;Ns, Mayport, United States of America
+KNRC;Aux Field, Crows Landing, United States of America
+KNRS;NAS, Imperial Beach, United States of America
+KNSE;Whiting Field NAS, Milton, United States of America
+KNSF;Andrews NAF, Camp Springs, United States of America
+KNTD;Point Mugu NAS, Port Hueneme, United States of America
+KNTJ;Manti-Ephrairn, Manti, United States of America
+KNTU;NAS, Oceana, United States of America
+KNUN;Saufley NAS, Pensacola, United States of America
+KNUQ;Moffett Field, Mountain View, United States of America
+KNUW;Ault Field, Whidbey Island, United States of America
+KNWH;Pariin Field, Newport, United States of America
+KNWS;Pier 11 Wall St. SPB, New York, United States of America
+KNXX;Willow Grove NAS, Willow Grove, United States of America
+KNYG;Quantanice NAS, Quantico, United States of America
+KNZC;Cecil Field NAS, Jacksonville, United States of America
+KNZY;North Island NAS, San Diego, United States of America
+KOAJ;Albert J Ellis, Jacksonville, United States of America
+KOAK;Oakland Metropolitan Oakland International Airport, Oakland, United States of America
+KOAR;Fritzsche AAF, Monterey, United States of America
+KOBE;County, Okeechobee, United States of America
+KOBK;Sky Harbor, Northbrook, United States of America
+KOBT;Oakland/Coliseum Stat, Oakland, United States of America
+KOBU;Kolauk/Wien, Kobuk, United States of America
+KOCF;Taylor Field, Ocala, United States of America
+KOCH;Nacogdoches, Lufkin, United States of America
+KOCN;Municipal, Oceanside, United States of America
+KOCW;Warren Field, Washington, United States of America
+KOEA;Oneal, Vincennes, United States of America
+KOEO;Municipal, Osceola, United States of America
+KOFK;Stefan Field, Norfolk, United States of America
+KOGA;Searle Field, Ogaliala, United States of America
+KOGB;Municipal, Orangeburg, United States of America
+KOGD;Municipal, Ogden, United States of America
+KOHC;AFS, Northeast Cape, United States of America
+KOIL;Spiane Memorial, Oil City, United States of America
+KOJC;Johnson Executive, Kansas City, United States of America
+KOKC;Will Rogers World Airport, Oklahoma City, United States of America
+KOKK;Kokorno, Kokorno, United States of America
+KOLE;Municipal, Olean, United States of America
+KOLF;International, Wolf Point, United States of America
+KOLH;Old Harbor SPB, Old Harbor, United States of America
+KOLS;International, Nogales, United States of America
+KOLV;Olive Branch Arpt, Olive Branch, United States of America
+KOLY;Olney-Noble, Olney, United States of America
+KOMA;Eppley Airfield, Omaha, United States of America
+KOMK;Municipal, Omak, United States of America
+KONA;Municipal, Winona, United States of America
+KONH;Municipal, Oneonta, United States of America
+KONL;Municipal, Oneill, United States of America
+KONT;International, Ontario, United States of America
+KOOA;Municipal, Oskaloosa, United States of America
+KOPF;Opa Locka, Miami, United States of America
+KOPL;St Landry Parish, Opeiousas, United States of America
+KORD;O'Hare international, Chicago, United States of America
+KORF;International, Norfolk, United States of America
+KORI;Port Lions SPB, Port Lions, United States of America
+KORL;Herndon / Orlando Executive Airport, Orlando, United States of America
+KORQ;Heliport, Norwalk, United States of America
+KORV;Curtis Memorial, Noorvik, United States of America
+KOSC;Wurtsmith AFB, Oscoda, United States of America
+KOSH;Wittman Field, Oshkosh, United States of America
+KOSU;Ohio State University, Columbus, United States of America
+KOSX;Attala County, Kosciusko, United States of America
+KOTM;Industrial, Ottumwa, United States of America
+KOTN;Green, Oaktown, United States of America
+KOTO;Vor, Otto, United States of America
+KOUN;Max Westrieimer, Norman, United States of America
+KOVE;Municipal Airport, Oroville, United States of America
+KOWB;Daviess County, Owensboro, United States of America
+KOWD;Memorial, Norwood, United States of America
+KOWK;Central Maine, Norridgewock, United States of America
+KOXC;Waterbury-Oxford, Oxford, United States of America
+KOXD;Miami University, Oxford, United States of America
+KOZR;Cairns AAF, Ozark, United States of America
+KPAE;Snohomish County, Everett, United States of America
+KPAH;Barkley Regional, Paducah, United States of America
+KPAK;Port Allen, Hanapepe, United States of America
+KPAM;Tyndall AFB, Panama City, United States of America
+KPBA;Point Barrow, Barrow, United States of America
+KPBF;Grider FieId, Pine Bluff, United States of America
+KPBG;AFB, Plattsburgh, United States of America
+KPBI;International, West Palm Beach, United States of America
+KPCD;Municipal, Prairie Du Chien, United States of America
+KPCU;Pearl River County, Picayune, United States of America
+KPDK;De Kalb/Peachtree, Atlanta, United States of America
+KPDT;Eastern Oregon Regional At Pendleton Airport, Pendleton, United States of America
+KPDX;Portland International Airport, Portland, United States of America
+KPEC;Pelican SPB, Pelican, United States of America
+KPFC;State, Pacific City, United States of America
+KPFN;Bay County International Airport, Panama City, United States of America
+KPGA;Municipal Airport, Page, United States of America
+KPGC;Grant County, Petersburg, United States of America
+KPGD;Charlotte County, Punta Gorda, United States of America
+KPGL;Jackson County, Paseagoula, United States of America
+KPGO;Stevens Field, Pagosa Springs, United States of America
+KPGV;Pitt-Greenville, Greenville, United States of America
+KPHD;Harry Clever Field, New Philadelphia, United States of America
+KPHF;Newport News / Williamsburg, Hampton, United States of America
+KPHF;Williamsburg, Newport News, United States of America
+KPHK;Palm Beach Co Glades, Pariolkee, United States of America
+KPHL;International, Philadelphia, United States of America
+KPHN;St. Clair County International, Port Huron, United States of America
+KPHT;Henry County, Paris, United States of America
+KPHX;Sky Harbor International Airport, Phoenix, United States of America
+KPIA;Greater Peoria Regional Airport, Peoria, United States of America
+KPIB;Hattiesburg-Laurel Reg, Laurel, United States of America
+KPIE;International, St Petersburg, United States of America
+KPIE;International, Clearwater, United States of America
+KPIH;Pocatello Regional Airport, Pocatello, United States of America
+KPII;Phillips Field, Fairbanks, United States of America
+KPIM;Garden Harris County, Pine Mountain, United States of America
+KPIP;Pilot Point Arpt, Pilot Point, United States of America
+KPIR;Pierre Regional Airport, Pierre, United States of America
+KPIT;Pittsburgh International Airport, Pittsburgh, United States of America
+KPKA;SPB, Napaskiak, United States of America
+KPKB;Wood County, Parkersburg, United States of America
+KPLB;Clinton County, Plattsburgh, United States of America
+KPLK;M Graharn Clark, Branson/Point Lookout, United States of America
+KPLN;Emmet County, Peliston, United States of America
+KPLR;St Clair County, Pell City, United States of America
+KPLY;Plymouth, Plymouth, United States of America
+KPMB;Intermediate, Pembina, United States of America
+KPMD;Air Force 42, Palmciale, United States of America
+KPMH;Regional, Portsmouth, United States of America
+KPMI;AFS, Port Moller, United States of America
+KPMU;SPB, Paimiut, United States of America
+KPMX;Metropolitan, Palmer, United States of America
+KPNC;Ponca City Municipal Airport, Ponca City, United States of America
+KPNE;North Philadelphia, Philadelphia, United States of America
+KPNS;Regional, Pensacola, United States of America
+KPNX;Grayson County, Sherman-Denison, United States of America
+KPOB;Pope AFB, Fayetteville, United States of America
+KPOC;Brackett Field, La Verne, United States of America
+KPOE;Polk AAF, Fort Polk, United States of America
+KPOF;Earl Fields Memorial, Poplar Bluff, United States of America
+KPOH;Municipal, Pocahontas, United States of America
+KPOU;Dutchess County, Poughkeepsie, United States of America
+KPPA;Perry Lefors Field, Pampa, United States of America
+KPPF;Tri-City, Parsons, United States of America
+KPQI;Municipal, Presque Isle, United States of America
+KPRC;Love Field, Prescott, United States of America
+KPRO;Municipal, Perry, United States of America
+KPRT;Coast Guard Heliport, Point Retreat, United States of America
+KPRX;Cox Field, Paris, United States of America
+KPSB;Mid-State, Philipsburg, United States of America
+KPSC;Tri-Cities, Pasco, United States of America
+KPSF;Pittsfield Municipal Airport, Pittsfield, United States of America
+KPSG;Municipal, Petersburg, United States of America
+KPSK;New River Valley, Dublin, United States of America
+KPSM;Pease AFB, Portsmouth, United States of America
+KPSP;Municipal, Palm Springs, United States of America
+KPSQ;SPB, Philadelphia, United States of America
+KPTB;Municipal, Petersburg, United States of America
+KPTN;Municipal Heliport, Morgan City, United States of America
+KPTN;Williams Memorial, Patterson, United States of America
+KPTS;Municipal, Pittsburg, United States of America
+KPTW;Pottstown/Limerick, Pottstown, United States of America
+KPUB;Memorial, Puelblo, United States of America
+KPUC;Carbon County, Price, United States of America
+KPUW;Moscow Regional Airport, Pullman, United States of America
+KPUW;Moscow Regional, Pullman, United States of America
+KPVD;Theodore Francis, Providence, United States of America
+KPVW;Hale County, Plainview, United States of America
+KPVZ;Casement, Painesville, United States of America
+KPWA;Wiley Post, Oklahoma City, United States of America
+KPWD;Sherwood, Plentywood, United States of America
+KPWK;Pal-Waukee, Chicago, United States of America
+KPWM;Intl Jetport, Portland, United States of America
+KPYL;Perry SPB, Perry Island, United States of America
+KQAW;Ft Mcclellan Bus Trml, Anniston, United States of America
+KQBF;Vail Van Service, Vail/Eagle, United States of America
+KQCE;Van Service, Copper Mountain, United States of America
+KQDK;Greyhound Bus Service, Chattanooga, United States of America
+KQJJ;FlightLink Bus Service, Dalton, United States of America
+KQKB;Van Service, Breckenridge, United States of America
+KQKS;Van Service, Keystone, United States of America
+KQMP;FlightLink Bus Service, Macon, United States of America
+KQNY;Marine Air Terminal, New York, United States of America
+KQWF;Fort Collins Bus Svce, Fort Collins/Loveland, United States of America
+KQWG;Wilgrove Air Park, Charlotte, United States of America
+KQWH;Loveland Bus Service, Fort Collins/Loveland, United States of America
+KQWM;Longmont Bus Service, Denver, United States of America
+KQWP;Van Service, Winter Park, United States of America
+KRAC;Horlick, Racine, United States of America
+KRAL;Riverside Municipal, Riverside, United States of America
+KRAP;Reglonal, Rapid City, United States of America
+KRBD;Redbird, Dallas, United States of America
+KRBF;Big Bear City Arpt, Big Bear, United States of America
+KRBG;Municipal, Roseburg, United States of America
+KRBK;French Valley, Rancho, United States of America
+KRBL;Red Bluff Fss, Red Bluff, United States of America
+KRCA;Elisworth AFB, Rapid City, United States of America
+KRCK;Coffield, Rockdale, United States of America
+KRCR;Fufton County, Rochester, United States of America
+KRCT;Miller Field, Reed City, United States of America
+KRDG;Municipa/Spaatz Fld, Reading, United States of America
+KRDM;Roberts Field, Redmond, United States of America
+KRDR;Grand Forks AFB, Red River, United States of America
+KRED;Mifflin County, Reedsville, United States of America
+KRED;Mifflin County, Lewiston, United States of America
+KREE;Reese AFB, Lubbock, United States of America
+KREO;State, Rome, United States of America
+KREW;Municipal, WafterborO, United States of America
+KRFD;Greater Rocklord, Rockford, United States of America
+KRFG;Rooke Field, Refugio, United States of America
+KRFK;Rollang Field, Anguilla, United States of America
+KRGR;Ranger Municipal, Ranger, United States of America
+KRHI;Oneida County, Rhinelander, United States of America
+KRHV;Reid-Hiliview, San Jose, United States of America
+KRIC;Intl (Byrd Field), Richmond, United States of America
+KRID;Richmond, Richmond, United States of America
+KRIF;Reynolds, Richfield, United States of America
+KRIL;Garfield County, Rifle, United States of America
+KRIR;Riverside Fla-Bob, Riverside, United States of America
+KRIV;March AFB, Riverside, United States of America
+KRKD;Knox County Regional, Rockland, United States of America
+KRKP;Aransas County, Rockport, United States of America
+KRKR;Robert S Kerr, Poteau, United States of America
+KRKS;Sweetwater County, Rock Springs, United States of America
+KRKW;Municipal, Rockwood, United States of America
+KRLA;National, Rolla, United States of America
+KRLI;Reilly AHP, Anniston, United States of America
+KRLU;Bornite Upper, Bornite, United States of America
+KRMC;Machesney, Rockford, United States of America
+KRME;Griffiss AFB, Rome, United States of America
+KRMG;Richard B Russell, Rome, United States of America
+KRNC;Warren County, Mcminnville, United States of America
+KRNE;Renaison, Roanne, United States of America
+KRNH;Municipal, New Richmond, United States of America
+KRNO;Reno/Tahoe Int'I, Reno, United States of America
+KRNZ;Rensselaer, Rensselaer, United States of America
+KROA;Municipal, Roanoke, United States of America
+KROC;Monroe County, Rochester, United States of America
+KROW;Industrial, Roswell, United States of America
+KROX;Municipal, Roseau, United States of America
+KRRL;Municipal, Merrill, United States of America
+KRSH;Russian SPB, Russian Mission, United States of America
+KRSJ;Rosario SPB, Rosario, United States of America
+KRST;Municipal, Rochester, United States of America
+KRSW;Southwest Florida International Airport, Fort Myers, United States of America
+KRTN;Crews Field, Raton, United States of America
+KRUI;Municipal, Ruidoso, United States of America
+KRVS;R.Lloyd Jones, Tuisa, United States of America
+KRWF;Redwood Falls Municipal Airport, Redwood Falls, United States of America
+KRWI;Rocky Mount-Wilson Aiport, Rocky Mount, United States of America
+KRWL;Municipal Airport, Rawlins, United States of America
+KRYY;Cobb County Airport, McCollum Field, Atlanta, United States of America
+KRZH;Quartz Hill, Lancaster, United States of America
+KRZZ;Halifax County Airport, Roanoke Rapids, United States of America
+KSAA;Shively, Saratoga, United States of America
+KSAC;Sacramento Executive Airport, Sacramento, United States of America
+KSAD;Safford Municipal Airport, Safford, United States of America
+KSAF;Santa Fe County Municipal Airport, Santa Fe, United States of America
+KSAN;San Diego International-Lindbergh Field, San Diego, United States of America
+KSAR;Sparta Community, Sparta, United States of America
+KSAT;San Antonio International Airport, San Antonio, United States of America
+KSAV;Savannah International Airport, Savannah, United States of America
+KSBA;Santa Barbara Municipal Airport, Santa Barbara, United States of America
+KSBD;Norton AFB, San Bernardino, United States of America
+KSBM;Sheboygan County Memorial Airport, Sheboygan, United States of America
+KSBN;South Bend Regional Airport, South Bend, United States of America
+KSBP;San Luis Obispo County-Mc Chesney Field, San Luis Obispo, United States of America
+KSBT;Tri-City, San Bernardino, United States of America
+KSBY;Wicomico Regional, Salisbury-Ocean City, United States of America
+KSCB;State, Scribner, United States of America
+KSCC;Deadhorse Airport, Prudhoe Bay / Deadhorse, United States of America
+KSCF;Scottsdale Municipal, Phoenix, United States of America
+KSCH;County Airport, Scheneetady, United States of America
+KSCK;Stockton Metropolitan Airport, Stockton, United States of America
+KSCM;SPB, Scammon Bay, United States of America
+KSCR;Municipal, Scranton, United States of America
+KSDF;Standiford Field, Louisvilie, United States of America
+KSDM;Brown Field Municipal Airport, San Diego, United States of America
+KSDP;Municipal, Sand Point, United States of America
+KSDY;Richland Municipal, Sidney, United States of America
+KSEA;Seattle-Tacoma International Airport, Seattle, United States of America
+KSEE;Gillespie Field, San Diego, United States of America
+KSEE;Air Terminal, Sebring, United States of America
+KSEG;Penn Valley Airport, Selinsgrove, United States of America
+KSEM;Craig AFB, Selma, United States of America
+KSEP;Clark Field Municipal, Stephenville, United States of America
+KSER;Freeman Municipal, Seymour, United States of America
+KSES;Selfield, Selma, United States of America
+KSFB;Sanford International Airport, Orlando, United States of America
+KSFF;Felts Field, Spokane, United States of America
+KSFO;San Francisco International Airport, San Francisco, United States of America
+KSFZ;North Central, Smithfield, United States of America
+KSGF;Springfield-Branson Regional Airport, Springfield, United States of America
+KSGH;Municipal Airport, Springfield, United States of America
+KSGR;Sugar Land Municipal, Houston, United States of America
+KSGU;Municipal, Saint George, United States of America
+KSHD;Shenandoah Valley, Staunton, United States of America
+KSHN;Sanderson Field, Shelton, United States of America
+KSHR;Sheridan County Airport, Sheridan, United States of America
+KSHV;Shreveport Regional Airport, Shreveport, United States of America
+KSIK;Memorial, Sikeston, United States of America
+KSIV;County, Sullivan, United States of America
+KSIY;Siskiyou County, Montague, United States of America
+KSJC;Municipal, San Jose, United States of America
+KSJC;San Jose International Airport, San Jose, United States of America
+KSJN;St Johns Municipal, St Johns, United States of America
+KSJT;Mathis Fld, San Angelo, United States of America
+KSKA;Fairchild AFB, Spokane, United States of America
+KSKF;Kelly AFB, San Antonio, United States of America
+KSKJ;Sitkinak Cgs, Sitkinak Island, United States of America
+KSKW;Intermediate, Skwentna, United States of America
+KSKY;Griffing Sandusky, Sandusky, United States of America
+KSLB;Municipal, Storm Lake, United States of America
+KSLC;Salt Lake City International Airport, Salt Lake City, United States of America
+KSLE;Mcnary Field, Salem, United States of America
+KSLG;Smith Field, Siloam Springs, United States of America
+KSLJ;Stellar Air Park, Chandler, United States of America
+KSLK;Adirondack Regional Airport, Saranac Lake, United States of America
+KSLN;Salina Municipal Airport, Salina, United States of America
+KSLO;Leckrone, Salem, United States of America
+KSMD;Smith Field, Fort Wayne, United States of America
+KSME;Pulaski County, Somerset, United States of America
+KSMF;Sacramento International Airport, Sacramento, United States of America
+KSMO;Santa Monica Municipal Airport, Santa Monica, United States of America
+KSMX;Santa Maria Public Airport, Santa Maria, United States of America
+KSNA;John Wayne Airport-Orange County Airport, Santa Ana, United States of America
+KSNK;Winston Field, Snyder, United States of America
+KSNL;Municipal, Shawnee, United States of America
+KSNS;Salinas Municipal Airport, Salinas, United States of America
+KSNY;Sidney Municipal Airport, Sidney, United States of America
+KSOP;Pinehurst-S. Pines, Southern Pines, United States of America
+KSOW;Show Low Municipal, Show Low, United States of America
+KSPA;Downtown Memorial, Spartanburg, United States of America
+KSPF;Black Hills, Spearfish / Clyde Ice, United States of America
+KSPG;Whitted Airport, St Petersburg, United States of America
+KSPI;Capital Airport, Springlield, United States of America
+KSPQ;Catalina SPB, San Pedro, United States of America
+KSPS;Sheppard AFB, Wichita Fails, United States of America
+KSPW;Spencer Municipal Airport, Spencer, United States of America
+KSPX;Spaceland, Houston, United States of America
+KSPZ;Springdale Municipal, Springdale, United States of America
+KSQI;Whiteside County, Sterling Rockfalis, United States of America
+KSQL;San Carlos Airport, San Carlos, United States of America
+KSQV;Sequirn Valley Arpt, Sequirn, United States of America
+KSRF;Hamilton U. S. Army Airfield, San Rafael, United States of America
+KSRQ;Sarasota-Bradenton International Airport, Sarasota / Bradenton, United States of America
+KSRU;Skypark, Santa Cruz, United States of America
+KSRW;Rowan County, Salisbury, United States of America
+KSSC;Shaw AFB, Surriter, United States of America
+KSSF;Stinson Municipal Airport, San Antonio, United States of America
+KSSI;Mckinnon Airport, Brunswick, United States of America
+KSSU;Greenbrier, White Sulphur Springs, United States of America
+KSTC;St Cloud Municipal Airport, St Cloud, United States of America
+KSTJ;Rosecrans Memorial Airport, St Joseph, United States of America
+KSTK;Crosson Field, Sterling, United States of America
+KSTL;Lambert-St Louis International Airport, St Louis, United States of America
+KSTP;St Paul Downtown Holman Field, St Paul, United States of America
+KSTS;Sonoma County Airport, Santa Rosa, United States of America
+KSUA;Witham Field, Stuart, United States of America
+KSUC;Schloredt, Sundance, United States of America
+KSUE;Door County, Sturgeon Bay, United States of America
+KSUM;Municipal, Surnter, United States of America
+KSUN;Sun Valley/Friedman Memorial, Hailey, United States of America
+KSUS;Spirit Of St Louis Airport, St Louis, United States of America
+KSUU;Travis AFB, Fairfield, United States of America
+KSUW;Richard 1 Bong Arpt, Superior, United States of America
+KSUX;Sioux Gateway Airport, Sioux City, United States of America
+KSVC;Grant County, Silver City, United States of America
+KSVE;Municipal, Susanville, United States of America
+KSVH;Municipal, Statesville, United States of America
+KSVN;Hunter AAF, Savannah, United States of America
+KSWD;Seward Airport, Seward, United States of America
+KSWF;Stewart, Newburgh/Poughkeepsie, United States of America
+KSWO;Searcy Field Municipal Airport, Stillwater, United States of America
+KSXC;Avalo Vor/WP, Catalina island, United States of America
+KSXP;Sheldon SPB, Sheldon Point, United States of America
+KSYI;Bomar Field, Shelbyville, United States of America
+KSYL;Roberts AAF, San Miguei, United States of America
+KSYN;Carleton, Stanton, United States of America
+KSYR;Syracuse Hancock International Airport, Syracuse, United States of America
+KSZL;Whiteman AFB, Warrensburg, United States of America
+KSZN;Santa Cruz Island, Santa Barbara, United States of America
+KTAD;Las Animas, Trinidad, United States of America
+KTBN;Forney AAF, Fort Leonard Wood, United States of America
+KTBR;Municipal, Statesboro, United States of America
+KTCC;Tucumcari Municipal Airport, Tucumcari, United States of America
+KTCL;Van De Graal Municipal Airport, Tuscaloosa, United States of America
+KTCM;Mc Chord AFB, Tacoma, United States of America
+KTCS;Truth Or Consequences Municipal Airport, Truth Or Consequences, United States of America
+KTDO;Winlock Memorial, Toledo, United States of America
+KTDW;Tradewind, Annarillo, United States of America
+KTDZ;tcalf Field, Toledo, United States of America
+KTEB;Teterboro Airport, Teterboro, United States of America
+KTEX;Regional, Telluride, United States of America
+KTGE;Sharpe Field, Tuskegee, United States of America
+KTHA;Northern, Tullahoma, United States of America
+KTHP;Hot Springs, Thermopolis, United States of America
+KTHV;York Airport, York, United States of America
+KTIK;Tinker AFB, Oklahoma City, United States of America
+KTIW;Tacoma Narrows Airport, Tacoma, United States of America
+KTIX;Space Coast Regional Airport, Titusville, United States of America
+KTKE;Tenakee SPB, Tenakee Springs, United States of America
+KTKL;Taku SPB, Taku Lodge, United States of America
+KTLH;Tallahassee Regional Airport, Tallahassee, United States of America
+KTMA;Henry Tift Myers, Tifton, United States of America
+KTMB;Kendall-Tamiami Executive Airport, Miami, United States of America
+KTNT;Dade Collier, Miami, United States of America
+KTNU;Municipal, Newton, United States of America
+KTOA;Torrance Municipal, Torrance, United States of America
+KTOI;Troy Municipal Airport, Troy, United States of America
+KTOL;Toledo Express Airport, Toledo, United States of America
+KTOP;Philip Billard Municipal Airport, KS, Topeka, United States of America
+KTOR;Torrington Municipal Airport, Torrington, United States of America
+KTPA;Tampa International Airport, Tampa, United States of America
+KTPF;Peter O'Knight, Tampa, United States of America
+KTPH;Tonopah Airport, Tonopah, United States of America
+KTPL;Draughon-Miller, Temple, United States of America
+KTRI;Kingsport / Johnson City / Tri-Cities Regional, Bristol, United States of America
+KTRL;Terrell Municipal Airport, Terrell, United States of America
+KTRM;Thermal Airport, Palm Springs, United States of America
+KTRP;Coast Guard Heliport, Tree Point, United States of America
+KTRX;Memorial, Trenton, United States of America
+KTSG;Intermediate, Tanacross, United States of America
+KTSP;Kern County, Tehachapi, United States of America
+KTSS;East 34th St Heliport, New York, United States of America
+KTTD;Portland-Troutdale Airport, Portland, United States of America
+KTTN;Trenton-Mereer County Airport, Philadelphia, United States of America
+KTTO;Municipal, Britton, United States of America
+KTUH;Arnold AFS, Tullahoma, United States of America
+KTUL;Tulsa International Airport, Tulsa, United States of America
+KTUP;Tupelo Municipal-Lemons Airport, Tupelo, United States of America
+KTUS;Tucson International Airport, Tucson, United States of America
+KTVC;Cherry Capital Airport, Traverse City, United States of America
+KTVF;Regional, Thief River Falls, United States of America
+KTVI;Municipal, Thornasville, United States of America
+KTVL;Lake Tahoe Airport, South Lake Tahoe, United States of America
+KTWF;Joslin Field-Magic Valley Regional Airport, Twin Falls, United States of America
+KTWH;Two Harbors, Catalina Island, United States of America
+KTXK;Texarkana Regional / Municipal Webb Field, Texarkana, United States of America
+KTYR;Tyler Pounds Field, Tyler, United States of America
+KTYS;Mc Ghee Tyson Airport, Knoxville, United States of America
+KUBS;Lowrides County, Columbus, United States of America
+KUCA;Oneda County Airport, Utica, United States of America
+KUCY;Everett-Stewart, Union City, United States of America
+KUDD;Bermuda Dunes, Palm Springs, United States of America
+KUGB;Ugashik Bay, Pilot Point, United States of America
+KUGN;Waukegan Memorial, Chicago, United States of America
+KUIL;Quillayute State Airport, Quillayute, United States of America
+KUIN;Municipal, Quincy / Baldwin, United States of America
+KUIZ;Berz-Macomb, Utica, United States of America
+KUKN;Municipal, Waukon, United States of America
+KUKT;Upper Bucks, Quakertown, United States of America
+KUMB;North Shore, Umnak Island, United States of America
+KUMP;Metro, Indianapolis, United States of America
+KUNS;Umnak, Umnak Island, United States of America
+KUNU;Dodge County, Juneau, United States of America
+KUNV;University Park, State College, United States of America
+KUOS;Franklin County, Sewanee, United States of America
+KUOX;University-Oxford, Oxford, United States of America
+KUTO;Indian Mountain AFS, Utopia Creek, United States of America
+KUVA;Garner Fld, Uvaide, United States of America
+KVAD;Moody AFB, Valdosta, United States of America
+KVBG;Vandenberg AFB, Lompoc, United States of America
+KVCT;County-Foster / Victoria Regional Airport, Victoria, United States of America
+KVCV;George AFB, Victorville, United States of America
+KVDI;Municipal, Vidalia, United States of America
+KVDU;Tom O'Connor Oilfield, Refugio, United States of America
+KVEL;Vernal Airport, Vernal, United States of America
+KVEX;Municipal, Tioga, United States of America
+KVGT;North Air Terminal, Las Vegas, United States of America
+KVHN;Cullberson County, Van Horn, United States of America
+KVIH;Rolla National Airport, Rolla / Vichy, United States of America
+KVIK;Airstrip, Kavik, United States of America
+KVJI;Virginia Highlands, Abingdon, United States of America
+KVKS;Municipal, Vicksburg, United States of America
+KVLD;Regional, Valdosta, United States of America
+KVLO;Stolport, Vallejo, United States of America
+KVNY;Van Nuys, Los Angeles, United States of America
+KVOK;Volk Field, Camp Douglas, United States of America
+KVPS;Eglin AFB. / Ft. Walton Beach, Valparaiso, United States of America
+KVPZ;Porter County Municipal Airport, Valparaiso, United States of America
+KVRB;Vero Beach Municipal Airport, Vero Beach, United States of America
+KVSF;Hartness State Springfield Airport, Springfield, United States of America
+KVTN;Miller Field, Valentine, United States of America
+KVYS;Illinois Valley Regional, Peru, United States of America
+KWAL;Wallops Flight Center, Chincoteague, United States of America
+KWAY;Green County, Waynesburg, United States of America
+KWBI;Broker Inn, Boulder, United States of America
+KWBN;Cummings Park, Woburn, United States of America
+KWBU;Municipal, Boulder, United States of America
+KWBW;Wyoming Valle, Wilkes-Barre, United States of America
+KWDG;Enid Woodring Municipal, Enid, United States of America
+KWDY;Kodiak Fss, Kodiak, United States of America
+KWEA;Parker County, Weatherford, United States of America
+KWFB;Waterfront SPB, Ketchikan, United States of America
+KWGO;Municipal, Winchester, United States of America
+KWHD;SPB, Hyder, United States of America
+KWHH;Hiltons Har H, Boulder, United States of America
+KWHP;Whiteman, Los Angeles, United States of America
+KWJF;William J Fox Field, Lancaster, United States of America
+KWKL;Waikoloa Airport, Waikoloa, United States of America
+KWLD;Arkansas City, Strother Field, Winfield, United States of America
+KWLW;Glenn County, Willows, United States of America
+KWMC;Winnemucca Municipal Airport, Winnemucca, United States of America
+KWMK;SPB, Meyers Chuck, United States of America
+KWNA;Napakiak SPB, Napakiak, United States of America
+KWNC;Nichen Cove SPB, Tuxekan Island, United States of America
+KWPO;North Fork Valley, Paonia, United States of America
+KWRB;Warner Robins AFB, Macon, United States of America
+KWRG;Wrangell SPB, Wrangell, United States of America
+KWRI;Mc Guire AFB, Fort Dix, United States of America
+KWRL;Worland Municipal Airport, Worland, United States of America
+KWSB;SPB, Steamboat Bay, United States of America
+KWSD;Condron AAF, White Sands, United States of America
+KWSG;County, Washington, United States of America
+KWSH;Brookhaven, Shirley, United States of America
+KWSJ;San Juan SPB, San Juan, United States of America
+KWST;Westerly State Airport, Westerly, United States of America
+KWTC;World Trade Center, New York, United States of America
+KWVI;Watsonville Municipal Airport, Watsonvillet, United States of America
+KWVL;Robert Lafleur, Waterville, United States of America
+KWWD;Cape May County, Wildwood, United States of America
+KWWR;West Woodward, Woodward, United States of America
+KWWS;USAF Heliport, Wildwood, United States of America
+KWYB;SPB, Yes Bay, United States of America
+KWYS;Yellowstone, West Yellowstone, United States of America
+KXES;Municipal, Lake Geneva, United States of America
+KXNA;Northwest Arkansas Region, Fayetteville, United States of America
+KYIP;Willow Run, Detroit, United States of America
+KYKM;Yakima Air Terminal, Yakima, United States of America
+KYKN;Chan Gurney, Yankton, United States of America
+KYNG;Youngstown-Warren Regional Airport, Youngstown, United States of America
+KYUM;Yuma International, Yuma, United States of America
+KZBP;Baltimore Rail, Baltimore, United States of America
+KZBV;Beaver Creek Van Svce., Vail/Eagle, United States of America
+KZFF;Off-Line Pt (Fedex), Tulsa, United States of America
+KZFV;Philadelphia Rail, Philadelphia, United States of America
+KZFZ;Buffalo Depew RR, Buffalo, United States of America
+KZGD;New London Rail, Groton, United States of America
+KZHC;N Philadelphia Rail St, Philadelphia, United States of America
+KZLY;Allbany NY Rail, Albany, United States of America
+KZME;Metropark Rail, Newark, United States of America
+KZRD;Richmond VA Rail, Richmond, United States of America
+KZRF;Clock Tower Bus Svc., Rockford, United States of America
+KZRK;Van Galder Bus Terminal, Rockford, United States of America
+KZRL;Lancaster PA Rail, Lancaster, United States of America
+KZRP;Newark NJ Rail, Newark, United States of America
+KZRT;Hartford CT Rail, Hartford, United States of America
+KZRU;Boston RT128 Rail, Boston, United States of America
+KZRV;Providence Rail, Providence, United States of America
+KZRZ;New Carrolton RR, Washington, United States of America
+KZSF;Springfield MA RR, Springfield, United States of America
+KZTD;Schenectady Rail, Schenectady, United States of America
+KZTE;Rochester NY Rail, Rochester, United States of America
+KZTF;Stamford Rail STN, Westchester County, United States of America
+KZTJ;Princeton JT Rail, Princeton, United States of America
+KZTN;Trenton Rail STN, Philadelphia, United States of America
+KZTO;Boston South Rail, Boston, United States of America
+KZTY;Boston BKBAY Rail, Boston, United States of America
+KZUA;Utica NNY Rail, Utica, United States of America
+KZUG;Harrisburg Rail, Harrisburg, United States of America
+KZUN;Union Railway Service, Chicago, United States of America
+KZVE;New Haven Rail, New Haven, United States of America
+KZWB;Williamsburg Rail, Hampton, United States of America
+KZWI;Wilmington Rail, Wilmington, United States of America
+KZWU;Washington DC Rail, Washington, United States of America
+KZWW;Newport News Rail, Hampton, United States of America
+KZXS;Exchange St Railway Svc, Buffalo, United States of America
+KZYP;New York Penn STN, New York, United States of America
+KZYQ;Syracuse NY Rail, Syracuse, United States of America
+KZZV;Zanesville Municipal Airport, OH, Zanesville, United States of America
+PAAQ;Municipal, Palmer, United States of America
+PABE;Bethel Airport, Bethel, United States of America
+PABI;Allen AAF, Delta Junction, United States of America
+PABR;Wiley Post-Will Rogers Memorial Airport, Barrow, United States of America
+PABT;Bettles Airport, Bettles, United States of America
+PACV;Mudhole Smith Airport, Cordova, United States of America
+PADK;Adak Island Naval Air Station, Adak Island, United States of America
+PADL;Municipal, Dillingharn, United States of America
+PAED;Elmendorf AFB, Anchorage, United States of America
+PAEI;Eielson AFB, Fairbanks, United States of America
+PAEN;Kenai Municipal, Kenai, United States of America
+PAFA;International, Fairbanks, United States of America
+PAFR;Bryant AAF, Fort Richardson, United States of America
+PAGY;Municipal, Skagway, United States of America
+PAJN;Juneau International, Juneau, United States of America
+PAKT;International, Ketchikan, United States of America
+PAMD;Intermediate, Middleton Island, United States of America
+PAMR;Merrill Field, Anchorage, United States of America
+PANC;International, Anchorage, United States of America
+PANT;Annette Island Airport, Annette, United States of America
+PASN;St Paul Island Airport, St Paul Island, United States of America
+PASV;Sparrevohn AFS, Sparrevohn, United States of America
+PASY;Shemya AFB, Shemya, United States of America
+PATA;Ralph Calhoun Memorial Airport, Tanana, United States of America
+PATC;Tin City AFS, Tin City, United States of America
+PATK;Talkeetna Airport, Talkeetna, United States of America
+PATL;Tatalina AFS, Tatalina, United States of America
+PAUN;Unalakleet Municipal Airport, Unalakleet, United States of America
+PAVD;Municipal, Vaidez, United States of America
+PAYA;Yakutat Airport, Yakutat, United States of America
+PHDH;Dillingham AFB, Mokuleia-Oahu, United States of America
+PHKO;Keahole, Kona, United States of America
+PHTO;Hilo international, Hilo, United States of America
+PPIZ;Dew Station, Point Lay, United States of America
+KLHM;Lincoln Regional/Karl Harder Field, Lincoln, California, United States of America
+SUMU;Carrasco, Montevideo, Uruguay
+UTTT;Vostochny, Tashkent, Uzbekistan
+SVBC;Gen J A Anzoategui, Barcelona, Venezuela
+SVBS;B. A. Sucre, Maracay, Venezuela
+SVCP;Gen. Jose, Carupano, Venezuela
+SVJC;Josefa Camejo, Las Piedras, Venezuela
+SVMC;La Chinita, Maracaibo, Venezuela
+SVMD;A Carnevalli, Merida, Venezuela
+SVMG;Del Caribe Gen S Marino, Margarita, Venezuela
+SVMI;Maiquetia Aerop. Intl. Simon Bolivar, Caracas, Venezuela
+SVMT;Quiriquire, Maturin, Venezuela
+SVPM;Paramillo, San Cristobal, Venezuela
+SVSA;Del Tachira, San Antonio, Venezuela
+SVSE;De Uairen, Santa Elena, Venezuela
+SVSO;Mayo Guerrero, Santo Domingo, Venezuela
+SVSR;Las Flecheras, San Fernando De Apure, Venezuela
+SVST;EI Tigre, San Tome, Venezuela
+SVSZ;L Delicias, Santa Barbara Zulia, Venezuela
+SVVA;Arturo Michelena International, Valencia, Venezuela
+SVVG;Perez Alph, El Vigia, Venezuela
+SVVL;Carvajal, Valera, Venezuela
+VVDN;Da Nang Airport, Da Nang City, Vietnam
+VVGL;Gialam, Hanoi, Vietnam
+VVPB;Phu Bai, Hue, Vietnam
+TUPJ;Road Town/Tortola Beef Island, Tortola, Virgin Islands (British)
+TIST;H.S. Truman, St Thomas Island / C. Amalie, Virgin Islands (US)
+TISX;Alex Hamilton, St Croix Island, Virgin Islands (US)
+PMDY;Sand Island Field, Midway Island, Wake/Midway Islands
+OYAA;International, Aden, Yemen
+OYHD;Hodeidah Arpt, Hodeidah, Yemen
+OYSN;Sana'a International, Sana'a, Yemen
+OYTZ;AIJanad, Taiz, Yemen
+FVHA;Kutsaga, Harare, Zimbabwe

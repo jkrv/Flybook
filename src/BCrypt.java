@@ -13,7 +13,7 @@
 // OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 // Added a package statement here
-package hlrv.flybook.auth;
+
 
 import java.io.UnsupportedEncodingException;
 
