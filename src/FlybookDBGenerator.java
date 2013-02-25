@@ -20,9 +20,10 @@ public class FlybookDBGenerator {
     private Connection connection = null;
 
     private final String tblPrefix = "";
-    private final String colPrefix = "c_";
+    private final String colPrefix = "";
     private final String packageName = "hlrv.flybook";
     private final String dbFileName = "flybook.db";
+    private final String outputDir = "output";
 
     // @formatter:off
     
@@ -33,7 +34,6 @@ public class FlybookDBGenerator {
             "Users",
             "username           TEXT            PRIMARY KEY",
             "passwd             TEXT",
-            "passwd_salt        TEXT",
             "firstname          TEXT", 
             "lastname           TEXT", 
             "role               TINYINT",
@@ -44,9 +44,9 @@ public class FlybookDBGenerator {
             {
             "FlightEntries",
             "flight_id          INTEGER         PRIMARY KEY", 
-            "username           TEXT            REFERENCES Users (c_username)",
+            "username           TEXT            REFERENCES Users (username)",
             "date               DATETIME", 
-            "aircraft           TEXT            REFERENCES Aircrafts (c_register)",
+            "aircraft           TEXT            REFERENCES Aircrafts (register)",
             "departure_time     DATETIME",
             "departure_airport  INTEGER", 
             "landing_time       DATETIME",
@@ -54,10 +54,18 @@ public class FlybookDBGenerator {
             "onblock_time       INTEGER", 
             "offblock_time      INTEGER",
             "flight_type        INTEGER", 
-            "ifr_time           TEXT", 
+            "ifr_time           INTEGER", 
             "notes              TEXT",
-            "optlock            INTEGER         @VERSION"
+            "optlock            INTEGER         @VERSION",
+            
+            "pilot_fullname     TEXT            @CONSTANT",
+            "flight_time        INTEGER         @CONSTANT",
+            "aircraft_string    TEXT            @CONSTANT",
+            "departure_airport_string   TEXT    @CONSTANT",
+            "landing_airport_string     TEXT    @CONSTANT"
+//            "TIMESTAMP default current_timestamp"
             },
+            
             {
             "Airports",
             "id                 INTEGER         PRIMARY KEY",
@@ -68,16 +76,24 @@ public class FlybookDBGenerator {
             "location           TEXT",
             "optlock            INTEGER         @VERSION"
             },
+            
             {
             "Aircrafts",
             "register           TEXT            PRIMARY KEY",
-            "class              INTEGER", 
-            "capacity           INTEGER", 
-            "weight             INTEGER",
+            "username           TEXT",
+            "make_model         TEXT",
+            "engine_count       INTEGER",
+            "year               TEXT",
+            "max_weight         TEXT", 
+            "capacity           INTEGER",
+            "owner              TEXT",
+            "address            TEXT",
             "optlock            INTEGER         @VERSION"
             }};
     
-    // Note: VERSION is dummy constraint and won't be really used
+    // Note: constraints with @ -prefix 
+    // VERSION use as version column, add relevant trigger 
+    // CONSTANT add this ONLY to the generated db constants file      
     
  // @formatter:on
 
@@ -94,23 +110,26 @@ public class FlybookDBGenerator {
 
     private final Random airportRandomizer = new Random(0);
 
-    public FlybookDBGenerator() {
+    private boolean generateTestData = true;
+
+    public FlybookDBGenerator(boolean productionMode) {
+
+        this.generateTestData = !productionMode;
 
         initConnection();
-
-        // for (String[] desc : tableDescriptors) {
-        // createTable(desc);
-        // }
 
         for (TableEntry e : tableEntries) {
             createTable(e);
         }
 
-        // Order is important!
-        populateUsersTable();
         populateAirportsTable();
-        populateAircraftsTable();
-        populateFlightEntriesTable();
+
+        // Order is important!
+        if (generateTestData) {
+            populateUsersTable();
+            populateAircraftsTable();
+            populateFlightEntriesTable();
+        }
 
         createTriggers();
 
@@ -123,8 +142,8 @@ public class FlybookDBGenerator {
         try {
             Class.forName("org.sqlite.JDBC");
 
-            connection = DriverManager.getConnection("jdbc:sqlite:"
-                    + dbFileName);
+            connection = DriverManager.getConnection("jdbc:sqlite:" + outputDir
+                    + "/" + dbFileName);
 
         } catch (ClassNotFoundException e) {
             System.err.println(e.toString());
@@ -276,7 +295,16 @@ public class FlybookDBGenerator {
             Statement statement = connection.createStatement();
             statement.setQueryTimeout(30);
 
-            TableEntry entry = generateAircraftData();
+            // Collect all usernames
+            String col_username = colPrefix + "username";
+            ArrayList<String> usernames = new ArrayList<String>();
+            ResultSet usersRS = statement.executeQuery("SELECT " + col_username
+                    + " FROM Users");
+            while (usersRS.next()) {
+                usernames.add(usersRS.getString(1));
+            }
+
+            TableEntry entry = generateAircraftData(usernames.get(0));
             if (entry == null) {
                 System.out.println("Problematic Aircraft entry: '");
                 return;
@@ -314,9 +342,8 @@ public class FlybookDBGenerator {
                 apIDs.add(airportsRS.getInt(1));
             }
 
-            String col_username = colPrefix + "username";
-
             // Collect all usernames
+            String col_username = colPrefix + "username";
             ArrayList<String> usernames = new ArrayList<String>();
             ResultSet usersRS = statement.executeQuery("SELECT " + col_username
                     + " FROM Users");
@@ -360,7 +387,7 @@ public class FlybookDBGenerator {
 
         if (!(entry.setColumnStringValue("username", username)
                 && entry.setColumnStringValue("passwd", passwd_hash)
-                && entry.setColumnStringValue("passwd_salt", passwd_salt)
+                // && entry.setColumnStringValue("passwd_salt", passwd_salt)
                 && entry.setColumnStringValue("firstname", fname)
                 && entry.setColumnStringValue("lastname", lname)
                 && entry.setColumnIntValue("role", role) && entry
@@ -461,14 +488,19 @@ public class FlybookDBGenerator {
         return entry;
     }
 
-    private TableEntry generateAircraftData() {
+    private TableEntry generateAircraftData(String username) {
 
         TableEntry entry = new TableEntry(aircraftsTableDescriptor);
 
         entry.setColumnStringValue("register", "REG123");
-        entry.setColumnStringValue("class", "Light Single Engine");
-        entry.setColumnIntValue("capacity", 4);
-        entry.setColumnIntValue("weight", 1000);
+        entry.setColumnStringValue("username", username);
+        entry.setColumnStringValue("make_model", "Cessna 172 P");
+        entry.setColumnIntValue("engine_count", 1);
+        entry.setColumnStringValue("year", "2009");
+        entry.setColumnStringValue("max_weight", "1088");
+        entry.setColumnIntValue("capacity", 3);
+        entry.setColumnStringValue("owner", "John Smith");
+        entry.setColumnStringValue("address", "USA");
 
         return entry;
 
@@ -511,6 +543,8 @@ public class FlybookDBGenerator {
 
         entry.setColumnIntValue("flight_type", 0);
 
+        entry.setColumnIntValue("ifr_time", 123);
+
         entry.setColumnStringValue("notes", "");
 
         entry.setColumnIntValue("optlock", 0);
@@ -531,23 +565,6 @@ public class FlybookDBGenerator {
 
                 statement.executeUpdate(sql);
             }
-
-            // String tableName = tblPrefix + "FlightEntries";
-            // String col_optlock = colPrefix + "optlock";
-            // String col_user = colPrefix + "username";
-            //
-            // // Increment optlock (VERSION) column value on row update
-            // StringBuilder sql = new StringBuilder();
-            // sql.append("CREATE TRIGGER flightentry_optlock_updater ");
-            // sql.append("AFTER UPDATE ON ").append(tableName);
-            // sql.append(" FOR EACH ROW ");
-            // sql.append("BEGIN ");
-            // sql.append("UPDATE ").append(tableName);
-            // sql.append(" SET ").append(col_optlock).append(" = ");
-            // sql.append(col_optlock).append(" + 1 ");
-            // sql.append("WHERE ").append(col_user).append(" = ");
-            // sql.append("OLD.").append(col_user).append("; ");
-            // sql.append("END");
 
         } catch (SQLException e) {
             System.err.println(e.toString());
@@ -624,8 +641,8 @@ public class FlybookDBGenerator {
         sb.append("\n");
 
         try {
-            BufferedWriter out = new BufferedWriter(new FileWriter(className
-                    + ".java"));
+            BufferedWriter out = new BufferedWriter(new FileWriter(outputDir
+                    + "/" + className + ".java"));
             out.write(sb.toString());
             out.close();
         } catch (IOException e) {
@@ -730,11 +747,16 @@ public class FlybookDBGenerator {
             sql.append("CREATE TABLE ");
             sql.append(tblPrefix).append(tableName);
             sql.append("(");
+            int appended = 0;
             for (int i = 0; i < data.length; ++i) {
-                if (i > 0) {
-                    sql.append(", ");
+                if (!data[i].isConstantOnly()) {
+                    if (appended > 0) {
+                        sql.append(", ");
+                    }
+
+                    sql.append(data[i].toColumnDef());
+                    ++appended;
                 }
-                sql.append(data[i].toColumnDef());
             }
             sql.append(")");
 
@@ -783,6 +805,7 @@ public class FlybookDBGenerator {
         }
 
         private ColumnData getColumnData(String name) {
+
             for (ColumnData c : data) {
                 if (c.getName().equals(name)) {
                     return c;
@@ -792,8 +815,13 @@ public class FlybookDBGenerator {
         }
 
         private String commaSeparatedColumnNames(boolean ignoreIntegerKey) {
+
             StringBuilder sb = new StringBuilder();
             for (ColumnData c : data) {
+
+                if (c.isConstantOnly()) {
+                    continue;
+                }
 
                 if (ignoreIntegerKey && c.isIntegerPrimaryKey()) {
                     continue;
@@ -812,8 +840,13 @@ public class FlybookDBGenerator {
         }
 
         private String commaSeparatedColumnValues(boolean ignoreIntegerKey) {
+
             StringBuilder sb = new StringBuilder();
             for (ColumnData c : data) {
+
+                if (c.isConstantOnly()) {
+                    continue;
+                }
 
                 if (ignoreIntegerKey && c.isIntegerPrimaryKey()) {
                     continue;
@@ -839,6 +872,7 @@ public class FlybookDBGenerator {
             private String value = null;
             private boolean isPrimaryKey;
             private boolean isVersion;
+            private boolean isConstantOnly;
             private boolean hasDefaultValue;
 
             public ColumnData(String columnDescriptor) {
@@ -861,15 +895,18 @@ public class FlybookDBGenerator {
                             } else {
                                 System.err.println("Singleton KEY constraint");
                             }
+                        } else if (constraint.equals("PRIMARY")) {
+                            primaryKeywordPos = i;
+                        } else if (constraint.equals("DEFAULT")) {
+                            hasDefaultValue = true;
                         } else if (constraint.equals("@VERSION")) {
                             isVersion = true;
                             constraints.add("DEFAULT");
                             constraints.add("0");
                             constraint = ""; // VERSION is dummy constraint
-                        } else if (constraint.equals("PRIMARY")) {
-                            primaryKeywordPos = i;
-                        } else if (constraint.equals("DEFAULT")) {
-                            hasDefaultValue = true;
+                        } else if (constraint.equals("@CONSTANT")) {
+                            isConstantOnly = true;
+                            constraint = "";
                         }
 
                         if (!constraint.isEmpty()) {
@@ -903,11 +940,20 @@ public class FlybookDBGenerator {
                 return isVersion;
             }
 
+            public boolean isConstantOnly() {
+                return isConstantOnly;
+            }
+
             public boolean hasDefaultValue() {
                 return hasDefaultValue;
             }
 
             public String toColumnDef() {
+
+                if (isConstantOnly()) {
+                    System.err
+                            .println("Constant Column can't be defined as String");
+                }
 
                 StringBuilder sb = new StringBuilder();
                 sb.append(colPrefix).append(name).append(" ");
@@ -948,6 +994,15 @@ public class FlybookDBGenerator {
      * @param args
      */
     public static void main(String[] args) {
-        new FlybookDBGenerator();
+
+        boolean productionMode = false;
+
+        for (String arg : args) {
+            if (arg.toLowerCase().equals("productionmode")) {
+                productionMode = true;
+            }
+        }
+
+        new FlybookDBGenerator(productionMode);
     }
 }
