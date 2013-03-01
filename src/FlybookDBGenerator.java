@@ -250,8 +250,16 @@ public class FlybookDBGenerator {
                 }
 
                 String code = entry.getColumnValue("code");
+                if (code.isEmpty()) {
+                    System.out.println("Empty ICAO Code "
+                            + entry.getColumnValue("name") + ", "
+                            + entry.getColumnValue("city") + ", "
+                            + entry.getColumnValue("country"));
+                    continue;
+                }
                 if (codeSet.contains(code)) {
-                    // System.out.println("Duplicate ICAOS Code: " + code);
+                    System.out.println("Duplicate ICAO Code: " + code);
+                    continue;
                 }
                 codeSet.add(code);
 
@@ -696,7 +704,11 @@ public class FlybookDBGenerator {
         public String getColumnValue(String name) {
             ColumnData data = getColumnData(name);
             if (data != null) {
-                return data.getValue();
+                String value = data.getValue();
+                if (data.isStringValue()) {
+                    value = value.substring(1, value.length() - 1);
+                }
+                return value;
             }
             return null;
         }
@@ -870,6 +882,7 @@ public class FlybookDBGenerator {
             private String type;
             private ArrayList<String> constraints = new ArrayList<String>();
             private String value = null;
+            private boolean isStringValue;
             private boolean isPrimaryKey;
             private boolean isVersion;
             private boolean isConstantOnly;
@@ -948,6 +961,10 @@ public class FlybookDBGenerator {
                 return hasDefaultValue;
             }
 
+            public boolean isStringValue() {
+                return isStringValue;
+            }
+
             public String toColumnDef() {
 
                 if (isConstantOnly()) {
@@ -985,6 +1002,7 @@ public class FlybookDBGenerator {
 
             public void setStringValue(String value) {
                 this.value = "'" + value.replaceAll("'", "''") + "'";
+                this.isStringValue = true;
             }
         }
 
