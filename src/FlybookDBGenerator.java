@@ -33,7 +33,7 @@ public class FlybookDBGenerator {
             { 
             "Users",
             "username           TEXT            PRIMARY KEY",
-            "passwd             TEXT",
+            "password           TEXT",
             "firstname          TEXT", 
             "lastname           TEXT", 
             "role               TINYINT",
@@ -44,15 +44,15 @@ public class FlybookDBGenerator {
             {
             "FlightEntries",
             "flight_id          INTEGER         PRIMARY KEY", 
-            "username           TEXT            REFERENCES Users (username)",
+            "username           TEXT",
             "date               DATETIME", 
-            "aircraft           TEXT            REFERENCES Aircrafts (register)",
+            "aircraft           TEXT",
             "departure_time     DATETIME",
             "departure_airport  INTEGER", 
             "landing_time       DATETIME",
             "landing_airport    INTEGER", 
-            "onblock_time       INTEGER", 
-            "offblock_time      INTEGER",
+            "onblock_time       DATETIME", 
+            "offblock_time      DATETIME",
             "flight_type        INTEGER", 
             "ifr_time           INTEGER", 
             "notes              TEXT",
@@ -63,13 +63,13 @@ public class FlybookDBGenerator {
             "aircraft_string    TEXT            @CONSTANT",
             "departure_airport_string   TEXT    @CONSTANT",
             "landing_airport_string     TEXT    @CONSTANT"
-//            "TIMESTAMP default current_timestamp"
             },
             
             {
             "Airports",
             "id                 INTEGER         PRIMARY KEY",
-            "code               CHAR(4)", 
+            "icao               CHAR(4)",
+            "iata               CHAR(4)",
             "country            TEXT", 
             "city               TEXT", 
             "name               TEXT",
@@ -249,19 +249,19 @@ public class FlybookDBGenerator {
                     continue;
                 }
 
-                String code = entry.getColumnValue("code");
-                if (code.isEmpty()) {
+                String icao = entry.getColumnValue("icao");
+                if (icao.isEmpty()) {
                     System.out.println("Empty ICAO Code "
                             + entry.getColumnValue("name") + ", "
                             + entry.getColumnValue("city") + ", "
                             + entry.getColumnValue("country"));
                     continue;
                 }
-                if (codeSet.contains(code)) {
-                    System.out.println("Duplicate ICAO Code: " + code);
+                if (codeSet.contains(icao)) {
+                    System.out.println("Duplicate ICAO Code: " + icao);
                     continue;
                 }
-                codeSet.add(code);
+                codeSet.add(icao);
 
                 String sql = entry.createSqlStatement_Insert();
 
@@ -394,7 +394,7 @@ public class FlybookDBGenerator {
         TableEntry entry = new TableEntry(usersTableDescriptor);
 
         if (!(entry.setColumnStringValue("username", username)
-                && entry.setColumnStringValue("passwd", passwd_hash)
+                && entry.setColumnStringValue("password", passwd_hash)
                 // && entry.setColumnStringValue("passwd_salt", passwd_salt)
                 && entry.setColumnStringValue("firstname", fname)
                 && entry.setColumnStringValue("lastname", lname)
@@ -414,7 +414,7 @@ public class FlybookDBGenerator {
 
         String[] splits = line.split(";|,");
 
-        String code = splits[0].trim();
+        String icao = splits[0].trim();
         String name = splits[1].trim();
         String city = splits[2].trim();
         String country = null;
@@ -440,7 +440,8 @@ public class FlybookDBGenerator {
         }
 
         TableEntry entry = new TableEntry(airportsTableDescriptor);
-        if (!(entry.setColumnStringValue("code", code)
+        if (!(entry.setColumnStringValue("icao", icao)
+                && entry.setColumnStringValue("iata", "")
                 && entry.setColumnStringValue("name", name)
                 && entry.setColumnStringValue("city", city)
                 && entry.setColumnStringValue("country", country) && entry
@@ -484,7 +485,8 @@ public class FlybookDBGenerator {
         String location = matcher.group(6) + ":" + matcher.group(7);
 
         TableEntry entry = new TableEntry(airportsTableDescriptor);
-        if (!(entry.setColumnStringValue("code", icaoCode)
+        if (!(entry.setColumnStringValue("icao", icaoCode)
+                && entry.setColumnStringValue("iata", iataCode)
                 && entry.setColumnStringValue("name", name)
                 && entry.setColumnStringValue("city", city)
                 && entry.setColumnStringValue("country", country) && entry
@@ -599,11 +601,19 @@ public class FlybookDBGenerator {
         sb.append(tab).append(linePrefix).append("FILENAME = \"")
                 .append(dbFileName).append("\"").append(stmnt_end);
         sb.append("\n");
-        sb.append(tab).append(linePrefix).append("TBLPREFIX = \"")
-                .append(tblPrefix).append("\"").append(stmnt_end);
-        sb.append(tab).append(linePrefix).append("COLPREFIX = \"")
-                .append(colPrefix).append("\"").append(stmnt_end);
-        sb.append("\n");
+
+        if (tblPrefix.length() > 0) {
+            sb.append(tab).append(linePrefix).append("TBLPREFIX = \"")
+                    .append(tblPrefix).append("\"").append(stmnt_end);
+        }
+
+        if (colPrefix.length() > 0) {
+            sb.append(tab).append(linePrefix).append("COLPREFIX = \"")
+                    .append(colPrefix).append("\"").append(stmnt_end);
+        }
+        if (tblPrefix.length() > 0 || colPrefix.length() > 0) {
+            sb.append("\n");
+        }
 
         for (String[] desc : tableDescriptors) {
 
@@ -616,8 +626,11 @@ public class FlybookDBGenerator {
                 sb.append(' ');
             }
 
-            sb.append(" = TBLPREFIX + \"").append(table).append("\"")
-                    .append(stmnt_end);
+            sb.append(" = ");
+            if (tblPrefix.length() > 0) {
+                sb.append("TBLPREFIX + ");
+            }
+            sb.append("\"").append(table).append("\"").append(stmnt_end);
         }
         sb.append("\n");
 
@@ -638,8 +651,11 @@ public class FlybookDBGenerator {
                     sb.append(' ');
                 }
 
-                sb.append(" = COLPREFIX + \"").append(name).append("\"")
-                        .append(stmnt_end);
+                sb.append(" = ");
+                if (colPrefix.length() > 0) {
+                    sb.append("COLPREFIX + ");
+                }
+                sb.append("\"").append(name).append("\"").append(stmnt_end);
             }
             sb.append("\n");
         }
