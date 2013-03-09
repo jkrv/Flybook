@@ -14,8 +14,10 @@ import com.vaadin.ui.CustomField;
 import com.vaadin.ui.VerticalLayout;
 
 /**
+ * <p>
  * AirportField is a Field that contains Airport ID as its value.
  * 
+ * <p>
  * Field contains some controls to select the airport via comboxes. Depending on
  * combobox states, ID value may be null (airport id is undefined, combo states
  * can't be mapped to ID).
@@ -219,7 +221,7 @@ public class AirportField extends CustomField<Integer> implements
             String country = getSelectedValue(countryCombo, "country");
 
             IndexedContainer container = airportsContainer
-                    .createCitiesContainer(country);
+                    .getCitiesContainer(country);
 
             cityCombo.setContainerDataSource(container);
             cityCombo.setEnabled(container.size() > 0);
@@ -241,7 +243,7 @@ public class AirportField extends CustomField<Integer> implements
             String city = getSelectedValue(cityCombo, "city");
 
             IndexedContainer container = airportsContainer
-                    .createAirportNamesContainer(country, city);
+                    .getAirportNamesContainer(country, city);
 
             nameCombo.setContainerDataSource(container);
             nameCombo.setEnabled(container.size() > 0);

@@ -82,7 +82,7 @@ public class AirportsView extends CustomComponent implements
                 filterCity.setContainerDataSource(null);
             } else {
                 filterCity.setContainerDataSource(airportsContainer
-                        .createCitiesContainer(country));
+                        .getCitiesContainer(country));
                 filterCity.select(null);
             }
 

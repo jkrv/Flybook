@@ -173,7 +173,7 @@ public class FlightsView extends CustomComponent implements
         /**
          * Details panel on view right side.
          */
-        flightDetails = new FlightDetailsPanel();
+        flightDetails = new FlightDetailsPanel(this);
         flightDetails.setWidth(SIZE_UNDEFINED, Unit.PERCENTAGE);
         flightDetails.setHeight("100%");
         // flightDetails.setSizeFull();
@@ -241,6 +241,12 @@ public class FlightsView extends CustomComponent implements
         Object rowid = table.getValue();
         Item currentItem = table.getItem(rowid);
         return new FlightItem(currentItem, rowid);
+    }
+
+    public void reselect() {
+        Object selected = table.getValue();
+        table.select(null);
+        table.select(selected);
     }
 
     @Override

@@ -9,6 +9,9 @@ import java.text.NumberFormat;
 import com.vaadin.data.Property;
 import com.vaadin.ui.Table;
 
+/**
+ * AirportsTable extends Table and defines visible columns.
+ */
 public class AirportsTable extends Table {
 
     /**

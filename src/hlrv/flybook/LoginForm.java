@@ -13,6 +13,8 @@ import com.vaadin.ui.Button.ClickEvent;
 import com.vaadin.ui.Button.ClickListener;
 import com.vaadin.ui.CustomComponent;
 import com.vaadin.ui.Notification;
+import com.vaadin.ui.PasswordField;
+import com.vaadin.ui.TextField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
@@ -94,17 +96,25 @@ public class LoginForm extends CustomComponent {
          */
         register.setStyleName("link");
 
-        /*
-         * set properties as textfield components to the UI
-         */
-        for (Object propertyID : form.getUnboundPropertyIds()) {
+        TextField textField = new TextField("Username");
+        PasswordField pwField = new PasswordField("Password");
 
-            /**
-             * Add a component to the form
-             */
-            layout.addComponent(form.buildAndBind(propertyID));
-        }
+        form.bind(textField, "username");
+        form.bind(pwField, "password");
 
+        // /*
+        // * set properties as textfield components to the UI
+        // */
+        // for (Object propertyID : form.getUnboundPropertyIds()) {
+        //
+        // /**
+        // * Add a component to the form
+        // */
+        // layout.addComponent(form.buildAndBind(propertyID));
+        // }
+
+        layout.addComponent(textField);
+        layout.addComponent(pwField);
         layout.addComponent(register);
         layout.addComponent(login);
         layout.setComponentAlignment(login, Alignment.MIDDLE_RIGHT);

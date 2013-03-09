@@ -37,19 +37,14 @@ public class FlightItemForm extends CustomComponent implements
     // private TextField fieldId; // is this even needed ?
     private DateField fieldDate;
 
-    // private TextField fieldPilotFullname;
     private TextField fieldPilotUsername;
 
-    // private TextField fieldAircraft;
     private ComboBox comboAircraft;
 
     private AirportField fieldDepartureAirport;
-    // private TextField fieldDeparturePort;
     private DateField fieldDepartureTime;
-    // private ComboBox comboDeparturePortCountries;
 
     private AirportField fieldLandingAirport;
-    // private TextField fieldLandingPort;
     private DateField fieldLandingTime;
 
     private TextField fieldFlightTime;
@@ -65,6 +60,8 @@ public class FlightItemForm extends CustomComponent implements
     private FlightMap flightMap;
 
     private AircraftsContainer aircraftsContainer;
+
+    private FlightItem currentItem;
 
     public FlightItemForm() {
         super();
@@ -84,8 +81,6 @@ public class FlightItemForm extends CustomComponent implements
         /**
          * Create pilot name fields and add to panel
          */
-        // fieldPilotFullname = new TextField("Pilot");
-        // fieldPilotFullname.setColumns(20);
         fieldPilotUsername = new TextField("Username");
         fieldPilotUsername.setColumns(10);
 
@@ -99,12 +94,10 @@ public class FlightItemForm extends CustomComponent implements
 
         comboAircraft = new ComboBox("Aircraft",
                 aircraftsContainer.getUnfilteredContainer());
-        // comboAircraft.setItemCaptionPropertyId(DBConstants.AIRCRAFTS_REGISTER);
+        comboAircraft.setInputPrompt("Select Aircraft");
         comboAircraft.setImmediate(true);
-        comboAircraft.setNullSelectionAllowed(false);
+        comboAircraft.setNullSelectionAllowed(true);
         comboAircraft.setConverter(new AircraftComboConverter());
-
-        // fieldAircraft = new TextField("Aircraft");
 
         /**
          * Create departure panel
@@ -112,31 +105,19 @@ public class FlightItemForm extends CustomComponent implements
         Panel departurePanel = new Panel("Departure");
         VerticalLayout layoutDeparture = new VerticalLayout();
 
-        // fieldDeparturePort = new TextField("Port");
-        // fieldDeparturePort.setColumns(30);
         fieldDepartureAirport = new AirportField();
-        // fieldDepartureAirport.setValidationVisible(true);
+        fieldDepartureAirport.setValidationVisible(false);
         fieldDepartureAirport.addValidator(new NullValidator(
                 "Departure Airport must be selected", false));
         fieldDepartureAirport.addValueChangeListener(this);
         fieldDepartureAirport.setSizeFull();
-
-        // HorizontalLayout layoutDeparturePort = new HorizontalLayout();
-
-        // fieldDeparturePort = new TextField("Port");
-        // fieldDeparturePort.setColumns(30);
-        // layoutDeparturePort.addComponent(fieldDeparturePort);
-        // layoutDeparturePort.addComponent(comboDeparturePortCountries);
-        // layoutDeparturePort.setSpacing(true);
 
         fieldDepartureTime = new DateField("Time");
         fieldDepartureTime.setResolution(Resolution.MINUTE);
         fieldDepartureTime.addValueChangeListener(this);
         fieldDepartureTime.setImmediate(true);
 
-        // layoutDeparture.addComponent(layoutDeparturePort);
         layoutDeparture.addComponent(fieldDepartureAirport);
-        // layoutDeparture.addComponent(fieldDeparturePort);
         layoutDeparture.addComponent(fieldDepartureTime);
         layoutDeparture.setSpacing(true);
         layoutDeparture.setMargin(new MarginInfo(false, true, true, true));
@@ -148,11 +129,8 @@ public class FlightItemForm extends CustomComponent implements
         Panel landingPanel = new Panel("Landing");
         VerticalLayout layoutLanding = new VerticalLayout();
 
-        // fieldLandingPort = new TextField("Port");
-        // fieldLandingPort.setColumns(30);
-
         fieldLandingAirport = new AirportField();
-        // fieldLandingAirport.setValidationVisible(true);
+        fieldLandingAirport.setValidationVisible(false);
         fieldLandingAirport.addValidator(new NullValidator(
                 "Landing Airport must be selected", false));
         fieldLandingAirport.addValueChangeListener(this);
@@ -287,30 +265,9 @@ public class FlightItemForm extends CustomComponent implements
         setCompositionRoot(topLayout);
     }
 
-    // private IndexedContainer createFlightTypeContainer(String caption) {
-    //
-    // IndexedContainer flightTypeContainer = new IndexedContainer();
-    // flightTypeContainer.addContainerProperty(caption, String.class, null);
-    //
-    // flightTypeContainer.addItem(new Integer(FlightType.UNDEFINED.ordinal()))
-    // .getItemProperty(caption).setValue("Unknown");
-    //
-    // flightTypeContainer.addItem(new Integer(FlightType.DOMESTIC.ordinal()))
-    // .getItemProperty(caption).setValue("Domestic");
-    //
-    // flightTypeContainer.addItem(new Integer(FlightType.HOBBY.ordinal()))
-    // .getItemProperty(caption).setValue("Hobby");
-    //
-    // flightTypeContainer
-    // .addItem(new Integer(FlightType.TRANSREGIONAL.ordinal()))
-    // .getItemProperty(caption).setValue("Transregional");
-    //
-    // flightTypeContainer
-    // .addItem(new Integer(FlightType.TRANSCONTINENTAL.ordinal()))
-    // .getItemProperty(caption).setValue("Transcontinental");
-    //
-    // return flightTypeContainer;
-    // }
+    public FlightItem getCurrentItem() {
+        return currentItem;
+    }
 
     public boolean isEditable() {
         return !fieldGroup.isReadOnly();
@@ -397,6 +354,8 @@ public class FlightItemForm extends CustomComponent implements
          * to setItemDataSource().
          */
         setReadOnlyComponents();
+
+        this.currentItem = flightItem;
     }
 
     /**
@@ -410,13 +369,13 @@ public class FlightItemForm extends CustomComponent implements
 
         try {
 
-            Object value = comboAircraft.getValue();
+            // Object value = comboAircraft.getValue();
 
             fieldGroup.commit();
 
             return true;
         } catch (FieldGroup.CommitException e) {
-            Notification.show("Commit Warning", e.toString(),
+            Notification.show("Commit Warning", e.getMessage(),
                     Notification.TYPE_HUMANIZED_MESSAGE);
         }
         return false;
@@ -440,14 +399,13 @@ public class FlightItemForm extends CustomComponent implements
     private FieldGroup createFieldGroup() {
 
         FieldGroup fg = new FieldGroup();
+        fg.setBuffered(true);
 
         // fg.bind(fieldId, DBConstants.FLIGHTENTRIES_FLIGHT_ID);
 
         fg.bind(fieldDate, DBConstants.FLIGHTENTRIES_DATE);
 
         fg.bind(fieldPilotUsername, DBConstants.FLIGHTENTRIES_USERNAME);
-        // fg.bind(fieldPilotFullname,
-        // DBConstants.FLIGHTENTRIES_PILOT_FULLNAME);
 
         fg.bind(comboFlightType, DBConstants.FLIGHTENTRIES_FLIGHT_TYPE);
         fg.bind(comboAircraft, DBConstants.FLIGHTENTRIES_AIRCRAFT);
@@ -458,8 +416,6 @@ public class FlightItemForm extends CustomComponent implements
 
         fg.bind(fieldLandingAirport, DBConstants.FLIGHTENTRIES_LANDING_AIRPORT);
         fg.bind(fieldLandingTime, DBConstants.FLIGHTENTRIES_LANDING_TIME);
-
-        // fg.bind(fieldFlightTime, DBConstants.FLIGHTENTRIES_FLIGHT_TIME);
 
         fg.bind(fieldOnBlockTime, DBConstants.FLIGHTENTRIES_ONBLOCK_TIME);
         fg.bind(fieldOffBlockTime, DBConstants.FLIGHTENTRIES_OFFBLOCK_TIME);

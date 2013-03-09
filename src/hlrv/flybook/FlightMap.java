@@ -59,7 +59,7 @@ public class FlightMap extends CustomComponent implements
         image = new Image();
         image.setWidth(imageWidth, Unit.PIXELS);
         image.setHeight(imageHeight, Unit.PIXELS);
-        image.setAlternateText("No flight entries selected");
+        image.setAlternateText("Select Departure and Landing Ports for Map");
 
         // image.setImmediate(true);
         // image.setSizeUndefined();

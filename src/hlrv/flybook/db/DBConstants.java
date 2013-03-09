@@ -34,12 +34,6 @@ public final class DBConstants {
     public final static String FLIGHTENTRIES_IFR_TIME                 = "ifr_time";
     public final static String FLIGHTENTRIES_NOTES                    = "notes";
     public final static String FLIGHTENTRIES_OPTLOCK                  = "optlock";
-    public final static String FLIGHTENTRIES_PILOT_FULLNAME           = "pilot_fullname";
-    public final static String FLIGHTENTRIES_FLIGHT_TIME              = "flight_time";
-    public final static String FLIGHTENTRIES_AIRCRAFT_STRING          = "aircraft_string";
-    public final static String FLIGHTENTRIES_DEPARTURE_AIRPORT_STRING = "departure_airport_string";
-    public final static String FLIGHTENTRIES_LANDING_AIRPORT_STRING   = "landing_airport_string";
-
 
     public final static String AIRPORTS_ID                            = "id";
     public final static String AIRPORTS_ICAO                          = "icao";

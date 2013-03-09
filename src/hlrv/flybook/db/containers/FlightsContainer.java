@@ -16,6 +16,7 @@ import com.vaadin.data.util.IndexedContainer;
 import com.vaadin.data.util.filter.And;
 import com.vaadin.data.util.filter.Compare;
 import com.vaadin.data.util.filter.Compare.Equal;
+import com.vaadin.data.util.sqlcontainer.RowId;
 import com.vaadin.data.util.sqlcontainer.SQLContainer;
 import com.vaadin.data.util.sqlcontainer.connection.JDBCConnectionPool;
 import com.vaadin.data.util.sqlcontainer.query.TableQuery;
@@ -84,6 +85,13 @@ public class FlightsContainer {
      */
     public IndexedContainer getFlightTypesContainer() {
         return flightTypesContainer;
+    }
+
+    public boolean containsItem(Integer flightId) {
+
+        Object[] pkey = { flightId };
+        RowId id = new RowId(pkey);
+        return flightsContainer.getItemUnfiltered(id) != null;
     }
 
     /**
@@ -189,8 +197,13 @@ public class FlightsContainer {
         /**
          * FlightID is special case, it should probably be null, so that when
          * commit is called, database can initialize id with unique value.
+         * 
+         * NOTE: There is annoying "feature" in SQLContainer when source table
+         * has 0 rows. SQLContainer propertyTypes are set to Object, which
+         * causes nullpointer error in SQLContainer row insertion code. For now,
+         * create id manually.
          */
-        // flightItem.setFlightID(null);
+        flightItem.setFlightID(getUniqueIndex());
 
         flightItem.setDate(curTimeSecs);
         flightItem.setUsername(curUser.getUsername());
@@ -200,15 +213,12 @@ public class FlightsContainer {
         // TODO: Could be neat if new item was initialized to users current
         // physical location...
         flightItem.setDepartureAirport(null);
-        // flightItem.setDepartureAirportString("");
         flightItem.setDepartureTime(curTimeSecs);
 
         flightItem.setLandingAirport(null);
-        // flightItem.setLandingAirportString("");
         flightItem.setLandingTime(curTimeSecs);
 
-        // TODO: This is temporary value
-        flightItem.setAircraft("REG123");
+        flightItem.setAircraft(null);
 
         flightItem.setOnBlockTime(0);
         flightItem.setOffBlockTime(0);
@@ -265,25 +275,17 @@ public class FlightsContainer {
             item.getItemProperty(caption).setValue(type.getName());
         }
 
-        // flightTypeContainer
-        // .addItem(new Integer(FlightType.UNDEFINED.ordinal()))
-        // .getItemProperty(caption).setValue("Undefined");
-        //
-        // flightTypeContainer.addItem(new
-        // Integer(FlightType.DOMESTIC.ordinal()))
-        // .getItemProperty(caption).setValue("Domestic");
-        //
-        // flightTypeContainer.addItem(new Integer(FlightType.HOBBY.ordinal()))
-        // .getItemProperty(caption).setValue("Hobby");
-        //
-        // flightTypeContainer
-        // .addItem(new Integer(FlightType.TRANSREGIONAL.ordinal()))
-        // .getItemProperty(caption).setValue("Transregional");
-        //
-        // flightTypeContainer
-        // .addItem(new Integer(FlightType.TRANSCONTINENTAL.ordinal()))
-        // .getItemProperty(caption).setValue("Transcontinental");
-
         return flightTypeContainer;
     }
+
+    private int getUniqueIndex() {
+        int flightId = 1;
+        while (true) {
+            if (!containsItem(flightId)) {
+                return flightId;
+            }
+            ++flightId;
+        }
+    }
+
 }

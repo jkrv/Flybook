@@ -51,12 +51,34 @@ public class Auth {
     }
 
     public void register(User user) throws Exception {
+
+        if (user.getUsername().trim().isEmpty()) {
+            throw new Exception("Username can't be empty.");
+        }
+        if (user.getPassword() == null || user.getPassword().trim().isEmpty()) {
+            throw new Exception("Password can't be empty.");
+        }
+        if (this.manager.userExists(user)) {
+            throw new Exception("Username " + user.getUsername()
+                    + " already exists.");
+        }
         Hash hash = Hash.hash(user.getPassword());
         this.manager.createUser(user, hash);
     }
 
     public void modify(User user) throws Exception {
-        Hash hash = Hash.hash(user.getPassword());
+
+        /**
+         * We modify password only if it has sane value.
+         */
+        Hash hash = null;
+        if (user.getPassword() != null) {
+            String fixedPassword = user.getPassword().trim();
+            if (!fixedPassword.isEmpty()) {
+                hash = Hash.hash(fixedPassword);
+            }
+        }
+
         this.manager.modifyUser(user, hash);
     }
 }

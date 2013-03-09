@@ -24,7 +24,11 @@ public class FlightDetailsPanel extends Panel implements Button.ClickListener {
 
     private FlightsContainer flightsContainer;
 
-    public FlightDetailsPanel() {
+    private FlightsView flightsView;
+
+    public FlightDetailsPanel(FlightsView view) {
+
+        this.flightsView = view;
 
         flightsContainer = SessionContext.getCurrent().getFlightsContainer();
 
@@ -110,6 +114,14 @@ public class FlightDetailsPanel extends Panel implements Button.ClickListener {
                 try {
 
                     flightsContainer.commit();
+
+                    /**
+                     * This a hack to get container update version property
+                     * columns. At least this method works, but there has to be
+                     * better way!
+                     */
+                    flightsView.reselect();
+
                 } catch (SQLException ce) {
 
                     Notification.show("Commit Failed", ce.toString(),

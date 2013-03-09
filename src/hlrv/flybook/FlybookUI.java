@@ -32,9 +32,10 @@ public class FlybookUI extends UI {
 
     public BeanItem<User> getUser() /* throws Exception */{
         // XXX: This is a temporary solution until registration is working
-        User testUser = new User("andven", "Andre", "Venter",
-                "Andre.Venter@mail.com", false);
-        BeanItem<User> user = new BeanItem<User>(testUser);
+        // User testUser = new User("andven", "Andre", "Venter",
+        // "Andre.Venter@mail.com", false);
+        // BeanItem<User> user = new BeanItem<User>(testUser);
+        BeanItem<User> user = null;
         try {
             user = this.authenticator.getCurrentUser();
         } catch (Exception e) {
@@ -50,8 +51,7 @@ public class FlybookUI extends UI {
 
     }
 
-    public Auth getAuth()
-    {
+    public Auth getAuth() {
         return this.authenticator;
     }
 

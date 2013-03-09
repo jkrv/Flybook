@@ -239,6 +239,42 @@ public class AirportsContainer {
     }
 
     /**
+     * Returns Container of unique cities for country. If country is null,
+     * returned container is empty.
+     */
+    public IndexedContainer getCitiesContainer(String country) {
+
+        if (country == null) {
+            return createCitiesContainer(null);
+        }
+
+        if (!cachedCityContainers.containsKey(country)) {
+            cachedCityContainers.put(country, createCitiesContainer(country));
+        }
+
+        return cachedCityContainers.get(country);
+    }
+
+    /**
+     * Returns Container of name for country and city pair. If country or city
+     * is null, returned container is empty.
+     */
+    public IndexedContainer getAirportNamesContainer(String country, String city) {
+
+        if (country == null || city == null) {
+            return createAirportNamesContainer(null, null);
+        }
+
+        String key = country + "-" + city;
+        if (!cachedNameContainers.containsKey(key)) {
+            cachedNameContainers.put(key,
+                    createAirportNamesContainer(country, city));
+        }
+
+        return cachedNameContainers.get(key);
+    }
+
+    /**
      * Add country filter. If null, removes filter.
      */
     public void filterByCountry(String country) {
@@ -268,89 +304,6 @@ public class AirportsContainer {
             filterCity = new Equal(DBConstants.AIRPORTS_CITY, city);
             airportsContainer.addContainerFilter(filterCity);
         }
-    }
-
-    /**
-     * Returns Container of unique cities for country. If country is null,
-     * returned container is empty.
-     */
-    public IndexedContainer createCitiesContainer(String country) {
-
-        IndexedContainer cityContainer = new IndexedContainer();
-        cityContainer.addContainerProperty(DBConstants.AIRPORTS_CITY,
-                String.class, null);
-
-        if (country != null) {
-            //
-            // if (cachedCityContainers.containsKey(country)) {
-            // return cachedCityContainers.get(country);
-            // }
-
-            /**
-             * Fetch all cities from db and insert to ordered set.
-             */
-            TreeSet<String> cities = fetchPropertySet(new Equal(
-                    DBConstants.AIRPORTS_COUNTRY, country),
-                    DBConstants.AIRPORTS_CITY);
-
-            /**
-             * Create container from city set.
-             */
-
-            Iterator<String> it = cities.iterator();
-            while (it.hasNext()) {
-                String city = it.next();
-                Item item = cityContainer.addItem(city);
-                item.getItemProperty(DBConstants.AIRPORTS_CITY).setValue(city);
-            }
-
-            // cachedCityContainers.put(country, cityContainer);
-        }
-
-        return cityContainer;
-    }
-
-    /**
-     * Returns Container of name for country and city pair. If country or city
-     * is null, returned container is empty.
-     */
-    public IndexedContainer createAirportNamesContainer(String country,
-            String city) {
-
-        IndexedContainer container = new IndexedContainer();
-        container.addContainerProperty(DBConstants.AIRPORTS_NAME, String.class,
-                null);
-
-        if (country != null && city != null) {
-
-            // String key = country + "-" + city;
-            //
-            // /**
-            // * Check cache first.
-            // */
-            // if (cachedNameContainers.containsKey(key)) {
-            // return cachedNameContainers.get(key);
-            // }
-
-            /**
-             * Fetch all airport names and insert to ordered set.
-             */
-            TreeSet<String> airports = fetchPropertySet(new And(new Equal(
-                    DBConstants.AIRPORTS_COUNTRY, country), new Equal(
-                    DBConstants.AIRPORTS_CITY, city)),
-                    DBConstants.AIRPORTS_NAME);
-
-            Iterator<String> it = airports.iterator();
-            while (it.hasNext()) {
-                String name = it.next();
-                Item item = container.addItem(name);
-                item.getItemProperty(DBConstants.AIRPORTS_NAME).setValue(name);
-            }
-
-            // cachedNameContainers.put(key, container);
-        }
-
-        return container;
     }
 
     /**
@@ -427,6 +380,68 @@ public class AirportsContainer {
         }
 
         return countriesContainer;
+    }
+
+    /**
+     * Returns Container of unique cities for country. If country is null,
+     * returned container is empty.
+     */
+    private IndexedContainer createCitiesContainer(String country) {
+
+        IndexedContainer cityContainer = new IndexedContainer();
+        cityContainer.addContainerProperty(DBConstants.AIRPORTS_CITY,
+                String.class, null);
+
+        if (country != null) {
+
+            /**
+             * Fetch all cities from db and insert to ordered set.
+             */
+            TreeSet<String> cities = fetchPropertySet(new Equal(
+                    DBConstants.AIRPORTS_COUNTRY, country),
+                    DBConstants.AIRPORTS_CITY);
+
+            /**
+             * Create container from city set.
+             */
+
+            Iterator<String> it = cities.iterator();
+            while (it.hasNext()) {
+                String city = it.next();
+                Item item = cityContainer.addItem(city);
+                item.getItemProperty(DBConstants.AIRPORTS_CITY).setValue(city);
+            }
+        }
+
+        return cityContainer;
+    }
+
+    private IndexedContainer createAirportNamesContainer(String country,
+            String city) {
+
+        IndexedContainer container = new IndexedContainer();
+        container.addContainerProperty(DBConstants.AIRPORTS_NAME, String.class,
+                null);
+
+        if (country != null && city != null) {
+
+            /**
+             * Fetch all airport names and insert to ordered set.
+             */
+            TreeSet<String> airports = fetchPropertySet(new And(new Equal(
+                    DBConstants.AIRPORTS_COUNTRY, country), new Equal(
+                    DBConstants.AIRPORTS_CITY, city)),
+                    DBConstants.AIRPORTS_NAME);
+
+            Iterator<String> it = airports.iterator();
+            while (it.hasNext()) {
+                String name = it.next();
+                Item item = container.addItem(name);
+                item.getItemProperty(DBConstants.AIRPORTS_NAME).setValue(name);
+            }
+        }
+
+        return container;
     }
 
     /**

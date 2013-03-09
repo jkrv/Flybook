@@ -2,6 +2,7 @@ package hlrv.flybook;
 
 import hlrv.flybook.auth.Auth;
 import hlrv.flybook.auth.User;
+import hlrv.flybook.db.DBConstants;
 
 import java.sql.SQLException;
 
@@ -13,6 +14,7 @@ import com.vaadin.ui.Button.ClickEvent;
 import com.vaadin.ui.Button.ClickListener;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
+import com.vaadin.ui.PasswordField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.Window;
@@ -45,6 +47,8 @@ public class UserInformationView extends Window {
 
             try {
 
+                fields.commit();
+
                 if (registerBoolean == true) {
 
                     /*
@@ -56,6 +60,8 @@ public class UserInformationView extends Window {
                         auth.register(((BeanItem<User>) fields
                                 .getItemDataSource()).getBean());
 
+                        close();
+
                         /*
                          * Notify user of registration
                          */
@@ -64,20 +70,12 @@ public class UserInformationView extends Window {
                                         .getBean().getUsername()
                                 + " registered.");
                     } catch (Exception e) {
-                        /*
-                         * Notify user of registration
-                         */
-                        Notification.show(
-                                "User "
-                                        + ((BeanItem<User>) fields
-                                                .getItemDataSource()).getBean()
-                                                .getUsername()
-                                        + " registration failed.", e
-                                        .getMessage(),
+
+                        Notification.show("User registration failed.",
+                                e.getMessage(),
                                 Notification.TYPE_WARNING_MESSAGE);
                     }
 
-                    close();
                 } else {
 
                     auth.modify(((BeanItem<User>) fields.getItemDataSource())
@@ -111,7 +109,7 @@ public class UserInformationView extends Window {
     /*
      * Data of the editable user
      */
-    private final User user;
+    // private final User user;
 
     /*
      * Layout for the form
@@ -148,8 +146,18 @@ public class UserInformationView extends Window {
         /*
          * Instantiate
          */
-        this.user = new User("", "", "", "", false);
-        user.setPassword("");
+
+        if (registerBoolean) {
+            User user = new User("", "", "", "", false);
+            /*
+             * Wrap person-pojo in BeanItem
+             */
+            item = new BeanItem<User>(user);
+
+        } else {
+            item = ((FlybookUI) UI.getCurrent()).getUser();
+        }
+
         this.layout = new VerticalLayout();
         this.fields = new BeanFieldGroup<User>(User.class);
         this.save = new Button("Save");
@@ -163,15 +171,10 @@ public class UserInformationView extends Window {
         layout.setMargin(true);
 
         /*
-         * Wrap person-pojo in BeanItem
-         */
-        item = new BeanItem<User>(user);
-
-        /*
          * Set BeanItem as a data source
          */
         fields.setItemDataSource(item);
-        fields.setBuffered(false);
+        fields.setBuffered(true);
 
         /*
          * Display username if modify form
@@ -187,9 +190,18 @@ public class UserInformationView extends Window {
             /*
              * We do not want show the admin field in the registration form.
              */
-            if (!propertyID.toString().equals("admin")) {
+
+            if (propertyID.toString().equals(DBConstants.USERS_ADMIN)) {
+                continue;
+            } else if (propertyID.toString().equals(DBConstants.USERS_PASSWORD)) {
+
+                PasswordField pwField = new PasswordField("Password");
+                fields.bind(pwField, DBConstants.USERS_PASSWORD);
+                layout.addComponent(pwField);
+            } else {
                 if (registerBoolean == false) {
-                    if (!propertyID.toString().equals("username")) {
+                    if (!propertyID.toString().equals(
+                            DBConstants.USERS_USERNAME)) {
                         /*
                          * Add a components to form
                          */

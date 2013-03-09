@@ -2,6 +2,7 @@ package hlrv.flybook.managers;
 
 import hlrv.flybook.auth.Hash;
 import hlrv.flybook.auth.User;
+import hlrv.flybook.db.DBConstants;
 
 import java.sql.SQLException;
 
@@ -50,30 +51,31 @@ public class UserManager {
         return (String) item.getItemProperty("password").getValue();
     }
 
-    public void createUser(User user, Hash password) throws Exception {
-
-        boolean userExists = false;
-
+    public boolean userExists(User user) {
         try {
-            if (getItemFromUsername(user.getUsername()) != null) {
-                userExists = true;
-            }
+            Item NA = getItemFromUsername(user.getUsername());
         } catch (Exception e) {
-            userExists = false;
+            return false;
         }
+        return true;
+    }
 
-        if (userExists) {
-            throw new Exception("User already exists");
-        }
+    public void createUser(User user, Hash password) throws Exception {
 
         Object itemId = this.container.addItem();
         Item newUser = this.container.getItem(itemId);
-        newUser.getItemProperty("username").setValue(user.getUsername());
-        newUser.getItemProperty("firstname").setValue(user.getFirstname());
-        newUser.getItemProperty("lastname").setValue(user.getLastname());
-        newUser.getItemProperty("email").setValue(user.getEmail());
-        newUser.getItemProperty("password").setValue(password.raw());
-        newUser.getItemProperty("admin").setValue(new Integer(0));
+        newUser.getItemProperty(DBConstants.USERS_USERNAME).setValue(
+                user.getUsername());
+        newUser.getItemProperty(DBConstants.USERS_FIRSTNAME).setValue(
+                user.getFirstname());
+        newUser.getItemProperty(DBConstants.USERS_LASTNAME).setValue(
+                user.getLastname());
+        newUser.getItemProperty(DBConstants.USERS_EMAIL).setValue(
+                user.getEmail());
+        newUser.getItemProperty(DBConstants.USERS_PASSWORD).setValue(
+                password.raw());
+        newUser.getItemProperty(DBConstants.USERS_ADMIN).setValue(
+                new Integer(0));
 
         try {
             /*
@@ -111,22 +113,30 @@ public class UserManager {
         return tq.getCount() == 0;
     }
 
-    public void modifyUser(User user) throws Exception {
-        Item item = this.getItemFromUsername(user.getUsername());
-        item.getItemProperty("username").setValue(user.getUsername());
-        item.getItemProperty("firstname").setValue(user.getUsername());
-        item.getItemProperty("lastname").setValue(user.getUsername());
-        item.getItemProperty("email").setValue(user.getUsername());
-        this.container.commit();
-    }
+    // public void modifyUser(User user) throws Exception {
+    // Item item = this.getItemFromUsername(user.getUsername());
+    // item.getItemProperty("username").setValue(user.getUsername());
+    // item.getItemProperty("firstname").setValue(user.getUsername());
+    // item.getItemProperty("lastname").setValue(user.getUsername());
+    // item.getItemProperty("email").setValue(user.getUsername());
+    // this.container.commit();
+    // }
 
     public void modifyUser(User user, Hash hash) throws Exception {
         Item item = this.getItemFromUsername(user.getUsername());
-        item.getItemProperty("username").setValue(user.getUsername());
-        item.getItemProperty("firstname").setValue(user.getUsername());
-        item.getItemProperty("lastname").setValue(user.getUsername());
-        item.getItemProperty("email").setValue(user.getUsername());
-        item.getItemProperty("password").setValue(user.getUsername());
+        item.getItemProperty(DBConstants.USERS_USERNAME).setValue(
+                user.getUsername());
+        item.getItemProperty(DBConstants.USERS_FIRSTNAME).setValue(
+                user.getFirstname());
+        item.getItemProperty(DBConstants.USERS_LASTNAME).setValue(
+                user.getLastname());
+        item.getItemProperty(DBConstants.USERS_EMAIL).setValue(user.getEmail());
+        if (hash != null) {
+            item.getItemProperty(DBConstants.USERS_PASSWORD).setValue(
+                    hash.raw());
+        }
+        // item.getItemProperty(DBConstants.USERS_ADMIN).setValue(
+        // user.isAdmin() ? 1 : 0);
         this.container.commit();
     }
 

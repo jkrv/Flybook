@@ -5,7 +5,7 @@ public class User {
     private String email;
     private String firstname;
     private String lastname;
-    private String password;
+    private String password = "";
     private boolean admin;
 
     public User(String username, String firstname, String lastname,
@@ -69,11 +69,11 @@ public class User {
      * TODO: toString method for debugging; remove before going live
      */
 
-    @Override
-    public String toString() {
-        return "password: " + this.password + " username:" + this.username
-                + " first name: " + this.firstname + " lastname : "
-                + this.lastname + " email: " + this.email + " is admin: "
-                + this.admin;
-    }
+    // @Override
+    // public String toString() {
+    // return "password: " + this.password + " username:" + this.username
+    // + " first name: " + this.firstname + " lastname : "
+    // + this.lastname + " email: " + this.email + " is admin: "
+    // + this.admin;
+    // }
 }

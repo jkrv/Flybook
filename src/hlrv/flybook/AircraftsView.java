@@ -33,8 +33,8 @@ import com.vaadin.ui.TextField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
-/*
- * UI class for handling Aircraft information.
+/**
+ * AircraftsView is UI component for handling Aircraft information.
  */
 @SuppressWarnings("serial")
 @Title("FLYBOOK - AIRCRAFTS")
@@ -50,10 +50,6 @@ public class AircraftsView extends CustomComponent implements
     private FormLayout editorLayout = new FormLayout();
     private FieldGroup editorFields = new FieldGroup();
 
-    // private static final String REGISTER = "Aircraft registration";
-    // private static final String MAKEMODEL = "Make and model";
-    // private static final String OWNER = "Owner";
-
     private static final String[] visibleColumns = new String[] {
             DBConstants.AIRCRAFTS_REGISTER, DBConstants.AIRCRAFTS_MAKE_MODEL,
             DBConstants.AIRCRAFTS_ENGINE_COUNT, DBConstants.AIRCRAFTS_CAPACITY,
@@ -65,20 +61,11 @@ public class AircraftsView extends CustomComponent implements
             "Number of passangers", "Maximum Weight", "Year of construction",
             "Owner", "Address" };
 
-    // private static final String[] visibleColumns = new String[] {
-    // DBConstants.AIRCRAFTS_REGISTER, DBConstants.AIRCRAFTS_MAKE_MODEL,
-    // DBConstants.AIRCRAFTS_OWNER };
-
     /**
      * Table columns that are initially collapsed.
      */
     private String[] initialCollapsedColumns = { DBConstants.AIRCRAFTS_YEAR,
             DBConstants.AIRCRAFTS_OWNER, DBConstants.AIRCRAFTS_ADDRESS };
-
-    // /*
-    // * Dummy test data container.
-    // */
-    // IndexedContainer aircraftContainer = createDummyDatasource();
 
     /**
      * Reference to aircrafts SQL Container.
@@ -251,9 +238,6 @@ public class AircraftsView extends CustomComponent implements
 
                 /* Reset the filter for the aircraftContainer. */
                 aircraftContainer.filterBy(new AircraftFilter(event.getText()));
-                // aircraftContainer.removeAllContainerFilters();
-                // aircraftContainer.addContainerFilter(new AircraftFilter(event
-                // .getText()));
             }
         });
     }
@@ -270,9 +254,6 @@ public class AircraftsView extends CustomComponent implements
         }
 
         public boolean passesFilter(Object itemId, Item item) {
-            // String haystack = ("" + item.getItemProperty(REGISTER).getValue()
-            // + item.getItemProperty(MAKEMODEL).getValue() + item
-            // .getItemProperty(OWNER).getValue()).toLowerCase();
             String haystack = (""
                     + item.getItemProperty(DBConstants.AIRCRAFTS_REGISTER)
                             .getValue()
